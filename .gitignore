@@ -21,3 +21,6 @@ Thumbs.db
 
 # Raw project datasets
 data/raw/
+
+# Intermediate datasets
+data/interim/
