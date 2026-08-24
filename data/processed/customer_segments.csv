@@ -1,0 +1,3813 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Segment
+12346,326,1,77183.6,1,Regular Customers
+12747,2,9,3489.7400000000002,3,High-Value Customers
+12748,1,175,28868.19,3,High-Value Customers
+12749,4,5,4090.88,3,High-Value Customers
+12820,3,4,942.34,2,Recent / Developing
+12821,214,1,92.72,0,Dormant / Low-Value
+12822,71,2,948.88,1,Regular Customers
+12823,75,5,1759.5,1,Regular Customers
+12824,60,1,397.12,0,Dormant / Low-Value
+12826,3,6,1319.72,3,High-Value Customers
+12827,6,3,430.15,2,Recent / Developing
+12828,3,6,1018.71,3,High-Value Customers
+12829,337,1,207.25,0,Dormant / Low-Value
+12830,38,6,6814.64,1,Regular Customers
+12831,262,1,215.05,0,Dormant / Low-Value
+12832,32,2,383.03000000000003,2,Recent / Developing
+12833,145,1,417.38,0,Dormant / Low-Value
+12834,283,1,312.38,0,Dormant / Low-Value
+12836,59,4,2610.36,1,Regular Customers
+12837,173,1,134.1,0,Dormant / Low-Value
+12838,34,1,281.16,2,Recent / Developing
+12839,3,12,4853.97,3,High-Value Customers
+12840,144,4,2726.77,1,Regular Customers
+12841,5,23,3485.59,3,High-Value Customers
+12842,70,2,1118.99,1,Regular Customers
+12843,66,8,1702.26,1,Regular Customers
+12844,29,2,325.96000000000004,2,Recent / Developing
+12845,267,4,354.09000000000003,0,Dormant / Low-Value
+12847,22,1,843.64,2,Recent / Developing
+12849,31,2,1010.29,1,Regular Customers
+12851,97,1,131.81,0,Dormant / Low-Value
+12852,295,1,311.55,0,Dormant / Low-Value
+12853,135,6,1957.1000000000001,1,Regular Customers
+12854,79,3,1316.25,1,Regular Customers
+12856,8,6,2170.78,3,High-Value Customers
+12857,211,2,1106.4,0,Dormant / Low-Value
+12863,52,1,521.2,0,Dormant / Low-Value
+12864,138,1,147.12,0,Dormant / Low-Value
+12867,26,6,3646.55,1,Regular Customers
+12868,186,5,1403.76,1,Regular Customers
+12871,84,2,380.64,0,Dormant / Low-Value
+12872,327,1,221.44,0,Dormant / Low-Value
+12873,282,1,374.0,0,Dormant / Low-Value
+12875,143,1,49.470000000000006,0,Dormant / Low-Value
+12877,4,11,1385.71,3,High-Value Customers
+12878,236,2,854.99,0,Dormant / Low-Value
+12879,45,3,573.22,1,Regular Customers
+12881,276,1,298.0,0,Dormant / Low-Value
+12882,9,2,1463.04,2,Recent / Developing
+12883,25,4,703.47,1,Regular Customers
+12884,88,1,309.05,0,Dormant / Low-Value
+12885,63,3,1175.22,1,Regular Customers
+12886,68,2,1378.4,1,Regular Customers
+12888,214,2,354.12,0,Dormant / Low-Value
+12890,24,1,376.71999999999997,2,Recent / Developing
+12891,186,3,331.0,0,Dormant / Low-Value
+12893,31,1,176.55,2,Recent / Developing
+12895,42,2,372.8,2,Recent / Developing
+12897,205,2,216.5,0,Dormant / Low-Value
+12901,9,28,17654.54,3,High-Value Customers
+12902,265,1,138.68,0,Dormant / Low-Value
+12904,18,2,496.06,2,Recent / Developing
+12906,12,5,2919.81,3,High-Value Customers
+12908,176,2,750.0,0,Dormant / Low-Value
+12909,40,5,2178.67,1,Regular Customers
+12910,23,8,3075.04,3,High-Value Customers
+12912,3,5,1662.3,3,High-Value Customers
+12913,5,4,2066.01,3,High-Value Customers
+12915,149,1,164.0,0,Dormant / Low-Value
+12916,139,4,2944.95,1,Regular Customers
+12917,128,1,594.0,0,Dormant / Low-Value
+12919,8,6,1335.19,3,High-Value Customers
+12920,17,1,162.78,2,Recent / Developing
+12921,9,35,15899.29,3,High-Value Customers
+12922,161,1,405.38,0,Dormant / Low-Value
+12923,64,1,172.82,0,Dormant / Low-Value
+12924,88,4,933.7,1,Regular Customers
+12925,5,2,694.05,2,Recent / Developing
+12928,35,4,1670.3600000000001,1,Regular Customers
+12929,312,1,117.85,0,Dormant / Low-Value
+12930,78,2,415.8,0,Dormant / Low-Value
+12931,22,13,41878.96,3,High-Value Customers
+12933,24,3,607.53,2,Recent / Developing
+12935,2,7,2160.7,3,High-Value Customers
+12936,17,4,1063.9,1,Regular Customers
+12937,15,4,1504.27,1,Regular Customers
+12938,26,1,114.14,2,Recent / Developing
+12939,64,8,11581.8,3,High-Value Customers
+12940,55,2,899.69,1,Regular Customers
+12942,131,2,416.85,0,Dormant / Low-Value
+12944,36,1,317.56,2,Recent / Developing
+12945,288,1,462.95,0,Dormant / Low-Value
+12947,144,5,1299.95,1,Regular Customers
+12948,16,7,2064.95,3,High-Value Customers
+12949,31,8,4167.22,3,High-Value Customers
+12950,2,3,1843.0,3,High-Value Customers
+12951,9,6,1064.07,3,High-Value Customers
+12952,6,4,1387.79,1,Regular Customers
+12953,10,1,329.85,2,Recent / Developing
+12955,1,11,4757.16,3,High-Value Customers
+12956,306,1,108.07,0,Dormant / Low-Value
+12957,10,8,4017.54,3,High-Value Customers
+12962,7,2,266.39,2,Recent / Developing
+12963,8,7,1490.83,3,High-Value Customers
+12965,89,1,769.8100000000001,0,Dormant / Low-Value
+12966,10,1,160.18,2,Recent / Developing
+12968,112,1,135.95,0,Dormant / Low-Value
+12970,7,4,405.47,2,Recent / Developing
+12971,4,81,10753.72,3,High-Value Customers
+12974,198,1,144.8,0,Dormant / Low-Value
+12976,212,1,738.6,0,Dormant / Low-Value
+12977,156,1,39.239999999999995,0,Dormant / Low-Value
+12980,158,8,6485.58,1,Regular Customers
+12981,30,2,372.21999999999997,2,Recent / Developing
+12982,243,1,390.54,0,Dormant / Low-Value
+12984,19,1,97.5,2,Recent / Developing
+12985,1,2,1239.38,2,Recent / Developing
+12987,74,2,558.7,0,Dormant / Low-Value
+12988,292,1,505.82,0,Dormant / Low-Value
+12989,3,14,6721.61,3,High-Value Customers
+12990,31,3,409.5,2,Recent / Developing
+12991,23,2,503.76,2,Recent / Developing
+12993,23,4,414.76,2,Recent / Developing
+12994,4,3,974.42,2,Recent / Developing
+12995,85,1,211.32,0,Dormant / Low-Value
+12997,22,4,1226.89,1,Regular Customers
+12999,196,3,455.88,0,Dormant / Low-Value
+13000,107,2,333.1,0,Dormant / Low-Value
+13001,4,13,9785.970000000001,3,High-Value Customers
+13002,318,1,120.95,0,Dormant / Low-Value
+13003,106,3,149.05,0,Dormant / Low-Value
+13004,12,17,5298.9,3,High-Value Customers
+13005,174,2,513.7,0,Dormant / Low-Value
+13006,56,1,81.57,0,Dormant / Low-Value
+13008,323,1,229.47,0,Dormant / Low-Value
+13012,9,8,1646.8400000000001,3,High-Value Customers
+13013,1,11,3282.6,3,High-Value Customers
+13014,11,10,3466.28,3,High-Value Customers
+13015,53,5,3339.64,1,Regular Customers
+13016,73,3,789.89,1,Regular Customers
+13017,7,1,204.0,2,Recent / Developing
+13018,16,28,7277.7,3,High-Value Customers
+13021,4,8,2459.03,3,High-Value Customers
+13023,64,2,689.9,1,Regular Customers
+13026,1,5,975.36,3,High-Value Customers
+13027,114,5,5472.0,1,Regular Customers
+13028,23,2,661.3199999999999,2,Recent / Developing
+13029,31,2,865.0,1,Regular Customers
+13030,11,1,350.08,2,Recent / Developing
+13032,52,2,1010.1800000000001,1,Regular Customers
+13034,55,1,476.91,0,Dormant / Low-Value
+13035,74,2,921.88,1,Regular Customers
+13037,138,3,881.07,1,Regular Customers
+13038,80,3,908.46,1,Regular Customers
+13040,9,2,676.99,2,Recent / Developing
+13043,273,1,516.42,0,Dormant / Low-Value
+13044,291,1,560.47,0,Dormant / Low-Value
+13045,99,1,305.28000000000003,0,Dormant / Low-Value
+13046,31,2,629.31,2,Recent / Developing
+13047,32,7,2870.91,1,Regular Customers
+13048,14,4,1819.41,1,Regular Customers
+13049,64,2,656.6800000000001,1,Regular Customers
+13050,15,13,4636.99,3,High-Value Customers
+13052,212,1,348.15000000000003,0,Dormant / Low-Value
+13055,78,3,1214.41,1,Regular Customers
+13058,25,3,271.40000000000003,2,Recent / Developing
+13059,250,1,183.4,0,Dormant / Low-Value
+13060,254,1,307.53000000000003,0,Dormant / Low-Value
+13061,72,1,248.61,0,Dormant / Low-Value
+13062,191,1,346.98,0,Dormant / Low-Value
+13064,13,4,1105.59,1,Regular Customers
+13066,24,2,470.8,2,Recent / Developing
+13067,82,1,115.46000000000001,0,Dormant / Low-Value
+13068,10,2,344.0,2,Recent / Developing
+13069,1,20,3787.32,3,High-Value Customers
+13070,192,1,228.8,0,Dormant / Low-Value
+13072,267,1,177.15,0,Dormant / Low-Value
+13075,130,1,919.61,0,Dormant / Low-Value
+13077,1,3,414.3,2,Recent / Developing
+13078,3,24,11746.78,3,High-Value Customers
+13079,4,5,220.10000000000002,2,Recent / Developing
+13080,179,1,58.08,0,Dormant / Low-Value
+13081,12,9,25970.6,3,High-Value Customers
+13082,126,9,3613.63,1,Regular Customers
+13083,4,2,303.75,2,Recent / Developing
+13085,158,2,416.08,0,Dormant / Low-Value
+13089,3,89,52808.87,3,High-Value Customers
+13090,9,11,7902.42,3,High-Value Customers
+13091,28,1,345.82,2,Recent / Developing
+13092,71,4,292.38,1,Regular Customers
+13093,276,5,4036.96,1,Regular Customers
+13094,21,11,1703.64,3,High-Value Customers
+13095,71,1,74.39999999999999,0,Dormant / Low-Value
+13097,33,9,5698.32,3,High-Value Customers
+13098,1,28,28882.44,3,High-Value Customers
+13099,99,1,207.36,0,Dormant / Low-Value
+13101,234,1,101.19,0,Dormant / Low-Value
+13102,1,22,5750.17,3,High-Value Customers
+13103,40,1,243.94,2,Recent / Developing
+13104,3,5,996.72,3,High-Value Customers
+13106,133,1,76.5,0,Dormant / Low-Value
+13107,44,4,1531.6200000000001,1,Regular Customers
+13109,60,2,786.54,1,Regular Customers
+13110,31,7,1488.67,1,Regular Customers
+13113,1,23,11872.99,3,High-Value Customers
+13115,12,4,2294.78,1,Regular Customers
+13116,138,1,501.14,0,Dormant / Low-Value
+13117,22,6,596.76,1,Regular Customers
+13118,20,5,1197.81,1,Regular Customers
+13120,239,1,30.6,0,Dormant / Low-Value
+13121,269,1,283.73,0,Dormant / Low-Value
+13122,94,2,922.39,1,Regular Customers
+13124,90,2,2500.01,1,Regular Customers
+13126,5,6,1876.2,3,High-Value Customers
+13127,78,1,259.17,0,Dormant / Low-Value
+13130,94,1,64.0,0,Dormant / Low-Value
+13131,23,3,1073.3,1,Regular Customers
+13132,262,1,77.3,0,Dormant / Low-Value
+13133,274,2,109.8,0,Dormant / Low-Value
+13134,86,4,1793.58,1,Regular Customers
+13135,197,1,3096.0,1,Regular Customers
+13136,56,5,2607.61,1,Regular Customers
+13137,11,8,3603.29,3,High-Value Customers
+13138,22,5,769.16,1,Regular Customers
+13139,16,7,5064.9400000000005,3,High-Value Customers
+13140,108,2,264.21,0,Dormant / Low-Value
+13141,85,5,2388.75,1,Regular Customers
+13142,19,1,307.09000000000003,2,Recent / Developing
+13144,333,1,110.95,0,Dormant / Low-Value
+13145,40,3,323.52,2,Recent / Developing
+13146,26,1,228.91,2,Recent / Developing
+13147,10,4,712.8,2,Recent / Developing
+13148,29,11,3373.86,3,High-Value Customers
+13149,14,4,1676.06,1,Regular Customers
+13151,296,1,1257.8700000000001,0,Dormant / Low-Value
+13153,6,1,486.22,2,Recent / Developing
+13155,33,3,592.06,1,Regular Customers
+13157,49,4,1741.22,1,Regular Customers
+13158,95,4,1201.06,1,Regular Customers
+13159,9,4,1429.35,1,Regular Customers
+13160,22,1,91.8,2,Recent / Developing
+13161,313,1,112.75,0,Dormant / Low-Value
+13162,122,4,1688.29,1,Regular Customers
+13165,46,1,666.8399999999999,2,Recent / Developing
+13166,283,1,417.2,0,Dormant / Low-Value
+13167,19,4,791.33,1,Regular Customers
+13168,36,4,1299.59,1,Regular Customers
+13169,64,2,712.88,1,Regular Customers
+13170,27,1,108.81,2,Recent / Developing
+13171,22,3,468.41,2,Recent / Developing
+13173,4,1,187.71,2,Recent / Developing
+13174,16,2,1373.76,1,Regular Customers
+13176,46,1,481.49,2,Recent / Developing
+13177,65,1,282.45,0,Dormant / Low-Value
+13178,26,10,5015.47,3,High-Value Customers
+13182,45,1,121.18,0,Dormant / Low-Value
+13183,8,9,3957.78,3,High-Value Customers
+13184,15,10,1668.95,3,High-Value Customers
+13185,268,1,71.4,0,Dormant / Low-Value
+13186,40,3,1575.89,1,Regular Customers
+13187,337,1,236.02,0,Dormant / Low-Value
+13188,11,1,114.6,2,Recent / Developing
+13189,19,2,260.68,2,Recent / Developing
+13192,95,2,911.94,1,Regular Customers
+13193,61,1,112.08,0,Dormant / Low-Value
+13194,136,1,60.7,0,Dormant / Low-Value
+13196,11,4,1797.78,1,Regular Customers
+13198,10,5,3016.69,3,High-Value Customers
+13199,4,36,9105.32,3,High-Value Customers
+13200,19,4,870.09,1,Regular Customers
+13203,10,4,869.46,1,Regular Customers
+13207,15,2,250.26000000000002,2,Recent / Developing
+13208,59,6,1217.65,1,Regular Customers
+13209,30,7,5572.76,3,High-Value Customers
+13210,94,1,353.48,0,Dormant / Low-Value
+13211,10,2,984.72,2,Recent / Developing
+13212,20,3,786.83,1,Regular Customers
+13213,57,5,1520.58,1,Regular Customers
+13216,268,1,333.74,0,Dormant / Low-Value
+13217,122,3,533.98,0,Dormant / Low-Value
+13218,127,1,62.64,0,Dormant / Low-Value
+13220,78,4,819.2900000000001,1,Regular Customers
+13221,240,1,349.25,0,Dormant / Low-Value
+13223,200,2,163.2,0,Dormant / Low-Value
+13224,60,2,2155.95,1,Regular Customers
+13225,3,6,5257.12,3,High-Value Customers
+13226,273,1,108.21000000000001,0,Dormant / Low-Value
+13227,202,1,257.7,0,Dormant / Low-Value
+13228,81,1,358.0,0,Dormant / Low-Value
+13229,226,1,160.95,0,Dormant / Low-Value
+13230,4,13,2662.18,3,High-Value Customers
+13232,13,7,1328.35,3,High-Value Customers
+13233,74,2,605.12,0,Dormant / Low-Value
+13235,212,1,1031.07,0,Dormant / Low-Value
+13236,24,2,744.85,2,Recent / Developing
+13238,17,3,609.58,2,Recent / Developing
+13239,262,1,329.56,0,Dormant / Low-Value
+13240,96,3,439.58,0,Dormant / Low-Value
+13242,112,3,270.40000000000003,0,Dormant / Low-Value
+13243,203,1,585.12,0,Dormant / Low-Value
+13244,93,1,121.74000000000001,0,Dormant / Low-Value
+13245,51,1,430.5,0,Dormant / Low-Value
+13246,18,6,1961.52,1,Regular Customers
+13247,18,4,501.12,2,Recent / Developing
+13248,125,2,465.68,0,Dormant / Low-Value
+13249,92,3,711.41,1,Regular Customers
+13253,157,2,1030.4,1,Regular Customers
+13255,9,1,173.81,2,Recent / Developing
+13258,12,3,672.83,2,Recent / Developing
+13259,62,1,283.18,0,Dormant / Low-Value
+13260,61,1,557.62,0,Dormant / Low-Value
+13261,269,2,944.1,0,Dormant / Low-Value
+13262,263,1,200.29,0,Dormant / Low-Value
+13263,1,35,7436.93,3,High-Value Customers
+13265,53,5,2092.66,1,Regular Customers
+13266,11,12,3834.2599999999998,3,High-Value Customers
+13267,3,17,3899.19,3,High-Value Customers
+13268,18,11,3174.75,3,High-Value Customers
+13269,1,13,4681.11,3,High-Value Customers
+13271,37,1,211.49,2,Recent / Developing
+13272,31,2,276.56,2,Recent / Developing
+13273,113,1,138.98,0,Dormant / Low-Value
+13276,64,2,590.9300000000001,1,Regular Customers
+13277,16,4,258.4,2,Recent / Developing
+13278,41,1,542.73,2,Recent / Developing
+13279,78,1,137.75,0,Dormant / Low-Value
+13280,122,3,798.46,1,Regular Customers
+13282,18,3,1132.14,1,Regular Customers
+13283,60,2,93.66,0,Dormant / Low-Value
+13284,331,1,201.19,0,Dormant / Low-Value
+13285,23,4,2709.12,1,Regular Customers
+13291,156,1,361.11,0,Dormant / Low-Value
+13292,39,2,578.94,2,Recent / Developing
+13294,190,2,873.74,0,Dormant / Low-Value
+13296,137,1,87.4,0,Dormant / Low-Value
+13297,8,4,2089.85,1,Regular Customers
+13298,1,1,360.0,2,Recent / Developing
+13299,268,1,142.5,0,Dormant / Low-Value
+13300,169,1,371.89,0,Dormant / Low-Value
+13301,104,4,618.09,1,Regular Customers
+13302,155,1,63.75,0,Dormant / Low-Value
+13305,4,9,1864.66,3,High-Value Customers
+13307,120,1,15.0,0,Dormant / Low-Value
+13308,23,3,1385.51,1,Regular Customers
+13309,7,5,1456.79,3,High-Value Customers
+13310,28,3,1132.03,1,Regular Customers
+13311,4,2,598.57,2,Recent / Developing
+13313,22,5,1555.3200000000002,1,Regular Customers
+13314,2,3,775.94,2,Recent / Developing
+13316,37,4,5732.93,1,Regular Customers
+13317,66,4,2035.63,1,Regular Customers
+13318,1,3,640.76,2,Recent / Developing
+13319,5,22,9294.47,3,High-Value Customers
+13320,78,4,1532.2,1,Regular Customers
+13321,72,2,567.36,0,Dormant / Low-Value
+13322,17,1,199.48000000000002,2,Recent / Developing
+13323,3,5,787.85,3,High-Value Customers
+13324,36,9,6471.85,3,High-Value Customers
+13325,82,1,675.3,0,Dormant / Low-Value
+13327,39,6,2882.77,1,Regular Customers
+13328,316,1,1308.48,0,Dormant / Low-Value
+13329,32,1,484.79999999999995,2,Recent / Developing
+13330,93,3,1140.93,1,Regular Customers
+13332,14,1,350.90000000000003,2,Recent / Developing
+13334,82,3,3502.32,1,Regular Customers
+13336,77,1,795.12,0,Dormant / Low-Value
+13338,158,1,487.02,0,Dormant / Low-Value
+13339,201,1,860.12,0,Dormant / Low-Value
+13340,45,7,10736.48,3,High-Value Customers
+13341,261,1,775.85,0,Dormant / Low-Value
+13343,178,1,353.43,0,Dormant / Low-Value
+13344,68,3,2511.69,1,Regular Customers
+13345,288,1,389.5,0,Dormant / Low-Value
+13347,70,1,341.36,0,Dormant / Low-Value
+13348,64,1,233.76000000000002,0,Dormant / Low-Value
+13349,11,1,247.32,2,Recent / Developing
+13350,16,2,979.12,2,Recent / Developing
+13351,66,1,373.94,0,Dormant / Low-Value
+13352,60,1,397.98,0,Dormant / Low-Value
+13354,71,1,743.53,0,Dormant / Low-Value
+13355,122,1,674.7,0,Dormant / Low-Value
+13356,80,1,768.24,0,Dormant / Low-Value
+13357,257,1,609.4,0,Dormant / Low-Value
+13358,269,1,439.03000000000003,0,Dormant / Low-Value
+13359,64,1,439.56,0,Dormant / Low-Value
+13362,9,4,3090.7400000000002,3,High-Value Customers
+13363,18,2,992.5,2,Recent / Developing
+13364,71,1,134.96,0,Dormant / Low-Value
+13365,34,2,2225.37,1,Regular Customers
+13366,50,1,56.16,0,Dormant / Low-Value
+13368,257,2,623.4,0,Dormant / Low-Value
+13372,90,1,378.64,0,Dormant / Low-Value
+13373,61,3,3312.25,1,Regular Customers
+13375,89,1,778.65,0,Dormant / Low-Value
+13376,99,3,1019.76,1,Regular Customers
+13379,26,3,572.56,2,Recent / Developing
+13381,32,6,3639.31,1,Regular Customers
+13382,281,1,222.99,0,Dormant / Low-Value
+13384,31,7,4151.93,3,High-Value Customers
+13385,330,1,534.57,0,Dormant / Low-Value
+13388,131,2,677.1,0,Dormant / Low-Value
+13389,11,3,797.96,2,Recent / Developing
+13390,75,1,544.08,0,Dormant / Low-Value
+13391,204,1,59.8,0,Dormant / Low-Value
+13394,2,8,2520.02,3,High-Value Customers
+13395,185,1,307.72,0,Dormant / Low-Value
+13396,29,2,1360.99,1,Regular Customers
+13397,73,5,1544.13,1,Regular Customers
+13398,192,1,457.34000000000003,0,Dormant / Low-Value
+13402,127,1,312.95,0,Dormant / Low-Value
+13403,18,1,75.0,2,Recent / Developing
+13404,1,2,252.49,2,Recent / Developing
+13405,74,3,572.451,1,Regular Customers
+13408,2,57,25085.84,3,High-Value Customers
+13410,24,5,1003.06,1,Regular Customers
+13411,107,1,213.55,0,Dormant / Low-Value
+13414,134,3,1390.5,1,Regular Customers
+13416,44,2,712.5,1,Regular Customers
+13417,5,2,640.83,2,Recent / Developing
+13418,12,13,4547.81,3,High-Value Customers
+13419,64,1,221.06,0,Dormant / Low-Value
+13420,150,2,159.85,0,Dormant / Low-Value
+13421,40,2,1833.71,1,Regular Customers
+13422,64,1,2626.3,1,Regular Customers
+13425,108,3,1624.21,1,Regular Customers
+13426,1,9,3304.34,3,High-Value Customers
+13427,19,3,582.6,2,Recent / Developing
+13428,10,1,201.78,2,Recent / Developing
+13429,11,4,1006.8,1,Regular Customers
+13430,19,2,679.45,2,Recent / Developing
+13431,67,2,1269.1,1,Regular Customers
+13434,74,2,534.24,0,Dormant / Low-Value
+13435,5,7,3809.89,3,High-Value Customers
+13436,2,1,196.89,2,Recent / Developing
+13437,14,7,3408.06,3,High-Value Customers
+13439,255,1,283.71,0,Dormant / Low-Value
+13441,92,1,296.64,0,Dormant / Low-Value
+13447,23,3,1129.14,1,Regular Customers
+13448,17,3,2705.15,1,Regular Customers
+13449,24,1,291.88,2,Recent / Developing
+13450,27,6,2043.72,1,Regular Customers
+13451,26,5,2898.2599999999998,1,Regular Customers
+13452,259,2,590.0,0,Dormant / Low-Value
+13453,166,2,356.98,0,Dormant / Low-Value
+13455,25,1,365.4,2,Recent / Developing
+13456,18,6,1766.72,1,Regular Customers
+13458,7,13,8460.710000000001,3,High-Value Customers
+13460,29,2,183.44,2,Recent / Developing
+13461,39,3,1445.0,1,Regular Customers
+13462,253,1,151.5,0,Dormant / Low-Value
+13464,58,1,674.68,0,Dormant / Low-Value
+13466,184,1,307.90000000000003,0,Dormant / Low-Value
+13467,11,2,1071.91,2,Recent / Developing
+13468,2,33,4793.97,3,High-Value Customers
+13470,99,2,165.0,0,Dormant / Low-Value
+13471,1,4,2501.84,3,High-Value Customers
+13473,61,2,422.64,0,Dormant / Low-Value
+13474,236,1,226.84,0,Dormant / Low-Value
+13475,191,4,1431.78,1,Regular Customers
+13476,179,2,1238.47,1,Regular Customers
+13477,38,6,1454.58,1,Regular Customers
+13479,201,2,300.95,0,Dormant / Low-Value
+13481,46,5,1804.56,1,Regular Customers
+13482,232,1,184.64000000000001,0,Dormant / Low-Value
+13483,66,1,140.34,0,Dormant / Low-Value
+13484,241,1,313.8,0,Dormant / Low-Value
+13485,233,1,454.24,0,Dormant / Low-Value
+13486,78,3,1122.41,1,Regular Customers
+13487,58,2,382.25,0,Dormant / Low-Value
+13488,17,12,7586.39,3,High-Value Customers
+13489,105,4,449.52,1,Regular Customers
+13491,52,8,1019.42,1,Regular Customers
+13494,312,1,316.26000000000005,0,Dormant / Low-Value
+13495,8,3,1179.44,2,Recent / Developing
+13496,11,1,152.32,2,Recent / Developing
+13497,283,1,194.55,0,Dormant / Low-Value
+13499,18,5,1159.1100000000001,1,Regular Customers
+13500,23,3,1166.77,1,Regular Customers
+13502,17,3,292.0,2,Recent / Developing
+13503,71,1,216.85,0,Dormant / Low-Value
+13504,64,1,295.93,0,Dormant / Low-Value
+13506,316,1,157.4,0,Dormant / Low-Value
+13507,3,4,2479.16,3,High-Value Customers
+13508,244,1,110.97,0,Dormant / Low-Value
+13509,9,7,979.72,3,High-Value Customers
+13510,1,4,1791.56,3,High-Value Customers
+13512,261,1,251.21,0,Dormant / Low-Value
+13513,127,1,205.1,0,Dormant / Low-Value
+13514,74,1,152.20000000000002,0,Dormant / Low-Value
+13515,73,4,891.12,1,Regular Customers
+13516,21,3,1389.41,1,Regular Customers
+13517,60,3,2128.42,1,Regular Customers
+13518,86,1,627.16,0,Dormant / Low-Value
+13519,78,1,122.75,0,Dormant / Low-Value
+13521,1,3,1071.73,2,Recent / Developing
+13522,30,1,125.80000000000001,2,Recent / Developing
+13523,33,4,3397.93,1,Regular Customers
+13524,41,5,680.1800000000001,1,Regular Customers
+13525,15,2,628.78,2,Recent / Developing
+13527,34,7,2242.36,1,Regular Customers
+13529,79,2,307.76,0,Dormant / Low-Value
+13531,205,1,178.35,0,Dormant / Low-Value
+13532,34,1,210.31,2,Recent / Developing
+13533,183,3,269.09,0,Dormant / Low-Value
+13534,2,23,5586.88,3,High-Value Customers
+13536,1,7,3444.39,3,High-Value Customers
+13538,43,7,1280.85,1,Regular Customers
+13539,86,3,631.34,1,Regular Customers
+13544,40,2,276.06,2,Recent / Developing
+13546,12,3,621.09,2,Recent / Developing
+13548,96,2,678.16,0,Dormant / Low-Value
+13549,26,7,918.2,1,Regular Customers
+13551,319,1,91.80000000000001,0,Dormant / Low-Value
+13552,66,12,3740.07,3,High-Value Customers
+13555,74,4,4098.88,1,Regular Customers
+13557,28,2,584.0600000000001,2,Recent / Developing
+13558,6,4,594.52,2,Recent / Developing
+13560,7,1,171.42000000000002,2,Recent / Developing
+13561,216,1,141.85999999999999,0,Dormant / Low-Value
+13562,82,3,1799.3300000000002,1,Regular Customers
+13563,84,2,777.53,1,Regular Customers
+13564,144,1,550.64,0,Dormant / Low-Value
+13565,19,2,240.22,2,Recent / Developing
+13566,41,2,856.84,1,Regular Customers
+13568,173,1,187.05,0,Dormant / Low-Value
+13569,17,1,228.8,2,Recent / Developing
+13570,243,1,239.49,0,Dormant / Low-Value
+13571,13,12,2088.94,3,High-Value Customers
+13572,206,1,1384.25,0,Dormant / Low-Value
+13573,50,2,290.25,0,Dormant / Low-Value
+13575,23,5,732.07,1,Regular Customers
+13576,10,17,6368.1900000000005,3,High-Value Customers
+13577,25,4,1687.6000000000001,1,Regular Customers
+13579,15,1,302.34000000000003,2,Recent / Developing
+13581,309,1,118.0,0,Dormant / Low-Value
+13583,156,1,781.03,0,Dormant / Low-Value
+13584,307,1,142.4,0,Dormant / Low-Value
+13587,64,1,712.4,0,Dormant / Low-Value
+13588,16,9,2478.95,3,High-Value Customers
+13589,15,2,379.65,2,Recent / Developing
+13590,11,6,1981.92,3,High-Value Customers
+13591,65,3,1117.13,1,Regular Customers
+13592,36,4,247.95999999999998,2,Recent / Developing
+13593,108,5,2011.88,1,Regular Customers
+13594,53,1,396.97,0,Dormant / Low-Value
+13596,6,2,664.11,2,Recent / Developing
+13598,47,1,160.04,0,Dormant / Low-Value
+13599,1,19,4797.08,3,High-Value Customers
+13600,312,1,219.52,0,Dormant / Low-Value
+13601,45,2,693.32,1,Regular Customers
+13602,65,1,428.89,0,Dormant / Low-Value
+13603,26,1,164.34,2,Recent / Developing
+13606,29,3,276.75,2,Recent / Developing
+13607,40,1,675.51,2,Recent / Developing
+13610,12,7,1082.33,3,High-Value Customers
+13611,89,2,851.25,1,Regular Customers
+13614,24,4,1585.46,1,Regular Customers
+13615,319,1,417.69,0,Dormant / Low-Value
+13617,40,3,544.18,1,Regular Customers
+13618,174,1,177.34,0,Dormant / Low-Value
+13621,117,1,213.85,0,Dormant / Low-Value
+13623,31,5,727.74,1,Regular Customers
+13626,253,1,257.23,0,Dormant / Low-Value
+13627,59,4,1327.28,1,Regular Customers
+13629,23,11,7792.36,3,High-Value Customers
+13630,5,7,2031.78,3,High-Value Customers
+13631,100,11,3070.42,1,Regular Customers
+13632,25,5,2118.93,1,Regular Customers
+13634,33,5,1547.3600000000001,1,Regular Customers
+13635,68,1,1071.03,0,Dormant / Low-Value
+13636,37,5,949.12,1,Regular Customers
+13637,52,3,804.3,1,Regular Customers
+13638,16,1,122.64,2,Recent / Developing
+13639,74,1,1033.34,0,Dormant / Low-Value
+13642,216,1,312.28,0,Dormant / Low-Value
+13643,31,3,519.44,2,Recent / Developing
+13644,16,4,2624.26,1,Regular Customers
+13645,120,1,252.1,0,Dormant / Low-Value
+13647,10,4,1648.1200000000001,1,Regular Customers
+13649,257,1,148.8,0,Dormant / Low-Value
+13650,17,6,1836.3400000000001,1,Regular Customers
+13651,35,2,94.2,2,Recent / Developing
+13652,46,2,786.28,1,Regular Customers
+13654,43,6,2707.33,1,Regular Customers
+13655,114,2,932.97,1,Regular Customers
+13656,165,2,379.65,0,Dormant / Low-Value
+13657,11,2,382.14,2,Recent / Developing
+13658,10,5,2639.17,3,High-Value Customers
+13659,206,2,1563.0,1,Regular Customers
+13662,86,3,881.26,1,Regular Customers
+13663,179,1,189.47,0,Dormant / Low-Value
+13666,60,3,84.65,0,Dormant / Low-Value
+13667,149,1,299.05,0,Dormant / Low-Value
+13668,3,20,6132.17,3,High-Value Customers
+13669,51,2,218.55,0,Dormant / Low-Value
+13670,75,1,349.7,0,Dormant / Low-Value
+13672,301,2,186.39000000000001,0,Dormant / Low-Value
+13673,19,2,387.44,2,Recent / Developing
+13675,151,2,486.82000000000005,0,Dormant / Low-Value
+13678,152,1,232.6,0,Dormant / Low-Value
+13680,1,4,3719.12,3,High-Value Customers
+13681,18,4,827.83,1,Regular Customers
+13682,187,1,59.5,0,Dormant / Low-Value
+13684,286,1,65.13,0,Dormant / Low-Value
+13685,3,7,3119.44,3,High-Value Customers
+13686,183,1,72.0,0,Dormant / Low-Value
+13689,63,1,910.0,0,Dormant / Low-Value
+13690,59,1,172.25,0,Dormant / Low-Value
+13692,25,3,1488.32,1,Regular Customers
+13694,4,48,62142.58,3,High-Value Customers
+13695,31,15,2504.13,3,High-Value Customers
+13697,39,1,151.3,0,Dormant / Low-Value
+13699,155,1,308.58000000000004,0,Dormant / Low-Value
+13700,26,10,2248.63,3,High-Value Customers
+13703,318,1,99.5,0,Dormant / Low-Value
+13704,5,9,2308.06,3,High-Value Customers
+13705,8,2,393.72,2,Recent / Developing
+13706,303,1,330.79,0,Dormant / Low-Value
+13707,267,2,806.41,0,Dormant / Low-Value
+13708,271,1,285.33,0,Dormant / Low-Value
+13709,4,13,6307.650000000001,3,High-Value Customers
+13710,32,1,180.48,2,Recent / Developing
+13711,219,2,252.06,0,Dormant / Low-Value
+13712,247,1,228.84,0,Dormant / Low-Value
+13715,281,2,582.71,0,Dormant / Low-Value
+13716,269,1,138.28,0,Dormant / Low-Value
+13717,32,6,1445.01,1,Regular Customers
+13718,246,2,306.55,0,Dormant / Low-Value
+13719,15,5,1041.68,1,Regular Customers
+13720,117,4,799.9,1,Regular Customers
+13721,36,1,524.14,2,Recent / Developing
+13722,132,3,2375.41,1,Regular Customers
+13723,217,1,199.85000000000002,0,Dormant / Low-Value
+13725,50,8,1980.56,1,Regular Customers
+13726,39,2,1079.66,1,Regular Customers
+13727,29,2,333.48,2,Recent / Developing
+13728,37,6,1016.14,1,Regular Customers
+13730,136,2,752.6,0,Dormant / Low-Value
+13731,219,2,610.59,0,Dormant / Low-Value
+13732,28,1,491.86,2,Recent / Developing
+13735,25,4,2883.54,1,Regular Customers
+13736,5,2,729.8,2,Recent / Developing
+13737,200,1,339.6,0,Dormant / Low-Value
+13739,18,1,216.9,2,Recent / Developing
+13740,241,1,350.75,0,Dormant / Low-Value
+13741,72,3,668.4300000000001,1,Regular Customers
+13742,17,12,3107.87,3,High-Value Customers
+13743,3,7,1341.6,3,High-Value Customers
+13744,95,2,1080.52,1,Regular Customers
+13745,162,1,300.04,0,Dormant / Low-Value
+13748,96,4,744.25,1,Regular Customers
+13750,54,5,1647.26,1,Regular Customers
+13751,288,1,296.25,0,Dormant / Low-Value
+13752,124,6,1175.38,1,Regular Customers
+13753,288,1,741.26,0,Dormant / Low-Value
+13754,152,2,282.6,0,Dormant / Low-Value
+13755,4,9,2108.06,3,High-Value Customers
+13756,2,11,4185.12,3,High-Value Customers
+13758,12,5,2471.7,3,High-Value Customers
+13759,33,2,659.4100000000001,2,Recent / Developing
+13760,54,2,286.79,0,Dormant / Low-Value
+13761,50,2,1070.65,1,Regular Customers
+13762,219,1,306.72,0,Dormant / Low-Value
+13763,63,1,1714.96,1,Regular Customers
+13764,71,3,1519.42,1,Regular Customers
+13767,2,31,14781.0,3,High-Value Customers
+13769,2,9,2474.21,3,High-Value Customers
+13771,64,4,2634.45,1,Regular Customers
+13772,34,3,1122.63,1,Regular Customers
+13774,82,1,345.0,0,Dormant / Low-Value
+13777,1,23,19015.38,3,High-Value Customers
+13778,103,1,178.7,0,Dormant / Low-Value
+13780,7,2,360.01,2,Recent / Developing
+13781,251,1,127.84,0,Dormant / Low-Value
+13782,13,6,908.86,1,Regular Customers
+13784,10,11,2462.79,3,High-Value Customers
+13787,76,1,202.64,0,Dormant / Low-Value
+13790,4,1,348.79999999999995,2,Recent / Developing
+13791,128,2,1516.0,1,Regular Customers
+13792,66,2,195.55,0,Dormant / Low-Value
+13798,1,55,32983.19,3,High-Value Customers
+13799,117,2,688.86,0,Dormant / Low-Value
+13800,310,1,558.32,0,Dormant / Low-Value
+13801,67,1,324.8,0,Dormant / Low-Value
+13802,139,3,4599.42,1,Regular Customers
+13803,255,1,277.07,0,Dormant / Low-Value
+13804,31,7,2588.39,1,Regular Customers
+13805,52,2,924.5999999999999,1,Regular Customers
+13806,64,1,256.38,0,Dormant / Low-Value
+13808,6,5,1747.66,3,High-Value Customers
+13819,302,3,1140.35,1,Regular Customers
+13821,145,2,385.64,0,Dormant / Low-Value
+13822,6,2,632.0,2,Recent / Developing
+13823,19,2,957.66,2,Recent / Developing
+13824,33,5,1698.94,1,Regular Customers
+13826,176,1,189.5,0,Dormant / Low-Value
+13827,58,3,409.8,1,Regular Customers
+13828,22,1,209.49,2,Recent / Developing
+13831,16,5,1790.4499999999998,1,Regular Customers
+13832,19,1,52.2,2,Recent / Developing
+13833,159,1,383.85,0,Dormant / Low-Value
+13835,25,4,834.57,1,Regular Customers
+13837,212,2,266.59000000000003,0,Dormant / Low-Value
+13838,6,3,444.16,2,Recent / Developing
+13841,253,1,85.0,0,Dormant / Low-Value
+13842,59,8,3075.05,1,Regular Customers
+13844,11,1,361.62,2,Recent / Developing
+13845,65,1,312.98,0,Dormant / Low-Value
+13846,25,2,453.66,2,Recent / Developing
+13848,92,2,935.0,1,Regular Customers
+13849,52,2,1537.95,1,Regular Customers
+13850,129,1,1595.48,0,Dormant / Low-Value
+13851,96,3,2651.46,1,Regular Customers
+13853,57,1,1090.1399999999999,1,Regular Customers
+13854,9,23,7500.08,3,High-Value Customers
+13856,169,3,388.5,0,Dormant / Low-Value
+13858,57,1,216.17000000000002,0,Dormant / Low-Value
+13859,326,1,201.16,0,Dormant / Low-Value
+13860,1,5,1245.9,3,High-Value Customers
+13862,18,8,2209.36,3,High-Value Customers
+13863,248,1,305.78,0,Dormant / Low-Value
+13865,58,4,501.56,1,Regular Customers
+13866,74,1,145.67,0,Dormant / Low-Value
+13867,31,3,1005.09,1,Regular Customers
+13868,7,2,3192.54,1,Regular Customers
+13869,123,3,2760.03,1,Regular Customers
+13870,2,8,2770.94,3,High-Value Customers
+13871,23,13,6403.25,3,High-Value Customers
+13873,120,3,389.6,0,Dormant / Low-Value
+13875,54,5,1786.79,1,Regular Customers
+13876,64,1,122.7,0,Dormant / Low-Value
+13877,86,1,117.24,0,Dormant / Low-Value
+13878,55,1,1271.57,1,Regular Customers
+13880,21,12,3121.97,3,High-Value Customers
+13881,3,20,17159.52,3,High-Value Customers
+13882,3,5,1191.13,3,High-Value Customers
+13883,11,5,2674.48,3,High-Value Customers
+13884,7,5,787.6,2,Recent / Developing
+13885,189,2,506.8,0,Dormant / Low-Value
+13886,71,1,243.56,0,Dormant / Low-Value
+13887,204,1,349.55,0,Dormant / Low-Value
+13888,120,2,595.67,0,Dormant / Low-Value
+13889,93,1,416.90000000000003,0,Dormant / Low-Value
+13890,1,9,1693.46,3,High-Value Customers
+13892,27,4,632.97,1,Regular Customers
+13893,298,1,821.1,0,Dormant / Low-Value
+13894,24,3,564.62,2,Recent / Developing
+13895,28,4,2593.07,1,Regular Customers
+13897,50,1,311.16,0,Dormant / Low-Value
+13898,326,1,155.93,0,Dormant / Low-Value
+13899,16,2,388.52,2,Recent / Developing
+13900,183,3,740.95,1,Regular Customers
+13901,72,5,2867.2000000000003,1,Regular Customers
+13904,37,2,332.64,2,Recent / Developing
+13908,80,4,2369.55,1,Regular Customers
+13911,57,9,2580.91,1,Regular Customers
+13914,12,2,626.45,2,Recent / Developing
+13917,50,2,272.04,0,Dormant / Low-Value
+13918,50,2,1212.8400000000001,1,Regular Customers
+13923,54,1,351.13,0,Dormant / Low-Value
+13924,2,6,1838.8500000000001,3,High-Value Customers
+13925,93,4,678.25,1,Regular Customers
+13926,23,1,223.85000000000002,2,Recent / Developing
+13927,75,1,348.99,0,Dormant / Low-Value
+13928,11,4,464.57,2,Recent / Developing
+13929,169,2,842.65,0,Dormant / Low-Value
+13930,58,2,337.34,0,Dormant / Low-Value
+13931,96,2,1237.53,1,Regular Customers
+13932,295,1,307.4,0,Dormant / Low-Value
+13933,109,2,608.79,0,Dormant / Low-Value
+13934,264,1,922.1,0,Dormant / Low-Value
+13936,180,1,376.58,0,Dormant / Low-Value
+13937,169,1,158.85,0,Dormant / Low-Value
+13938,35,1,71.66,0,Dormant / Low-Value
+13939,23,3,568.55,2,Recent / Developing
+13940,17,4,839.14,1,Regular Customers
+13941,22,4,4017.84,1,Regular Customers
+13946,79,3,561.57,1,Regular Customers
+13947,65,1,90.60000000000001,0,Dormant / Low-Value
+13949,3,6,2427.32,3,High-Value Customers
+13950,11,4,745.0600000000001,2,Recent / Developing
+13951,176,3,674.45,0,Dormant / Low-Value
+13952,218,2,3251.071,1,Regular Customers
+13953,7,6,3015.68,3,High-Value Customers
+13954,1,2,439.92,2,Recent / Developing
+13955,154,2,322.96,0,Dormant / Low-Value
+13956,5,5,1019.27,3,High-Value Customers
+13959,79,2,379.3,0,Dormant / Low-Value
+13960,21,2,230.22,2,Recent / Developing
+13962,22,2,169.54999999999998,2,Recent / Developing
+13963,308,3,513.24,0,Dormant / Low-Value
+13967,146,1,80.7,0,Dormant / Low-Value
+13969,7,17,8706.58,3,High-Value Customers
+13971,19,8,2758.26,3,High-Value Customers
+13972,71,2,190.25,0,Dormant / Low-Value
+13973,287,1,264.7,0,Dormant / Low-Value
+13974,49,1,413.59000000000003,0,Dormant / Low-Value
+13975,31,6,2461.2400000000002,1,Regular Customers
+13976,207,1,357.98,0,Dormant / Low-Value
+13978,15,2,196.79,2,Recent / Developing
+13979,73,1,869.87,0,Dormant / Low-Value
+13980,60,1,200.14,0,Dormant / Low-Value
+13982,39,3,1443.21,1,Regular Customers
+13983,30,11,2274.07,3,High-Value Customers
+13984,27,4,765.71,1,Regular Customers
+13985,4,15,7060.13,3,High-Value Customers
+13986,17,1,320.46,2,Recent / Developing
+13988,20,6,4147.96,3,High-Value Customers
+13989,66,2,1266.08,1,Regular Customers
+13990,213,1,311.3,0,Dormant / Low-Value
+13991,12,6,852.88,1,Regular Customers
+13992,30,1,76.8,2,Recent / Developing
+13993,43,9,3466.36,3,High-Value Customers
+13994,4,6,2274.14,3,High-Value Customers
+13995,15,5,1393.69,1,Regular Customers
+13999,10,11,3599.71,3,High-Value Customers
+14000,211,1,635.66,0,Dormant / Low-Value
+14001,46,2,1741.8400000000001,1,Regular Customers
+14002,134,2,529.73,0,Dormant / Low-Value
+14004,43,7,4582.64,1,Regular Customers
+14005,10,5,2874.72,3,High-Value Customers
+14006,116,3,962.19,1,Regular Customers
+14009,198,2,695.61,0,Dormant / Low-Value
+14012,278,1,328.8,0,Dormant / Low-Value
+14013,110,3,473.02,0,Dormant / Low-Value
+14014,77,1,505.18,0,Dormant / Low-Value
+14015,53,1,917.34,0,Dormant / Low-Value
+14019,47,3,1421.6100000000001,1,Regular Customers
+14020,17,2,642.8,2,Recent / Developing
+14021,155,3,631.9,0,Dormant / Low-Value
+14022,225,1,440.0,0,Dormant / Low-Value
+14023,7,2,584.07,2,Recent / Developing
+14024,122,2,327.7,0,Dormant / Low-Value
+14027,61,1,104.82,0,Dormant / Low-Value
+14029,63,2,467.66,0,Dormant / Low-Value
+14030,18,6,1682.34,1,Regular Customers
+14031,7,16,14717.91,3,High-Value Customers
+14032,2,9,2356.17,3,High-Value Customers
+14034,22,3,648.89,2,Recent / Developing
+14035,29,5,1428.02,1,Regular Customers
+14036,285,1,626.65,0,Dormant / Low-Value
+14037,176,1,35.400000000000006,0,Dormant / Low-Value
+14038,78,3,1560.38,1,Regular Customers
+14039,33,1,152.2,2,Recent / Developing
+14040,41,12,3560.32,3,High-Value Customers
+14041,266,1,141.41,0,Dormant / Low-Value
+14044,27,4,646.42,1,Regular Customers
+14045,109,3,1333.35,1,Regular Customers
+14046,284,1,154.99,0,Dormant / Low-Value
+14047,9,4,1021.69,1,Regular Customers
+14048,305,1,409.93,0,Dormant / Low-Value
+14049,17,4,5578.72,1,Regular Customers
+14050,32,2,746.36,2,Recent / Developing
+14051,1,20,13782.23,3,High-Value Customers
+14052,20,1,225.35999999999999,2,Recent / Developing
+14053,124,2,260.25,0,Dormant / Low-Value
+14054,65,1,92.46000000000001,0,Dormant / Low-Value
+14055,106,1,725.6400000000001,0,Dormant / Low-Value
+14056,1,23,8152.71,3,High-Value Customers
+14057,24,15,5285.74,3,High-Value Customers
+14059,267,1,183.6,0,Dormant / Low-Value
+14060,5,16,5266.38,3,High-Value Customers
+14062,10,9,9020.73,3,High-Value Customers
+14064,29,5,1334.34,1,Regular Customers
+14066,267,1,152.55,0,Dormant / Low-Value
+14067,64,2,374.7,0,Dormant / Low-Value
+14068,320,1,265.85,0,Dormant / Low-Value
+14071,4,8,1437.57,3,High-Value Customers
+14073,32,1,151.04,2,Recent / Developing
+14075,5,3,942.26,2,Recent / Developing
+14076,129,1,118.67,0,Dormant / Low-Value
+14077,41,5,499.42,1,Regular Customers
+14078,102,5,913.1299999999999,1,Regular Customers
+14079,125,1,375.1,0,Dormant / Low-Value
+14080,33,1,45.599999999999994,0,Dormant / Low-Value
+14081,302,1,498.1,0,Dormant / Low-Value
+14083,4,6,558.54,2,Recent / Developing
+14085,2,15,3255.8,3,High-Value Customers
+14087,3,1,191.47,2,Recent / Developing
+14088,10,13,50491.81,3,High-Value Customers
+14089,57,1,158.75,0,Dormant / Low-Value
+14090,325,1,76.32000000000001,0,Dormant / Low-Value
+14092,8,12,3475.1800000000003,3,High-Value Customers
+14093,12,1,433.86,2,Recent / Developing
+14096,4,17,65164.79,3,High-Value Customers
+14098,37,1,147.35,2,Recent / Developing
+14099,16,10,2720.65,3,High-Value Customers
+14100,138,1,191.95,0,Dormant / Low-Value
+14101,74,6,5976.79,1,Regular Customers
+14102,5,5,1105.8799999999999,3,High-Value Customers
+14104,154,2,216.21,0,Dormant / Low-Value
+14105,239,1,1266.23,0,Dormant / Low-Value
+14107,52,6,2339.9900000000002,1,Regular Customers
+14108,31,2,597.91,2,Recent / Developing
+14109,73,1,144.2,0,Dormant / Low-Value
+14110,4,12,5683.15,3,High-Value Customers
+14111,14,4,692.85,1,Regular Customers
+14112,23,7,2915.15,3,High-Value Customers
+14113,4,3,1406.92,2,Recent / Developing
+14114,274,2,386.53,0,Dormant / Low-Value
+14116,20,5,1382.74,1,Regular Customers
+14117,144,1,90.0,0,Dormant / Low-Value
+14121,4,4,2780.15,3,High-Value Customers
+14124,84,1,419.58,0,Dormant / Low-Value
+14125,11,3,2720.63,1,Regular Customers
+14126,8,3,706.1300000000001,2,Recent / Developing
+14127,123,3,709.71,1,Regular Customers
+14128,61,2,637.5,1,Regular Customers
+14129,2,5,1123.8600000000001,3,High-Value Customers
+14130,319,1,480.91,0,Dormant / Low-Value
+14132,2,11,3586.03,3,High-Value Customers
+14133,130,3,605.64,1,Regular Customers
+14135,2,11,3743.26,3,High-Value Customers
+14138,2,2,965.88,2,Recent / Developing
+14139,46,1,415.82,0,Dormant / Low-Value
+14140,4,2,935.05,2,Recent / Developing
+14141,3,4,915.13,2,Recent / Developing
+14143,134,1,115.8,0,Dormant / Low-Value
+14145,47,4,3742.2,1,Regular Customers
+14146,9,4,2949.57,3,High-Value Customers
+14147,78,2,483.4,0,Dormant / Low-Value
+14148,234,1,157.2,0,Dormant / Low-Value
+14149,221,1,446.62,0,Dormant / Low-Value
+14150,36,1,352.46,2,Recent / Developing
+14152,75,2,621.29,0,Dormant / Low-Value
+14154,239,2,1345.62,1,Regular Customers
+14155,266,1,118.75,0,Dormant / Low-Value
+14157,20,2,424.89000000000004,2,Recent / Developing
+14158,40,1,507.65999999999997,2,Recent / Developing
+14159,20,10,4440.43,3,High-Value Customers
+14161,216,2,814.47,0,Dormant / Low-Value
+14162,174,2,289.36,0,Dormant / Low-Value
+14163,87,4,2445.91,1,Regular Customers
+14164,71,2,1631.77,1,Regular Customers
+14165,276,1,120.44,0,Dormant / Low-Value
+14167,39,4,562.59,1,Regular Customers
+14171,98,1,363.79,0,Dormant / Low-Value
+14173,11,4,450.84,2,Recent / Developing
+14174,33,1,134.46,2,Recent / Developing
+14175,60,3,3222.3,1,Regular Customers
+14176,297,3,417.35,0,Dormant / Low-Value
+14177,86,4,549.46,1,Regular Customers
+14178,9,7,1600.26,3,High-Value Customers
+14179,41,2,701.57,1,Regular Customers
+14180,11,21,3852.27,3,High-Value Customers
+14184,67,1,452.89,0,Dormant / Low-Value
+14185,331,1,197.65,0,Dormant / Low-Value
+14188,31,6,2054.36,1,Regular Customers
+14189,2,14,4342.84,3,High-Value Customers
+14191,2,13,4684.76,3,High-Value Customers
+14193,68,2,853.39,1,Regular Customers
+14194,5,21,11349.52,3,High-Value Customers
+14195,202,2,1012.0,0,Dormant / Low-Value
+14196,107,1,335.52,0,Dormant / Low-Value
+14198,18,4,701.4,1,Regular Customers
+14199,218,1,185.39999999999998,0,Dormant / Low-Value
+14201,60,6,680.2,1,Regular Customers
+14204,2,1,150.61,2,Recent / Developing
+14205,17,2,466.7,2,Recent / Developing
+14206,239,1,328.15999999999997,0,Dormant / Low-Value
+14208,95,1,151.74,0,Dormant / Low-Value
+14209,11,6,2073.43,3,High-Value Customers
+14210,106,5,1600.89,1,Regular Customers
+14211,53,9,2241.1,1,Regular Customers
+14212,90,1,1070.48,0,Dormant / Low-Value
+14214,31,5,1004.38,1,Regular Customers
+14215,12,5,1623.72,1,Regular Customers
+14216,3,4,1839.3,3,High-Value Customers
+14217,2,16,1886.68,3,High-Value Customers
+14218,43,1,169.48000000000002,0,Dormant / Low-Value
+14219,4,1,89.94,2,Recent / Developing
+14220,247,1,319.42,0,Dormant / Low-Value
+14221,42,9,3432.8,3,High-Value Customers
+14222,177,1,683.17,0,Dormant / Low-Value
+14223,92,3,991.13,1,Regular Customers
+14224,110,4,1009.73,1,Regular Customers
+14226,29,5,2214.79,1,Regular Customers
+14227,26,10,3350.96,3,High-Value Customers
+14229,52,3,1547.2,1,Regular Customers
+14231,184,3,925.71,1,Regular Customers
+14232,43,5,2048.07,1,Regular Customers
+14233,49,4,1462.72,1,Regular Customers
+14234,22,4,754.12,1,Regular Customers
+14235,75,5,3144.86,1,Regular Customers
+14236,81,1,301.56,0,Dormant / Low-Value
+14238,326,1,146.85,0,Dormant / Low-Value
+14239,43,11,2380.85,3,High-Value Customers
+14240,30,2,890.34,1,Regular Customers
+14241,184,1,213.70000000000002,0,Dormant / Low-Value
+14242,235,2,280.55,0,Dormant / Low-Value
+14243,9,8,2116.77,3,High-Value Customers
+14245,220,2,1693.45,1,Regular Customers
+14246,111,3,1474.06,1,Regular Customers
+14247,278,1,136.77,0,Dormant / Low-Value
+14248,318,1,302.58,0,Dormant / Low-Value
+14250,7,3,1904.05,1,Regular Customers
+14251,2,5,2879.7000000000003,3,High-Value Customers
+14256,260,1,445.20000000000005,0,Dormant / Low-Value
+14257,64,5,3099.7200000000003,1,Regular Customers
+14258,9,9,12669.98,3,High-Value Customers
+14259,142,1,120.0,0,Dormant / Low-Value
+14261,51,2,1163.45,1,Regular Customers
+14262,8,8,2618.23,3,High-Value Customers
+14264,155,2,333.97,0,Dormant / Low-Value
+14267,163,3,1516.24,1,Regular Customers
+14270,332,1,492.65000000000003,0,Dormant / Low-Value
+14271,226,1,112.32000000000001,0,Dormant / Low-Value
+14272,74,2,437.96,0,Dormant / Low-Value
+14273,51,4,559.97,1,Regular Customers
+14276,99,3,1119.74,1,Regular Customers
+14280,197,1,134.04,0,Dormant / Low-Value
+14282,3,14,3130.44,3,High-Value Customers
+14284,31,2,595.25,2,Recent / Developing
+14285,21,4,1910.01,1,Regular Customers
+14286,24,3,4628.75,1,Regular Customers
+14287,8,3,176.63,2,Recent / Developing
+14288,213,1,426.6,0,Dormant / Low-Value
+14289,9,6,911.26,1,Regular Customers
+14290,11,4,1537.09,1,Regular Customers
+14291,2,11,3883.25,3,High-Value Customers
+14292,8,9,4871.93,3,High-Value Customers
+14293,3,3,681.64,2,Recent / Developing
+14295,40,1,166.20000000000002,0,Dormant / Low-Value
+14297,18,4,1305.33,1,Regular Customers
+14298,8,39,46837.84,3,High-Value Customers
+14299,8,8,3536.38,3,High-Value Customers
+14300,19,1,43.2,2,Recent / Developing
+14301,117,1,640.14,0,Dormant / Low-Value
+14304,223,1,383.45,0,Dormant / Low-Value
+14305,71,3,1858.96,1,Regular Customers
+14306,51,2,2093.32,1,Regular Customers
+14307,89,5,2212.61,1,Regular Customers
+14309,8,8,2204.78,3,High-Value Customers
+14311,243,1,310.26,0,Dormant / Low-Value
+14312,47,6,1611.5900000000001,1,Regular Customers
+14314,107,1,120.0,0,Dormant / Low-Value
+14315,45,6,2481.13,1,Regular Customers
+14317,65,1,508.58,0,Dormant / Low-Value
+14320,207,2,477.79,0,Dormant / Low-Value
+14321,11,5,1530.75,1,Regular Customers
+14323,115,2,605.0600000000001,0,Dormant / Low-Value
+14326,242,1,183.85,0,Dormant / Low-Value
+14327,163,1,311.65000000000003,0,Dormant / Low-Value
+14329,17,7,4975.24,3,High-Value Customers
+14331,124,2,462.66,0,Dormant / Low-Value
+14332,23,3,840.21,1,Regular Customers
+14333,68,1,415.2,0,Dormant / Low-Value
+14334,17,7,2232.06,3,High-Value Customers
+14336,17,4,1614.91,1,Regular Customers
+14338,161,2,588.22,0,Dormant / Low-Value
+14339,243,1,309.52000000000004,0,Dormant / Low-Value
+14340,219,1,134.7,0,Dormant / Low-Value
+14341,45,8,2166.98,1,Regular Customers
+14342,21,4,668.5600000000001,1,Regular Customers
+14344,127,5,534.28,1,Regular Customers
+14345,39,1,108.98,0,Dormant / Low-Value
+14346,121,2,1021.58,1,Regular Customers
+14348,260,1,409.57,0,Dormant / Low-Value
+14349,10,1,133.5,2,Recent / Developing
+14350,274,1,282.93,0,Dormant / Low-Value
+14351,165,1,51.0,0,Dormant / Low-Value
+14352,157,4,1078.96,1,Regular Customers
+14353,215,1,90.6,0,Dormant / Low-Value
+14354,6,2,163.62,2,Recent / Developing
+14356,80,2,701.23,1,Regular Customers
+14357,43,1,225.12,0,Dormant / Low-Value
+14359,19,3,912.1800000000001,1,Regular Customers
+14360,32,4,2118.03,1,Regular Customers
+14362,22,1,151.5,2,Recent / Developing
+14364,109,8,3717.35,1,Regular Customers
+14367,8,16,9227.82,3,High-Value Customers
+14368,320,1,155.0,0,Dormant / Low-Value
+14371,295,1,100.5,0,Dormant / Low-Value
+14375,185,1,235.56,0,Dormant / Low-Value
+14377,191,2,617.05,0,Dormant / Low-Value
+14379,44,2,348.1,2,Recent / Developing
+14381,52,1,202.68,0,Dormant / Low-Value
+14382,26,1,615.49,2,Recent / Developing
+14383,38,3,1247.69,1,Regular Customers
+14385,9,3,202.10999999999999,2,Recent / Developing
+14386,297,1,142.4,0,Dormant / Low-Value
+14387,33,3,1727.6,1,Regular Customers
+14388,10,7,2900.04,3,High-Value Customers
+14389,65,2,1043.46,1,Regular Customers
+14390,10,8,4418.87,3,High-Value Customers
+14393,218,1,67.95,0,Dormant / Low-Value
+14395,2,8,3171.23,3,High-Value Customers
+14396,65,1,377.64,0,Dormant / Low-Value
+14397,3,19,2612.96,3,High-Value Customers
+14400,149,1,574.7,0,Dormant / Low-Value
+14401,4,12,3804.1,3,High-Value Customers
+14403,130,4,1475.81,1,Regular Customers
+14404,34,5,1320.09,1,Regular Customers
+14406,119,1,156.75,0,Dormant / Low-Value
+14407,107,6,2157.73,1,Regular Customers
+14408,11,7,2599.03,3,High-Value Customers
+14409,71,4,1730.65,1,Regular Customers
+14410,92,9,1100.27,1,Regular Customers
+14411,311,1,1063.0,0,Dormant / Low-Value
+14412,43,2,770.03,1,Regular Customers
+14414,92,6,1279.78,1,Regular Customers
+14415,1,12,5002.89,3,High-Value Customers
+14416,22,2,490.22,2,Recent / Developing
+14418,4,3,1937.25,3,High-Value Customers
+14419,11,5,927.69,1,Regular Customers
+14420,99,1,387.52,0,Dormant / Low-Value
+14421,57,2,813.11,1,Regular Customers
+14422,1,6,4263.64,3,High-Value Customers
+14423,218,1,265.2,0,Dormant / Low-Value
+14424,18,1,322.08,2,Recent / Developing
+14426,24,10,4481.67,3,High-Value Customers
+14427,50,2,363.34000000000003,2,Recent / Developing
+14428,7,5,1224.06,3,High-Value Customers
+14431,303,1,470.36,0,Dormant / Low-Value
+14432,10,6,2248.5,3,High-Value Customers
+14434,22,6,1372.8,1,Regular Customers
+14436,99,1,89.06,0,Dormant / Low-Value
+14438,306,1,131.9,0,Dormant / Low-Value
+14440,8,4,1700.98,1,Regular Customers
+14441,1,4,1712.89,3,High-Value Customers
+14443,54,3,1116.7,1,Regular Customers
+14446,1,4,1010.35,3,High-Value Customers
+14447,19,5,1163.23,1,Regular Customers
+14448,9,1,273.0,2,Recent / Developing
+14449,19,3,675.56,2,Recent / Developing
+14450,181,3,483.25,0,Dormant / Low-Value
+14451,60,2,643.9,1,Regular Customers
+14452,11,2,259.05,2,Recent / Developing
+14453,190,1,119.93,0,Dormant / Low-Value
+14456,5,9,3017.28,3,High-Value Customers
+14457,311,1,113.64,0,Dormant / Low-Value
+14459,155,1,1837.92,0,Dormant / Low-Value
+14460,110,3,434.34,0,Dormant / Low-Value
+14461,148,3,2103.06,1,Regular Customers
+14462,66,11,1980.57,1,Regular Customers
+14463,98,3,529.62,1,Regular Customers
+14465,247,3,1038.44,1,Regular Customers
+14466,29,6,1892.65,1,Regular Customers
+14467,18,4,596.26,1,Regular Customers
+14470,12,2,461.19,2,Recent / Developing
+14472,104,7,1606.29,1,Regular Customers
+14473,74,2,234.34,0,Dormant / Low-Value
+14474,46,1,547.66,2,Recent / Developing
+14475,72,3,925.85,1,Regular Customers
+14476,257,1,193.0,0,Dormant / Low-Value
+14477,20,4,1309.6,1,Regular Customers
+14479,254,1,141.85,0,Dormant / Low-Value
+14480,11,1,279.05,2,Recent / Developing
+14481,165,2,636.51,0,Dormant / Low-Value
+14482,18,6,2022.81,1,Regular Customers
+14483,282,1,137.1,0,Dormant / Low-Value
+14484,50,1,321.92,0,Dormant / Low-Value
+14485,39,1,162.8,0,Dormant / Low-Value
+14487,27,5,1040.38,1,Regular Customers
+14488,68,1,1064.28,0,Dormant / Low-Value
+14489,207,1,463.38,0,Dormant / Low-Value
+14491,175,1,213.73,0,Dormant / Low-Value
+14493,7,5,2383.2400000000002,3,High-Value Customers
+14494,26,1,139.56,2,Recent / Developing
+14495,51,2,123.80000000000001,0,Dormant / Low-Value
+14496,312,1,234.47,0,Dormant / Low-Value
+14497,309,1,475.37,0,Dormant / Low-Value
+14498,43,4,1791.1,1,Regular Customers
+14499,26,3,808.44,1,Regular Customers
+14500,88,3,356.85,0,Dormant / Low-Value
+14501,184,2,251.21,0,Dormant / Low-Value
+14502,20,11,2429.83,3,High-Value Customers
+14503,3,6,3543.26,3,High-Value Customers
+14504,47,4,673.26,1,Regular Customers
+14505,17,7,4820.83,3,High-Value Customers
+14506,17,4,1703.65,1,Regular Customers
+14507,24,6,1367.88,1,Regular Customers
+14508,22,2,268.05,2,Recent / Developing
+14511,11,5,1314.81,1,Regular Customers
+14512,188,2,275.28,0,Dormant / Low-Value
+14513,101,3,455.59000000000003,0,Dormant / Low-Value
+14514,61,3,990.2,1,Regular Customers
+14515,18,6,2076.89,1,Regular Customers
+14517,33,2,330.45,2,Recent / Developing
+14518,64,1,174.37,0,Dormant / Low-Value
+14520,2,2,270.6,2,Recent / Developing
+14522,24,4,974.54,1,Regular Customers
+14523,108,1,241.09,0,Dormant / Low-Value
+14524,32,8,1568.38,1,Regular Customers
+14525,20,8,3753.6,3,High-Value Customers
+14527,3,51,7581.64,3,High-Value Customers
+14528,37,1,364.21999999999997,2,Recent / Developing
+14529,60,3,578.61,1,Regular Customers
+14530,26,6,2862.11,1,Regular Customers
+14532,236,3,710.25,0,Dormant / Low-Value
+14533,25,6,1516.22,1,Regular Customers
+14534,3,18,4397.3,3,High-Value Customers
+14535,60,3,2854.84,1,Regular Customers
+14536,260,1,170.95,0,Dormant / Low-Value
+14537,58,1,355.56,0,Dormant / Low-Value
+14538,65,2,388.25,0,Dormant / Low-Value
+14539,16,2,537.48,2,Recent / Developing
+14540,10,3,952.66,2,Recent / Developing
+14541,59,8,1453.35,1,Regular Customers
+14542,186,1,103.25,0,Dormant / Low-Value
+14543,29,15,3345.33,3,High-Value Customers
+14544,24,1,902.53,2,Recent / Developing
+14546,5,5,2573.93,3,High-Value Customers
+14547,4,8,3974.75,3,High-Value Customers
+14548,151,2,652.8,0,Dormant / Low-Value
+14549,311,1,289.24,0,Dormant / Low-Value
+14550,11,2,757.37,2,Recent / Developing
+14551,18,2,186.23,2,Recent / Developing
+14552,152,1,164.22,0,Dormant / Low-Value
+14553,19,5,859.27,1,Regular Customers
+14554,10,4,2279.4900000000002,1,Regular Customers
+14555,57,2,312.54,0,Dormant / Low-Value
+14557,85,1,788.38,0,Dormant / Low-Value
+14560,7,21,1829.6,3,High-Value Customers
+14561,76,3,1080.76,1,Regular Customers
+14562,4,18,5006.77,3,High-Value Customers
+14565,96,3,1931.71,1,Regular Customers
+14567,57,2,1530.3600000000001,1,Regular Customers
+14569,1,1,227.39,2,Recent / Developing
+14570,281,2,218.06,0,Dormant / Low-Value
+14572,3,7,2804.54,3,High-Value Customers
+14573,180,8,1237.82,1,Regular Customers
+14577,13,3,512.8100000000001,2,Recent / Developing
+14578,3,1,168.63,2,Recent / Developing
+14581,17,1,138.6,2,Recent / Developing
+14582,41,1,114.11,0,Dormant / Low-Value
+14583,6,5,986.96,3,High-Value Customers
+14584,169,4,1033.06,1,Regular Customers
+14585,50,1,157.05,0,Dormant / Low-Value
+14586,277,1,237.35999999999999,0,Dormant / Low-Value
+14587,19,9,1580.29,3,High-Value Customers
+14591,15,4,1320.21,1,Regular Customers
+14592,35,3,557.94,1,Regular Customers
+14593,22,3,617.15,2,Recent / Developing
+14594,7,1,108.33,2,Recent / Developing
+14595,20,6,1740.6000000000001,1,Regular Customers
+14597,11,2,866.24,2,Recent / Developing
+14598,44,1,221.97,0,Dormant / Low-Value
+14600,306,1,393.33000000000004,0,Dormant / Low-Value
+14601,11,1,213.96,2,Recent / Developing
+14603,275,1,660.0,0,Dormant / Low-Value
+14606,1,85,10842.39,3,High-Value Customers
+14607,16,14,16209.5,3,High-Value Customers
+14608,4,3,1581.15,2,Recent / Developing
+14609,72,4,601.56,1,Regular Customers
+14616,243,3,406.08000000000004,0,Dormant / Low-Value
+14618,9,3,553.44,2,Recent / Developing
+14619,246,1,394.44,0,Dormant / Low-Value
+14620,206,2,412.78000000000003,0,Dormant / Low-Value
+14621,1,4,1482.66,3,High-Value Customers
+14622,185,1,320.58000000000004,0,Dormant / Low-Value
+14623,32,5,886.7,1,Regular Customers
+14624,57,2,225.85,0,Dormant / Low-Value
+14625,196,1,314.1,0,Dormant / Low-Value
+14626,24,4,2791.27,1,Regular Customers
+14628,91,2,671.96,0,Dormant / Low-Value
+14629,4,2,955.26,2,Recent / Developing
+14631,51,3,1006.98,1,Regular Customers
+14632,263,1,114.56,0,Dormant / Low-Value
+14633,266,1,344.90000000000003,0,Dormant / Low-Value
+14636,36,2,609.85,2,Recent / Developing
+14638,51,1,443.6,0,Dormant / Low-Value
+14639,52,5,2307.95,1,Regular Customers
+14640,24,6,2107.38,1,Regular Customers
+14641,22,1,110.46000000000001,2,Recent / Developing
+14642,59,1,96.12,0,Dormant / Low-Value
+14643,170,1,335.87,0,Dormant / Low-Value
+14644,68,2,830.76,1,Regular Customers
+14645,157,2,597.09,0,Dormant / Low-Value
+14647,201,1,236.04000000000002,0,Dormant / Low-Value
+14649,5,4,1402.59,3,High-Value Customers
+14651,67,2,653.75,1,Regular Customers
+14652,77,1,114.18,0,Dormant / Low-Value
+14653,1,7,1926.65,3,High-Value Customers
+14655,8,4,1932.23,1,Regular Customers
+14656,169,2,291.05,0,Dormant / Low-Value
+14657,18,4,848.22,1,Regular Customers
+14658,5,2,247.15,2,Recent / Developing
+14659,9,9,2529.93,3,High-Value Customers
+14660,87,2,285.74,0,Dormant / Low-Value
+14661,27,1,107.95,2,Recent / Developing
+14662,29,4,741.37,1,Regular Customers
+14664,20,2,636.24,2,Recent / Developing
+14665,61,5,1835.7,1,Regular Customers
+14666,24,1,195.25,2,Recent / Developing
+14667,11,20,7203.0,3,High-Value Customers
+14669,242,3,1259.24,1,Regular Customers
+14670,280,2,392.86,0,Dormant / Low-Value
+14672,235,2,765.5500000000001,0,Dormant / Low-Value
+14673,3,4,1362.91,3,High-Value Customers
+14675,16,1,596.36,2,Recent / Developing
+14676,31,6,2548.2400000000002,1,Regular Customers
+14680,25,14,25878.71,3,High-Value Customers
+14681,71,3,498.95,1,Regular Customers
+14682,188,2,52.0,0,Dormant / Low-Value
+14684,26,4,1033.15,1,Regular Customers
+14687,107,1,628.38,0,Dormant / Low-Value
+14688,8,20,5134.12,3,High-Value Customers
+14689,209,1,112.80000000000001,0,Dormant / Low-Value
+14690,44,2,355.05,2,Recent / Developing
+14691,31,5,2114.33,1,Regular Customers
+14692,137,4,591.55,1,Regular Customers
+14693,264,1,172.9,0,Dormant / Low-Value
+14696,4,6,1784.33,3,High-Value Customers
+14697,218,2,188.61,0,Dormant / Low-Value
+14698,2,5,1217.27,3,High-Value Customers
+14699,214,1,109.13000000000001,0,Dormant / Low-Value
+14700,32,3,2195.1,1,Regular Customers
+14701,11,9,2526.09,3,High-Value Customers
+14702,1,16,2941.34,3,High-Value Customers
+14703,15,1,318.17,2,Recent / Developing
+14704,11,9,1493.96,3,High-Value Customers
+14705,199,1,179.0,0,Dormant / Low-Value
+14708,3,2,707.3100000000001,2,Recent / Developing
+14709,15,12,4606.9400000000005,3,High-Value Customers
+14710,14,4,599.48,2,Recent / Developing
+14711,10,11,2839.62,3,High-Value Customers
+14712,29,3,917.07,1,Regular Customers
+14713,9,9,2236.35,3,High-Value Customers
+14714,24,1,160.19,2,Recent / Developing
+14715,25,4,867.38,1,Regular Customers
+14716,43,2,307.51,2,Recent / Developing
+14719,2,5,1581.84,3,High-Value Customers
+14720,6,3,663.81,2,Recent / Developing
+14722,147,1,180.42,0,Dormant / Low-Value
+14723,10,3,666.71,2,Recent / Developing
+14725,25,1,655.58,2,Recent / Developing
+14727,274,1,268.58,0,Dormant / Low-Value
+14730,1,8,1897.57,3,High-Value Customers
+14731,47,3,380.02,2,Recent / Developing
+14732,8,8,2702.4900000000002,3,High-Value Customers
+14733,16,9,5228.6900000000005,3,High-Value Customers
+14735,4,31,5813.49,3,High-Value Customers
+14737,4,2,730.55,2,Recent / Developing
+14738,43,7,1314.45,1,Regular Customers
+14739,4,6,3188.4,3,High-Value Customers
+14740,197,3,1448.21,1,Regular Customers
+14741,12,4,905.04,1,Regular Customers
+14744,16,6,874.98,1,Regular Customers
+14745,113,5,1220.26,1,Regular Customers
+14747,249,1,328.2,0,Dormant / Low-Value
+14748,29,3,945.33,1,Regular Customers
+14752,44,1,389.64000000000004,2,Recent / Developing
+14753,87,1,563.15,0,Dormant / Low-Value
+14754,45,2,638.05,1,Regular Customers
+14755,10,11,5010.28,3,High-Value Customers
+14756,15,1,738.96,2,Recent / Developing
+14757,75,1,420.5,0,Dormant / Low-Value
+14758,145,4,1484.06,1,Regular Customers
+14759,5,3,1625.97,2,Recent / Developing
+14760,297,1,89.2,0,Dormant / Low-Value
+14761,59,2,255.9,0,Dormant / Low-Value
+14762,264,1,300.52,0,Dormant / Low-Value
+14764,47,1,278.3,0,Dormant / Low-Value
+14765,29,3,254.11,2,Recent / Developing
+14766,8,5,2292.97,3,High-Value Customers
+14768,17,2,192.60000000000002,2,Recent / Developing
+14769,3,7,10069.97,3,High-Value Customers
+14770,232,2,876.4200000000001,0,Dormant / Low-Value
+14772,112,1,139.26,0,Dormant / Low-Value
+14775,58,2,605.34,1,Regular Customers
+14776,51,11,2538.2999999999997,3,High-Value Customers
+14778,127,2,730.86,0,Dormant / Low-Value
+14779,281,3,386.15,0,Dormant / Low-Value
+14780,55,2,447.68,0,Dormant / Low-Value
+14782,320,1,200.10000000000002,0,Dormant / Low-Value
+14784,26,2,289.99,2,Recent / Developing
+14785,10,2,77.4,2,Recent / Developing
+14788,7,2,679.44,2,Recent / Developing
+14789,29,1,197.64,2,Recent / Developing
+14790,17,4,745.06,1,Regular Customers
+14792,64,1,6.2,0,Dormant / Low-Value
+14793,21,1,228.99,2,Recent / Developing
+14794,3,7,1319.91,3,High-Value Customers
+14795,166,1,131.45000000000002,0,Dormant / Low-Value
+14796,1,15,6946.67,3,High-Value Customers
+14798,53,3,173.74,0,Dormant / Low-Value
+14799,51,1,157.7,0,Dormant / Low-Value
+14800,48,10,3111.94,3,High-Value Customers
+14801,61,1,189.34,0,Dormant / Low-Value
+14803,162,3,845.5500000000001,1,Regular Customers
+14804,9,1,353.27,2,Recent / Developing
+14805,15,4,546.4,2,Recent / Developing
+14806,75,1,193.39000000000001,0,Dormant / Low-Value
+14808,40,8,2718.6,1,Regular Customers
+14810,41,10,1907.44,1,Regular Customers
+14815,37,2,778.5,1,Regular Customers
+14816,197,1,271.85,0,Dormant / Low-Value
+14817,200,2,1110.34,0,Dormant / Low-Value
+14818,74,3,657.8,1,Regular Customers
+14819,64,2,272.07,0,Dormant / Low-Value
+14820,21,4,507.29,1,Regular Customers
+14823,180,3,321.43,0,Dormant / Low-Value
+14824,10,4,1127.71,1,Regular Customers
+14825,4,10,1824.5800000000002,3,High-Value Customers
+14828,197,3,2139.76,1,Regular Customers
+14829,29,2,312.22,2,Recent / Developing
+14830,53,1,188.88,0,Dormant / Low-Value
+14834,18,6,1720.3,1,Regular Customers
+14836,10,3,102.45,2,Recent / Developing
+14837,90,4,1649.5,1,Regular Customers
+14840,268,1,62.85,0,Dormant / Low-Value
+14841,53,5,2900.6,1,Regular Customers
+14842,44,4,2824.69,1,Regular Customers
+14844,64,4,3189.81,1,Regular Customers
+14847,149,1,309.40000000000003,0,Dormant / Low-Value
+14849,22,20,7363.650000000001,3,High-Value Customers
+14850,312,1,325.75,0,Dormant / Low-Value
+14851,23,2,511.35,2,Recent / Developing
+14852,58,6,2836.69,1,Regular Customers
+14853,24,2,475.8,2,Recent / Developing
+14854,78,7,2740.03,1,Regular Customers
+14855,119,2,645.65,0,Dormant / Low-Value
+14856,36,3,1290.53,1,Regular Customers
+14857,60,2,1173.1200000000001,1,Regular Customers
+14859,13,4,1353.74,1,Regular Customers
+14860,19,1,170.32,2,Recent / Developing
+14861,52,1,125.79,0,Dormant / Low-Value
+14862,26,2,841.2,2,Recent / Developing
+14863,29,1,266.76,2,Recent / Developing
+14865,7,1,15.0,2,Recent / Developing
+14866,11,11,14286.220000000001,3,High-Value Customers
+14867,186,3,710.28,1,Regular Customers
+14868,3,8,2953.59,3,High-Value Customers
+14869,9,2,721.45,2,Recent / Developing
+14870,262,1,327.25,0,Dormant / Low-Value
+14871,3,3,380.33,2,Recent / Developing
+14873,210,1,519.68,0,Dormant / Low-Value
+14875,108,2,1465.32,1,Regular Customers
+14878,13,8,1154.08,3,High-Value Customers
+14880,77,3,690.59,1,Regular Customers
+14881,20,1,255.4,2,Recent / Developing
+14882,27,2,589.7,2,Recent / Developing
+14883,19,6,761.59,1,Regular Customers
+14885,132,1,765.3199999999999,0,Dormant / Low-Value
+14886,253,1,364.8,0,Dormant / Low-Value
+14887,79,1,1862.0,1,Regular Customers
+14888,207,1,369.2,0,Dormant / Low-Value
+14889,336,1,135.9,0,Dormant / Low-Value
+14890,254,1,125.65,0,Dormant / Low-Value
+14891,148,2,554.38,0,Dormant / Low-Value
+14893,10,2,1237.8500000000001,2,Recent / Developing
+14894,85,1,655.75,0,Dormant / Low-Value
+14895,8,20,11138.710000000001,3,High-Value Customers
+14896,205,1,211.55,0,Dormant / Low-Value
+14897,8,4,1366.38,1,Regular Customers
+14898,23,5,1170.81,1,Regular Customers
+14901,11,6,924.24,1,Regular Customers
+14902,26,1,332.66,2,Recent / Developing
+14903,21,5,2795.33,1,Regular Customers
+14904,2,2,1025.44,2,Recent / Developing
+14905,158,2,616.15,0,Dormant / Low-Value
+14907,3,4,2540.4100000000003,3,High-Value Customers
+14908,74,1,277.8,0,Dormant / Low-Value
+14910,3,4,434.35,2,Recent / Developing
+14913,36,3,926.5600000000001,1,Regular Customers
+14915,91,2,307.48,0,Dormant / Low-Value
+14916,71,4,1268.98,1,Regular Customers
+14918,116,2,1610.15,1,Regular Customers
+14920,213,2,977.77,0,Dormant / Low-Value
+14921,30,2,1316.07,1,Regular Customers
+14923,51,1,749.1,0,Dormant / Low-Value
+14924,246,1,310.05,0,Dormant / Low-Value
+14929,32,1,223.88,2,Recent / Developing
+14944,30,12,5900.25,3,High-Value Customers
+14946,14,1,100.9,2,Recent / Developing
+14947,72,2,290.82,0,Dormant / Low-Value
+14948,23,6,1101.97,1,Regular Customers
+14950,19,1,371.2,2,Recent / Developing
+14951,79,1,311.69,0,Dormant / Low-Value
+14952,60,10,7413.33,3,High-Value Customers
+14953,25,1,285.67,2,Recent / Developing
+14954,12,1,294.85,2,Recent / Developing
+14957,253,1,58.49,0,Dormant / Low-Value
+14958,147,3,483.73,0,Dormant / Low-Value
+14959,64,4,695.42,1,Regular Customers
+14960,8,2,221.27,2,Recent / Developing
+14961,11,7,5861.9800000000005,3,High-Value Customers
+14962,271,1,126.7,0,Dormant / Low-Value
+14963,10,5,1472.34,1,Regular Customers
+14964,247,1,206.21,0,Dormant / Low-Value
+14965,96,2,596.09,0,Dormant / Low-Value
+14966,15,1,183.02,2,Recent / Developing
+14967,50,1,463.8,0,Dormant / Low-Value
+14968,30,1,147.59,2,Recent / Developing
+14970,68,4,1592.06,1,Regular Customers
+14971,35,3,1097.98,1,Regular Customers
+14972,128,1,114.77,0,Dormant / Low-Value
+14973,107,3,1314.45,1,Regular Customers
+14974,37,1,89.94,0,Dormant / Low-Value
+14975,57,1,279.94,0,Dormant / Low-Value
+14976,57,7,790.86,1,Regular Customers
+14978,72,5,1921.3700000000001,1,Regular Customers
+14981,246,1,102.12,0,Dormant / Low-Value
+14984,19,2,202.37,2,Recent / Developing
+14985,198,1,172.24,0,Dormant / Low-Value
+14987,16,1,163.2,2,Recent / Developing
+14988,212,1,334.54,0,Dormant / Low-Value
+14995,39,2,231.98000000000002,2,Recent / Developing
+14997,46,3,546.1999999999999,1,Regular Customers
+14998,170,2,414.87,0,Dormant / Low-Value
+15000,48,1,490.52,0,Dormant / Low-Value
+15002,116,3,1010.11,1,Regular Customers
+15004,147,1,1220.77,0,Dormant / Low-Value
+15005,16,26,5824.96,3,High-Value Customers
+15006,51,1,480.38,0,Dormant / Low-Value
+15007,159,1,156.91,0,Dormant / Low-Value
+15009,12,3,1259.43,1,Regular Customers
+15010,36,1,308.94,2,Recent / Developing
+15012,54,1,216.48,0,Dormant / Low-Value
+15014,43,2,257.67,2,Recent / Developing
+15016,173,1,170.04,0,Dormant / Low-Value
+15017,34,1,125.58,2,Recent / Developing
+15018,39,2,384.96,2,Recent / Developing
+15019,267,1,252.81,0,Dormant / Low-Value
+15021,9,8,1673.68,3,High-Value Customers
+15022,12,4,852.39,1,Regular Customers
+15023,3,10,6291.01,3,High-Value Customers
+15024,10,8,1145.21,3,High-Value Customers
+15025,33,1,361.96,2,Recent / Developing
+15026,80,3,469.0,1,Regular Customers
+15027,31,4,1066.15,1,Regular Customers
+15028,8,3,441.16,2,Recent / Developing
+15030,72,2,518.28,0,Dormant / Low-Value
+15031,4,4,653.19,2,Recent / Developing
+15032,256,1,2188.5,0,Dormant / Low-Value
+15033,5,10,2557.18,3,High-Value Customers
+15034,16,7,3453.76,3,High-Value Customers
+15035,90,1,252.73000000000002,0,Dormant / Low-Value
+15036,72,3,429.56,1,Regular Customers
+15038,59,5,566.86,1,Regular Customers
+15039,10,45,18474.93,3,High-Value Customers
+15041,170,1,179.93,0,Dormant / Low-Value
+15042,199,1,135.93,0,Dormant / Low-Value
+15043,31,1,537.0,2,Recent / Developing
+15044,19,13,5545.18,3,High-Value Customers
+15045,152,2,735.66,0,Dormant / Low-Value
+15046,9,15,5090.42,3,High-Value Customers
+15047,270,1,343.62,0,Dormant / Low-Value
+15048,65,3,282.3,0,Dormant / Low-Value
+15049,274,1,121.17000000000002,0,Dormant / Low-Value
+15050,25,3,1737.69,1,Regular Customers
+15051,23,3,1383.36,1,Regular Customers
+15052,319,1,207.73000000000002,0,Dormant / Low-Value
+15053,5,3,693.95,2,Recent / Developing
+15054,12,2,302.1,2,Recent / Developing
+15057,275,2,1489.5,1,Regular Customers
+15058,25,11,2102.54,3,High-Value Customers
+15059,41,9,1337.72,1,Regular Customers
+15060,8,4,294.25,2,Recent / Developing
+15061,4,36,34583.479999999996,3,High-Value Customers
+15062,71,3,778.78,1,Regular Customers
+15063,213,1,370.79999999999995,0,Dormant / Low-Value
+15065,38,4,3158.13,1,Regular Customers
+15066,53,1,893.59,0,Dormant / Low-Value
+15067,78,3,1744.76,1,Regular Customers
+15068,46,2,553.36,2,Recent / Developing
+15069,179,1,1109.53,0,Dormant / Low-Value
+15071,94,2,982.07,1,Regular Customers
+15073,10,3,1043.41,2,Recent / Developing
+15074,105,1,735.67,0,Dormant / Low-Value
+15075,78,1,773.03,0,Dormant / Low-Value
+15076,173,1,880.85,0,Dormant / Low-Value
+15078,7,28,8924.460000000001,3,High-Value Customers
+15079,213,3,753.6600000000001,0,Dormant / Low-Value
+15081,22,4,393.65000000000003,2,Recent / Developing
+15083,257,1,88.2,0,Dormant / Low-Value
+15087,282,1,306.94,0,Dormant / Low-Value
+15088,21,2,1160.07,1,Regular Customers
+15089,10,6,2420.84,3,High-Value Customers
+15090,308,1,381.32,0,Dormant / Low-Value
+15091,68,1,480.71,0,Dormant / Low-Value
+15092,215,2,457.81,0,Dormant / Low-Value
+15093,18,5,3973.29,3,High-Value Customers
+15095,104,4,1370.6000000000001,1,Regular Customers
+15096,43,1,219.39000000000001,0,Dormant / Low-Value
+15097,4,1,248.08,2,Recent / Developing
+15098,182,3,39916.5,1,Regular Customers
+15099,84,1,410.48,0,Dormant / Low-Value
+15100,334,1,175.2,0,Dormant / Low-Value
+15101,9,1,215.25,2,Recent / Developing
+15103,31,2,703.36,2,Recent / Developing
+15104,197,2,993.54,0,Dormant / Low-Value
+15105,18,7,2298.93,3,High-Value Customers
+15106,18,5,1422.52,1,Regular Customers
+15107,311,4,142.45,0,Dormant / Low-Value
+15109,246,1,484.95,0,Dormant / Low-Value
+15110,24,4,996.1,1,Regular Customers
+15111,29,2,1278.98,1,Regular Customers
+15113,10,3,3509.43,1,Regular Customers
+15114,30,10,2760.56,3,High-Value Customers
+15115,18,1,340.11,2,Recent / Developing
+15116,18,4,1352.75,1,Regular Customers
+15117,15,5,1551.78,1,Regular Customers
+15118,134,1,244.8,0,Dormant / Low-Value
+15119,246,1,266.4,0,Dormant / Low-Value
+15120,134,1,358.82,0,Dormant / Low-Value
+15121,50,2,457.72,2,Recent / Developing
+15122,114,3,1633.78,1,Regular Customers
+15123,7,2,2199.31,2,Recent / Developing
+15124,23,2,184.19,2,Recent / Developing
+15125,25,15,11528.48,3,High-Value Customers
+15127,66,1,406.53000000000003,0,Dormant / Low-Value
+15128,60,4,1471.0,1,Regular Customers
+15129,50,11,3447.4,3,High-Value Customers
+15130,170,1,330.11,0,Dormant / Low-Value
+15132,18,5,977.9300000000001,1,Regular Customers
+15133,128,3,982.42,1,Regular Customers
+15134,15,8,1387.99,3,High-Value Customers
+15135,239,1,139.05,0,Dormant / Low-Value
+15136,3,4,1286.7,3,High-Value Customers
+15139,240,2,178.96,0,Dormant / Low-Value
+15140,52,7,2354.25,1,Regular Customers
+15142,46,1,498.74,2,Recent / Developing
+15143,226,1,259.45,0,Dormant / Low-Value
+15144,8,17,6580.4400000000005,3,High-Value Customers
+15145,4,4,1194.73,3,High-Value Customers
+15146,165,2,1327.16,1,Regular Customers
+15147,240,1,623.5,0,Dormant / Low-Value
+15148,11,1,301.29,2,Recent / Developing
+15149,134,1,520.8000000000001,0,Dormant / Low-Value
+15150,17,10,5291.33,3,High-Value Customers
+15152,10,13,4745.69,3,High-Value Customers
+15153,31,1,329.25,2,Recent / Developing
+15154,75,1,254.28,0,Dormant / Low-Value
+15156,1,3,961.49,2,Recent / Developing
+15157,4,2,850.61,2,Recent / Developing
+15158,45,1,401.40000000000003,2,Recent / Developing
+15159,2,28,16780.03,3,High-Value Customers
+15163,18,2,304.47,2,Recent / Developing
+15164,69,3,824.58,1,Regular Customers
+15167,321,1,158.8,0,Dormant / Low-Value
+15168,26,1,106.56,2,Recent / Developing
+15171,331,1,1289.5,0,Dormant / Low-Value
+15172,9,5,1624.05,3,High-Value Customers
+15174,323,1,135.75,0,Dormant / Low-Value
+15175,72,1,224.14,0,Dormant / Low-Value
+15178,260,1,40.5,0,Dormant / Low-Value
+15179,18,5,2206.9500000000003,1,Regular Customers
+15181,66,3,689.48,1,Regular Customers
+15182,154,2,622.85,0,Dormant / Low-Value
+15184,29,2,402.2,2,Recent / Developing
+15185,70,1,310.62,0,Dormant / Low-Value
+15186,14,2,411.41,2,Recent / Developing
+15187,2,16,4777.18,3,High-Value Customers
+15189,1,41,16225.39,3,High-Value Customers
+15192,120,2,729.32,0,Dormant / Low-Value
+15193,61,1,499.32,0,Dormant / Low-Value
+15194,3,12,6057.54,3,High-Value Customers
+15195,3,1,3861.0,2,Recent / Developing
+15197,11,2,523.11,2,Recent / Developing
+15198,92,2,193.64,0,Dormant / Low-Value
+15199,59,4,1268.7,1,Regular Customers
+15201,87,5,1236.54,1,Regular Customers
+15203,26,6,1827.8,1,Regular Customers
+15205,85,2,653.24,0,Dormant / Low-Value
+15206,10,4,420.3,2,Recent / Developing
+15208,1,4,804.72,2,Recent / Developing
+15210,225,1,331.18,0,Dormant / Low-Value
+15211,60,1,511.34000000000003,0,Dormant / Low-Value
+15212,241,1,101.8,0,Dormant / Low-Value
+15213,319,2,328.35,0,Dormant / Low-Value
+15214,2,8,1661.44,3,High-Value Customers
+15215,47,3,734.94,1,Regular Customers
+15216,88,1,96.6,0,Dormant / Low-Value
+15218,11,11,5756.89,3,High-Value Customers
+15219,176,1,305.75,0,Dormant / Low-Value
+15220,52,6,1778.96,1,Regular Customers
+15222,319,1,585.0,0,Dormant / Low-Value
+15223,226,2,755.75,0,Dormant / Low-Value
+15225,234,1,409.40000000000003,0,Dormant / Low-Value
+15226,311,1,154.41,0,Dormant / Low-Value
+15227,37,5,1219.4,1,Regular Customers
+15228,66,4,3386.71,1,Regular Customers
+15230,239,2,429.6,0,Dormant / Low-Value
+15232,113,2,612.06,0,Dormant / Low-Value
+15234,277,1,197.0,0,Dormant / Low-Value
+15235,218,9,1552.8700000000001,1,Regular Customers
+15236,299,1,321.05,0,Dormant / Low-Value
+15237,2,4,1412.32,3,High-Value Customers
+15238,29,3,1071.99,1,Regular Customers
+15239,10,2,780.59,2,Recent / Developing
+15240,45,5,1706.57,1,Regular Customers
+15241,67,8,1756.44,1,Regular Customers
+15243,74,1,316.68,0,Dormant / Low-Value
+15244,65,2,631.57,1,Regular Customers
+15245,134,3,2515.84,1,Regular Customers
+15246,238,1,328.15,0,Dormant / Low-Value
+15247,122,1,356.0,0,Dormant / Low-Value
+15249,32,13,6688.46,3,High-Value Customers
+15251,9,11,10484.99,3,High-Value Customers
+15252,36,2,740.78,1,Regular Customers
+15253,16,5,918.2,1,Regular Customers
+15254,127,1,300.36,0,Dormant / Low-Value
+15255,67,1,890.85,0,Dormant / Low-Value
+15256,149,1,98.45,0,Dormant / Low-Value
+15257,283,1,317.15,0,Dormant / Low-Value
+15258,169,2,623.16,0,Dormant / Low-Value
+15260,100,5,1390.27,1,Regular Customers
+15261,135,1,254.82,0,Dormant / Low-Value
+15262,324,1,178.95000000000002,0,Dormant / Low-Value
+15263,107,1,156.51,0,Dormant / Low-Value
+15264,64,1,393.74,0,Dormant / Low-Value
+15265,151,2,1506.1200000000001,1,Regular Customers
+15266,338,1,119.3,0,Dormant / Low-Value
+15267,22,5,1717.36,1,Regular Customers
+15269,24,1,408.8,2,Recent / Developing
+15270,16,7,2379.49,3,High-Value Customers
+15271,7,14,2381.59,3,High-Value Customers
+15272,57,2,721.94,1,Regular Customers
+15274,4,2,716.57,2,Recent / Developing
+15275,38,1,615.14,2,Recent / Developing
+15276,66,1,128.63,0,Dormant / Low-Value
+15277,47,1,255.89999999999998,0,Dormant / Low-Value
+15280,172,1,113.12,0,Dormant / Low-Value
+15281,59,9,2332.15,1,Regular Customers
+15286,50,1,240.55,0,Dormant / Low-Value
+15288,43,4,2140.87,1,Regular Customers
+15289,29,3,939.78,1,Regular Customers
+15290,5,17,7723.62,3,High-Value Customers
+15291,26,13,4019.4,3,High-Value Customers
+15292,201,1,178.39,0,Dormant / Low-Value
+15296,51,6,3672.86,1,Regular Customers
+15297,10,3,641.94,2,Recent / Developing
+15298,2,11,4402.3,3,High-Value Customers
+15299,67,4,2672.0,1,Regular Customers
+15300,64,1,496.44,0,Dormant / Low-Value
+15301,51,11,4376.58,3,High-Value Customers
+15303,290,1,574.02,0,Dormant / Low-Value
+15304,61,7,571.25,1,Regular Customers
+15306,64,3,1174.3500000000001,1,Regular Customers
+15307,96,1,205.3,0,Dormant / Low-Value
+15308,274,1,310.47,0,Dormant / Low-Value
+15311,1,82,57972.74,3,High-Value Customers
+15312,75,3,635.11,1,Regular Customers
+15313,110,1,52.0,0,Dormant / Low-Value
+15314,199,1,327.97,0,Dormant / Low-Value
+15315,64,2,570.5,0,Dormant / Low-Value
+15316,327,1,165.0,0,Dormant / Low-Value
+15318,4,1,312.62,2,Recent / Developing
+15319,284,1,204.5,0,Dormant / Low-Value
+15320,44,1,267.13,0,Dormant / Low-Value
+15321,71,3,2748.31,1,Regular Customers
+15322,86,1,679.68,0,Dormant / Low-Value
+15325,104,1,161.74,0,Dormant / Low-Value
+15326,334,1,311.71,0,Dormant / Low-Value
+15327,53,1,208.75,0,Dormant / Low-Value
+15329,39,3,1049.7,1,Regular Customers
+15330,32,2,714.9599999999999,2,Recent / Developing
+15333,208,1,1028.56,0,Dormant / Low-Value
+15334,157,3,350.82,0,Dormant / Low-Value
+15335,53,1,170.22,0,Dormant / Low-Value
+15339,66,2,574.07,0,Dormant / Low-Value
+15341,81,1,2020.52,1,Regular Customers
+15342,130,1,406.09000000000003,0,Dormant / Low-Value
+15343,87,1,364.5,0,Dormant / Low-Value
+15344,1,3,563.94,2,Recent / Developing
+15345,46,1,393.54,0,Dormant / Low-Value
+15346,333,1,252.42000000000002,0,Dormant / Low-Value
+15348,72,1,158.04,0,Dormant / Low-Value
+15349,158,2,463.91,0,Dormant / Low-Value
+15351,12,6,1659.99,3,High-Value Customers
+15353,255,1,458.47,0,Dormant / Low-Value
+15355,29,2,277.05,2,Recent / Developing
+15356,31,8,2379.11,1,Regular Customers
+15358,5,20,7722.65,3,High-Value Customers
+15360,40,1,427.93,2,Recent / Developing
+15364,96,2,913.19,1,Regular Customers
+15365,26,7,2314.32,1,Regular Customers
+15366,75,1,496.97,0,Dormant / Low-Value
+15367,57,4,1877.5900000000001,1,Regular Customers
+15368,21,1,446.94000000000005,2,Recent / Developing
+15370,41,7,2386.05,1,Regular Customers
+15372,137,1,2007.4,1,Regular Customers
+15373,8,10,1878.81,3,High-Value Customers
+15374,129,1,168.0,0,Dormant / Low-Value
+15376,40,3,1221.56,1,Regular Customers
+15379,169,6,2211.83,1,Regular Customers
+15380,9,4,1460.1599999999999,1,Regular Customers
+15381,214,2,596.85,0,Dormant / Low-Value
+15382,15,6,5955.71,3,High-Value Customers
+15384,170,1,338.84,0,Dormant / Low-Value
+15385,40,1,316.88,2,Recent / Developing
+15386,186,1,394.14,0,Dormant / Low-Value
+15389,172,1,500.0,0,Dormant / Low-Value
+15392,5,3,1196.55,2,Recent / Developing
+15393,16,2,231.86,2,Recent / Developing
+15394,10,3,1595.88,1,Regular Customers
+15395,326,1,107.45,0,Dormant / Low-Value
+15396,113,1,288.18,0,Dormant / Low-Value
+15397,290,1,94.0,0,Dormant / Low-Value
+15398,16,2,1345.53,1,Regular Customers
+15399,1,3,815.77,2,Recent / Developing
+15400,92,5,716.2,1,Regular Customers
+15402,149,2,626.77,0,Dormant / Low-Value
+15405,189,1,349.1,0,Dormant / Low-Value
+15406,31,2,510.71000000000004,2,Recent / Developing
+15407,34,4,1046.74,1,Regular Customers
+15408,264,1,267.18,0,Dormant / Low-Value
+15410,84,8,3450.84,1,Regular Customers
+15411,26,4,1348.93,1,Regular Customers
+15412,171,1,190.53,0,Dormant / Low-Value
+15414,10,3,774.9000000000001,2,Recent / Developing
+15415,313,1,559.61,0,Dormant / Low-Value
+15416,65,4,3984.32,1,Regular Customers
+15417,85,1,508.8,0,Dormant / Low-Value
+15419,25,1,135.86,2,Recent / Developing
+15421,59,4,950.36,1,Regular Customers
+15422,323,2,97.7,0,Dormant / Low-Value
+15423,38,1,43.5,0,Dormant / Low-Value
+15424,254,2,383.34,0,Dormant / Low-Value
+15426,19,4,1021.5,1,Regular Customers
+15427,33,3,1430.54,1,Regular Customers
+15428,15,1,93.78,2,Recent / Developing
+15429,27,2,397.35,2,Recent / Developing
+15432,23,1,171.19000000000003,2,Recent / Developing
+15433,214,2,533.3,0,Dormant / Low-Value
+15434,8,5,1041.48,1,Regular Customers
+15435,22,1,149.29,2,Recent / Developing
+15436,12,3,1067.75,1,Regular Customers
+15437,262,1,200.16,0,Dormant / Low-Value
+15438,131,1,156.57999999999998,0,Dormant / Low-Value
+15440,55,3,383.68,1,Regular Customers
+15442,249,1,594.0,0,Dormant / Low-Value
+15443,2,7,3213.59,3,High-Value Customers
+15444,9,2,1411.21,2,Recent / Developing
+15445,264,1,113.5,0,Dormant / Low-Value
+15447,331,1,155.17000000000002,0,Dormant / Low-Value
+15448,313,1,494.64,0,Dormant / Low-Value
+15449,26,3,974.52,1,Regular Customers
+15450,30,1,429.84,2,Recent / Developing
+15452,30,3,528.48,2,Recent / Developing
+15453,2,7,1371.77,3,High-Value Customers
+15456,283,2,203.37,0,Dormant / Low-Value
+15457,262,1,237.07,0,Dormant / Low-Value
+15458,25,1,161.64,2,Recent / Developing
+15462,94,3,234.6,0,Dormant / Low-Value
+15463,29,1,126.14,2,Recent / Developing
+15464,338,1,1044.65,0,Dormant / Low-Value
+15465,20,16,6486.7699999999995,3,High-Value Customers
+15466,85,1,334.53,0,Dormant / Low-Value
+15467,9,3,524.88,2,Recent / Developing
+15468,51,2,467.51,2,Recent / Developing
+15469,50,2,538.55,2,Recent / Developing
+15471,2,1,454.48,2,Recent / Developing
+15472,113,1,371.56,0,Dormant / Low-Value
+15473,14,7,1771.2,3,High-Value Customers
+15475,77,1,454.11,0,Dormant / Low-Value
+15478,40,2,1399.92,1,Regular Customers
+15482,16,10,10331.32,3,High-Value Customers
+15483,161,4,225.26,0,Dormant / Low-Value
+15484,1,4,3590.41,3,High-Value Customers
+15485,30,2,1624.91,1,Regular Customers
+15488,93,1,91.32000000000001,0,Dormant / Low-Value
+15489,23,3,1134.28,1,Regular Customers
+15491,95,6,3100.09,1,Regular Customers
+15492,28,2,659.46,2,Recent / Developing
+15493,33,5,1953.41,1,Regular Customers
+15494,21,2,1280.58,1,Regular Customers
+15497,18,2,1262.2,1,Regular Customers
+15498,3,25,12339.68,3,High-Value Customers
+15500,8,4,1131.56,1,Regular Customers
+15502,16,9,9455.53,3,High-Value Customers
+15504,81,1,52.83,0,Dormant / Low-Value
+15505,53,5,3610.96,1,Regular Customers
+15506,23,3,972.08,1,Regular Customers
+15507,172,1,475.86,0,Dormant / Low-Value
+15508,189,6,1000.27,1,Regular Customers
+15510,331,1,250.0,0,Dormant / Low-Value
+15511,12,5,900.53,1,Regular Customers
+15512,156,1,19.8,0,Dormant / Low-Value
+15513,33,17,13444.72,3,High-Value Customers
+15514,12,7,2199.01,3,High-Value Customers
+15516,45,3,62.43,0,Dormant / Low-Value
+15517,233,1,267.03,0,Dormant / Low-Value
+15518,64,8,1921.55,1,Regular Customers
+15520,2,1,343.5,2,Recent / Developing
+15521,40,8,3000.2,1,Regular Customers
+15522,33,2,397.99,2,Recent / Developing
+15523,84,1,412.01000000000005,0,Dormant / Low-Value
+15524,25,1,440.0,2,Recent / Developing
+15525,2,2,459.44,2,Recent / Developing
+15526,33,2,148.44,2,Recent / Developing
+15527,19,7,2207.13,3,High-Value Customers
+15528,254,1,229.33,0,Dormant / Low-Value
+15529,23,9,3641.14,3,High-Value Customers
+15530,22,4,1497.31,1,Regular Customers
+15531,8,2,1972.39,2,Recent / Developing
+15532,25,3,1210.93,1,Regular Customers
+15533,19,3,807.57,1,Regular Customers
+15535,173,4,502.9,1,Regular Customers
+15537,163,1,110.92,0,Dormant / Low-Value
+15539,7,1,538.46,2,Recent / Developing
+15540,11,1,213.3,2,Recent / Developing
+15541,114,1,85.13000000000001,0,Dormant / Low-Value
+15543,288,1,127.86,0,Dormant / Low-Value
+15544,9,8,3192.17,3,High-Value Customers
+15545,54,1,153.64000000000001,0,Dormant / Low-Value
+15547,7,13,4143.2300000000005,3,High-Value Customers
+15549,77,3,1681.46,1,Regular Customers
+15550,4,4,575.63,2,Recent / Developing
+15551,37,1,436.06,2,Recent / Developing
+15552,217,1,90.12,0,Dormant / Low-Value
+15553,60,1,428.93,0,Dormant / Low-Value
+15554,278,1,217.2,0,Dormant / Low-Value
+15555,12,13,3805.04,3,High-Value Customers
+15556,24,1,279.77,2,Recent / Developing
+15557,29,1,468.91,2,Recent / Developing
+15561,12,4,800.5899999999999,1,Regular Customers
+15563,22,3,1130.25,1,Regular Customers
+15565,50,2,173.16000000000003,0,Dormant / Low-Value
+15567,19,1,186.01,2,Recent / Developing
+15568,3,3,758.29,2,Recent / Developing
+15569,104,5,1375.71,1,Regular Customers
+15570,7,9,3100.88,3,High-Value Customers
+15571,12,4,650.4300000000001,2,Recent / Developing
+15572,5,7,2533.42,3,High-Value Customers
+15573,32,2,591.1899999999999,2,Recent / Developing
+15574,178,1,112.1,0,Dormant / Low-Value
+15576,38,1,921.37,2,Recent / Developing
+15577,151,3,258.88,0,Dormant / Low-Value
+15578,162,1,127.1,0,Dormant / Low-Value
+15579,69,2,327.6,0,Dormant / Low-Value
+15581,121,9,3351.91,1,Regular Customers
+15582,25,3,682.9100000000001,1,Regular Customers
+15584,24,4,720.86,1,Regular Customers
+15585,177,1,455.3,0,Dormant / Low-Value
+15587,50,3,568.8,1,Regular Customers
+15589,256,3,478.53,0,Dormant / Low-Value
+15592,47,1,388.58,0,Dormant / Low-Value
+15593,71,1,199.8,0,Dormant / Low-Value
+15594,16,5,1771.78,1,Regular Customers
+15596,101,4,1004.27,1,Regular Customers
+15597,35,1,324.57,2,Recent / Developing
+15598,53,1,240.68,0,Dormant / Low-Value
+15599,27,2,761.74,2,Recent / Developing
+15601,11,12,5540.11,3,High-Value Customers
+15602,8,7,1145.32,3,High-Value Customers
+15603,79,1,48.480000000000004,0,Dormant / Low-Value
+15604,52,1,216.39000000000001,0,Dormant / Low-Value
+15605,36,4,1003.38,1,Regular Customers
+15606,61,9,2920.16,1,Regular Customers
+15607,337,1,104.76,0,Dormant / Low-Value
+15608,28,4,1093.68,1,Regular Customers
+15609,184,1,298.48,0,Dormant / Low-Value
+15610,52,1,112.46000000000001,0,Dormant / Low-Value
+15611,10,13,1591.45,3,High-Value Customers
+15612,36,2,195.15,2,Recent / Developing
+15615,10,20,9318.55,3,High-Value Customers
+15618,33,4,776.851,1,Regular Customers
+15619,11,1,336.4,2,Recent / Developing
+15620,57,2,1128.69,1,Regular Customers
+15621,4,4,1293.03,3,High-Value Customers
+15622,43,9,3709.56,3,High-Value Customers
+15623,141,1,301.03000000000003,0,Dormant / Low-Value
+15624,117,4,588.13,1,Regular Customers
+15625,104,4,1534.26,1,Regular Customers
+15626,75,2,675.8,1,Regular Customers
+15628,5,8,2551.06,3,High-Value Customers
+15630,45,2,1186.35,1,Regular Customers
+15632,16,8,3285.31,3,High-Value Customers
+15634,17,1,243.55,2,Recent / Developing
+15636,90,2,724.76,1,Regular Customers
+15637,53,1,223.36,0,Dormant / Low-Value
+15639,134,1,425.32,0,Dormant / Low-Value
+15640,4,12,9704.37,3,High-Value Customers
+15641,105,3,1578.83,1,Regular Customers
+15643,192,3,664.0,0,Dormant / Low-Value
+15644,166,4,803.54,1,Regular Customers
+15645,19,1,612.01,2,Recent / Developing
+15646,158,2,257.84000000000003,0,Dormant / Low-Value
+15648,204,2,639.5,0,Dormant / Low-Value
+15649,336,1,306.0,0,Dormant / Low-Value
+15651,37,3,646.3,1,Regular Customers
+15652,91,1,337.74,0,Dormant / Low-Value
+15653,93,2,877.44,1,Regular Customers
+15654,9,2,922.53,2,Recent / Developing
+15655,243,1,560.6700000000001,0,Dormant / Low-Value
+15656,45,4,748.5,1,Regular Customers
+15657,23,1,30.0,2,Recent / Developing
+15658,190,4,717.9,1,Regular Customers
+15659,44,1,306.45,0,Dormant / Low-Value
+15660,25,8,1391.56,1,Regular Customers
+15661,317,2,309.8,0,Dormant / Low-Value
+15663,106,1,138.14,0,Dormant / Low-Value
+15664,51,1,386.43,0,Dormant / Low-Value
+15665,168,2,2222.21,1,Regular Customers
+15667,40,1,301.32000000000005,2,Recent / Developing
+15668,218,1,76.32000000000001,0,Dormant / Low-Value
+15669,40,4,684.34,1,Regular Customers
+15670,297,1,173.05,0,Dormant / Low-Value
+15671,19,7,2657.13,3,High-Value Customers
+15673,88,4,2726.23,1,Regular Customers
+15674,73,5,2446.6,1,Regular Customers
+15675,81,3,323.69,0,Dormant / Low-Value
+15676,19,3,3435.76,1,Regular Customers
+15677,49,1,657.23,2,Recent / Developing
+15678,53,1,352.7,0,Dormant / Low-Value
+15679,24,4,781.28,1,Regular Customers
+15680,9,2,854.79,2,Recent / Developing
+15681,25,5,1426.16,1,Regular Customers
+15683,117,1,193.75,0,Dormant / Low-Value
+15687,9,9,2993.1,3,High-Value Customers
+15689,120,1,150.6,0,Dormant / Low-Value
+15690,4,2,239.76,2,Recent / Developing
+15691,252,1,136.8,0,Dormant / Low-Value
+15692,28,1,191.04,2,Recent / Developing
+15694,1,11,5632.07,3,High-Value Customers
+15695,267,2,409.98,0,Dormant / Low-Value
+15696,33,8,2711.11,1,Regular Customers
+15699,18,1,309.65,2,Recent / Developing
+15700,172,2,696.68,0,Dormant / Low-Value
+15701,2,4,1529.0,3,High-Value Customers
+15703,265,1,211.5,0,Dormant / Low-Value
+15704,140,4,2293.62,1,Regular Customers
+15705,201,1,143.1,0,Dormant / Low-Value
+15706,64,4,1060.56,1,Regular Customers
+15707,35,4,916.98,1,Regular Customers
+15708,41,6,2917.96,1,Regular Customers
+15709,284,1,133.25,0,Dormant / Low-Value
+15712,9,5,1072.3600000000001,1,Regular Customers
+15713,143,1,185.55,0,Dormant / Low-Value
+15714,12,2,330.03000000000003,2,Recent / Developing
+15716,146,3,571.71,0,Dormant / Low-Value
+15717,234,1,150.3,0,Dormant / Low-Value
+15719,33,13,5030.07,3,High-Value Customers
+15720,24,1,598.73,2,Recent / Developing
+15721,12,1,471.40000000000003,2,Recent / Developing
+15722,36,5,2211.21,1,Regular Customers
+15724,201,2,218.25,0,Dormant / Low-Value
+15725,15,1,415.25,2,Recent / Developing
+15727,17,6,3642.11,3,High-Value Customers
+15729,213,1,85.0,0,Dormant / Low-Value
+15730,66,3,1120.88,1,Regular Customers
+15732,212,1,156.02,0,Dormant / Low-Value
+15733,283,1,162.3,0,Dormant / Low-Value
+15734,115,2,1339.45,1,Regular Customers
+15737,15,8,1188.1200000000001,3,High-Value Customers
+15738,19,15,4482.77,3,High-Value Customers
+15739,66,1,449.12,0,Dormant / Low-Value
+15740,49,1,154.88,0,Dormant / Low-Value
+15743,16,4,775.96,1,Regular Customers
+15744,78,1,34.8,0,Dormant / Low-Value
+15745,19,4,1094.5900000000001,1,Regular Customers
+15746,134,1,196.88,0,Dormant / Low-Value
+15747,13,3,946.64,2,Recent / Developing
+15748,40,1,144.36,0,Dormant / Low-Value
+15749,235,3,44534.3,1,Regular Customers
+15750,3,6,2122.53,3,High-Value Customers
+15752,40,6,2366.95,1,Regular Customers
+15753,305,1,79.2,0,Dormant / Low-Value
+15754,51,3,458.57,1,Regular Customers
+15755,10,6,2364.25,3,High-Value Customers
+15756,61,4,528.01,1,Regular Customers
+15757,66,2,714.42,1,Regular Customers
+15758,25,1,205.25,2,Recent / Developing
+15759,218,2,155.8,0,Dormant / Low-Value
+15762,65,2,583.75,0,Dormant / Low-Value
+15763,32,2,1086.92,1,Regular Customers
+15764,88,6,3279.9700000000003,1,Regular Customers
+15766,64,1,315.06,0,Dormant / Low-Value
+15768,116,3,621.83,1,Regular Customers
+15769,7,25,56160.92,3,High-Value Customers
+15773,6,1,635.6800000000001,2,Recent / Developing
+15774,69,1,270.8,0,Dormant / Low-Value
+15775,245,1,104.9,0,Dormant / Low-Value
+15776,133,1,241.62,0,Dormant / Low-Value
+15777,241,3,681.5600000000001,0,Dormant / Low-Value
+15780,184,2,298.13,0,Dormant / Low-Value
+15781,25,3,345.46000000000004,2,Recent / Developing
+15782,10,3,2614.74,1,Regular Customers
+15783,11,1,246.3,2,Recent / Developing
+15785,33,5,2328.9700000000003,1,Regular Customers
+15786,46,3,4919.0,1,Regular Customers
+15787,26,3,933.26,1,Regular Customers
+15790,10,1,218.75,2,Recent / Developing
+15791,44,2,1612.69,1,Regular Customers
+15793,15,3,965.61,1,Regular Customers
+15795,150,1,610.01,0,Dormant / Low-Value
+15796,1,8,2708.61,3,High-Value Customers
+15797,113,4,2207.4,1,Regular Customers
+15799,76,3,884.14,1,Regular Customers
+15800,107,2,696.89,0,Dormant / Low-Value
+15801,46,3,1063.95,1,Regular Customers
+15802,143,1,451.42,0,Dormant / Low-Value
+15803,51,1,415.82000000000005,0,Dormant / Low-Value
+15804,1,13,4206.39,3,High-Value Customers
+15805,23,16,5117.38,3,High-Value Customers
+15806,46,3,784.58,1,Regular Customers
+15807,50,3,903.9,1,Regular Customers
+15808,306,2,1469.82,0,Dormant / Low-Value
+15809,36,5,515.77,1,Regular Customers
+15810,79,4,1391.98,1,Regular Customers
+15811,22,4,1779.82,1,Regular Customers
+15812,107,5,1801.14,1,Regular Customers
+15813,208,2,1303.9099999999999,1,Regular Customers
+15814,17,4,1945.3300000000002,1,Regular Customers
+15815,64,5,2100.6,1,Regular Customers
+15819,49,4,1905.45,1,Regular Customers
+15820,320,1,206.98,0,Dormant / Low-Value
+15821,44,2,570.96,2,Recent / Developing
+15822,3,1,445.27,2,Recent / Developing
+15825,172,1,532.94,0,Dormant / Low-Value
+15826,56,3,1654.31,1,Regular Customers
+15827,73,12,1645.16,1,Regular Customers
+15829,99,2,636.14,0,Dormant / Low-Value
+15830,38,1,576.0,2,Recent / Developing
+15831,58,3,794.64,1,Regular Customers
+15832,254,1,836.79,0,Dormant / Low-Value
+15834,70,4,2225.15,1,Regular Customers
+15835,44,4,954.09,1,Regular Customers
+15836,50,1,137.37,0,Dormant / Low-Value
+15837,65,1,391.98,0,Dormant / Low-Value
+15838,11,18,32685.58,3,High-Value Customers
+15839,33,3,1048.49,1,Regular Customers
+15840,59,2,355.56,0,Dormant / Low-Value
+15841,73,4,1224.06,1,Regular Customers
+15843,304,1,118.95,0,Dormant / Low-Value
+15844,46,1,130.73999999999998,0,Dormant / Low-Value
+15845,18,8,3711.77,3,High-Value Customers
+15847,38,2,389.27,2,Recent / Developing
+15850,19,2,234.88,2,Recent / Developing
+15852,187,2,160.71,0,Dormant / Low-Value
+15853,52,1,110.8,0,Dormant / Low-Value
+15854,4,11,2739.02,3,High-Value Customers
+15855,137,5,712.24,1,Regular Customers
+15856,4,24,12862.33,3,High-Value Customers
+15857,19,1,297.0,2,Recent / Developing
+15858,16,4,1043.64,1,Regular Customers
+15860,41,7,862.5,1,Regular Customers
+15861,12,8,3146.92,3,High-Value Customers
+15862,8,3,478.65000000000003,2,Recent / Developing
+15863,26,2,68.84,2,Recent / Developing
+15864,22,6,1936.32,1,Regular Customers
+15865,41,3,895.13,1,Regular Customers
+15866,101,1,211.89,0,Dormant / Low-Value
+15867,5,12,3254.17,3,High-Value Customers
+15869,277,2,149.64,0,Dormant / Low-Value
+15870,33,1,351.44,2,Recent / Developing
+15872,15,2,316.25,2,Recent / Developing
+15874,64,7,4405.88,1,Regular Customers
+15877,2,2,490.33,2,Recent / Developing
+15881,312,3,346.14,0,Dormant / Low-Value
+15882,199,2,145.04000000000002,0,Dormant / Low-Value
+15883,2,2,396.48,2,Recent / Developing
+15885,93,3,379.35,0,Dormant / Low-Value
+15886,60,1,181.09,0,Dormant / Low-Value
+15888,81,1,168.31,0,Dormant / Low-Value
+15889,157,1,148.0,0,Dormant / Low-Value
+15891,227,1,511.68,0,Dormant / Low-Value
+15894,253,1,106.81,0,Dormant / Low-Value
+15895,150,1,179.17,0,Dormant / Low-Value
+15897,194,2,208.59,0,Dormant / Low-Value
+15898,1,3,867.19,2,Recent / Developing
+15900,24,1,337.28000000000003,2,Recent / Developing
+15901,17,3,351.73,2,Recent / Developing
+15903,10,7,5126.76,3,High-Value Customers
+15904,8,1,164.68,2,Recent / Developing
+15906,20,7,1567.69,1,Regular Customers
+15907,4,3,882.72,2,Recent / Developing
+15909,174,1,191.94,0,Dormant / Low-Value
+15910,1,8,1228.88,3,High-Value Customers
+15912,178,2,264.62,0,Dormant / Low-Value
+15916,16,6,1270.41,1,Regular Customers
+15917,248,1,123.1,0,Dormant / Low-Value
+15918,191,2,334.23,0,Dormant / Low-Value
+15919,20,1,311.61,2,Recent / Developing
+15920,154,4,167.5,0,Dormant / Low-Value
+15921,173,1,323.03000000000003,0,Dormant / Low-Value
+15925,194,1,207.15,0,Dormant / Low-Value
+15930,67,1,426.63,0,Dormant / Low-Value
+15932,4,8,2495.87,3,High-Value Customers
+15933,21,3,1107.46,1,Regular Customers
+15935,239,2,416.86,0,Dormant / Low-Value
+15937,64,1,145.35000000000002,0,Dormant / Low-Value
+15938,112,5,404.58000000000004,1,Regular Customers
+15939,90,15,6115.01,3,High-Value Customers
+15940,311,1,35.8,0,Dormant / Low-Value
+15942,134,1,337.44,0,Dormant / Low-Value
+15944,277,1,325.1,0,Dormant / Low-Value
+15947,83,1,1708.24,1,Regular Customers
+15948,8,2,955.24,2,Recent / Developing
+15949,17,2,364.72,2,Recent / Developing
+15950,32,3,1315.89,1,Regular Customers
+15951,9,2,708.22,2,Recent / Developing
+15952,34,4,781.91,1,Regular Customers
+15953,15,7,1449.54,3,High-Value Customers
+15955,24,13,3843.88,3,High-Value Customers
+15957,32,1,428.89,2,Recent / Developing
+15958,74,1,104.35,0,Dormant / Low-Value
+15963,20,2,470.76,2,Recent / Developing
+15965,17,3,652.68,2,Recent / Developing
+15967,23,2,397.68,2,Recent / Developing
+15969,3,3,666.1,2,Recent / Developing
+15970,304,1,314.09999999999997,0,Dormant / Low-Value
+15971,17,12,4199.85,3,High-Value Customers
+15974,39,7,3442.15,1,Regular Customers
+15975,84,1,371.01,0,Dormant / Low-Value
+15976,165,2,427.64,0,Dormant / Low-Value
+15977,17,2,1054.73,2,Recent / Developing
+15978,77,1,1098.78,0,Dormant / Low-Value
+15980,89,3,2398.86,1,Regular Customers
+15981,25,8,3408.48,3,High-Value Customers
+15983,22,1,326.75,2,Recent / Developing
+15984,3,9,2657.93,3,High-Value Customers
+15985,123,2,1142.42,1,Regular Customers
+15986,30,1,168.12,2,Recent / Developing
+15987,12,6,1319.29,1,Regular Customers
+15988,19,1,156.78,2,Recent / Developing
+15990,44,2,792.11,1,Regular Customers
+15992,4,1,41.989999999999995,2,Recent / Developing
+15993,9,7,2777.67,3,High-Value Customers
+15994,55,1,414.27,0,Dormant / Low-Value
+15996,88,5,769.33,1,Regular Customers
+15998,37,4,2216.83,1,Regular Customers
+16000,3,3,12393.7,3,High-Value Customers
+16003,30,4,1554.3700000000001,1,Regular Customers
+16005,12,4,578.71,2,Recent / Developing
+16006,211,1,101.4,0,Dormant / Low-Value
+16007,48,4,1693.81,1,Regular Customers
+16008,24,3,478.78,2,Recent / Developing
+16009,22,4,972.11,1,Regular Customers
+16010,246,2,282.3,0,Dormant / Low-Value
+16011,8,14,2954.36,3,High-Value Customers
+16012,35,3,1415.29,1,Regular Customers
+16013,4,42,34157.6,3,High-Value Customers
+16014,38,3,646.83,1,Regular Customers
+16015,4,3,704.55,2,Recent / Developing
+16016,3,7,1102.49,3,High-Value Customers
+16017,47,1,211.88,0,Dormant / Low-Value
+16018,39,2,408.9,2,Recent / Developing
+16019,47,8,3567.14,1,Regular Customers
+16020,17,3,851.01,1,Regular Customers
+16022,260,1,602.63,0,Dormant / Low-Value
+16023,46,3,719.81,1,Regular Customers
+16024,12,1,251.03,2,Recent / Developing
+16025,30,1,439.65999999999997,2,Recent / Developing
+16026,43,1,236.09,0,Dormant / Low-Value
+16027,92,6,934.62,1,Regular Customers
+16029,39,57,67738.31999999999,3,High-Value Customers
+16030,310,1,331.24,0,Dormant / Low-Value
+16031,92,2,547.9,0,Dormant / Low-Value
+16033,6,18,8471.08,3,High-Value Customers
+16034,196,3,437.70000000000005,0,Dormant / Low-Value
+16036,87,2,758.9200000000001,1,Regular Customers
+16037,270,2,554.5600000000001,0,Dormant / Low-Value
+16038,8,3,471.78,2,Recent / Developing
+16040,65,3,1313.55,1,Regular Customers
+16041,31,3,3166.4,1,Regular Customers
+16042,22,5,1177.47,1,Regular Customers
+16043,37,4,773.99,1,Regular Customers
+16045,120,4,1340.7,1,Regular Customers
+16049,40,3,1074.81,1,Regular Customers
+16050,174,1,137.9,0,Dormant / Low-Value
+16052,54,1,362.06,0,Dormant / Low-Value
+16053,33,2,1511.95,1,Regular Customers
+16054,145,1,783.9,0,Dormant / Low-Value
+16055,221,1,134.8,0,Dormant / Low-Value
+16056,45,1,650.75,2,Recent / Developing
+16057,16,7,2263.12,3,High-Value Customers
+16059,66,5,1334.91,1,Regular Customers
+16062,10,3,906.06,2,Recent / Developing
+16063,260,1,335.32,0,Dormant / Low-Value
+16066,17,5,1521.04,1,Regular Customers
+16070,22,2,852.15,2,Recent / Developing
+16071,45,1,326.24,0,Dormant / Low-Value
+16072,288,1,584.3199999999999,0,Dormant / Low-Value
+16073,297,1,122.4,0,Dormant / Low-Value
+16076,3,10,2234.73,3,High-Value Customers
+16078,284,1,79.2,0,Dormant / Low-Value
+16079,17,3,1352.0,1,Regular Customers
+16080,82,2,217.16,0,Dormant / Low-Value
+16081,56,4,2641.82,1,Regular Customers
+16083,101,1,979.64,0,Dormant / Low-Value
+16084,299,1,436.18,0,Dormant / Low-Value
+16085,23,5,981.51,1,Regular Customers
+16086,59,4,944.13,1,Regular Customers
+16091,155,2,315.06,0,Dormant / Low-Value
+16092,115,3,817.86,1,Regular Customers
+16093,107,1,17.0,0,Dormant / Low-Value
+16094,12,4,1078.23,1,Regular Customers
+16096,264,1,320.62,0,Dormant / Low-Value
+16097,240,1,185.04999999999998,0,Dormant / Low-Value
+16098,88,6,1575.03,1,Regular Customers
+16099,50,3,731.9,1,Regular Customers
+16101,71,1,1290.7,1,Regular Customers
+16102,42,3,1842.14,1,Regular Customers
+16103,7,6,1429.64,3,High-Value Customers
+16104,62,1,298.21,0,Dormant / Low-Value
+16105,249,1,336.96,0,Dormant / Low-Value
+16106,66,1,108.38,0,Dormant / Low-Value
+16107,18,7,3204.1600000000003,3,High-Value Customers
+16108,85,1,842.5,0,Dormant / Low-Value
+16109,219,2,611.88,0,Dormant / Low-Value
+16110,45,3,1320.95,1,Regular Customers
+16112,143,4,195.74,0,Dormant / Low-Value
+16113,183,1,161.38,0,Dormant / Low-Value
+16114,171,1,135.75000000000003,0,Dormant / Low-Value
+16115,10,8,1660.8799999999999,3,High-Value Customers
+16116,212,1,612.78,0,Dormant / Low-Value
+16117,190,1,232.21,0,Dormant / Low-Value
+16119,8,2,423.36,2,Recent / Developing
+16120,59,4,1309.14,1,Regular Customers
+16121,57,2,854.66,1,Regular Customers
+16122,73,3,578.7,1,Regular Customers
+16123,52,1,307.78000000000003,0,Dormant / Low-Value
+16124,317,1,249.0,0,Dormant / Low-Value
+16126,29,4,6287.77,1,Regular Customers
+16127,39,1,656.25,2,Recent / Developing
+16128,18,5,1880.22,1,Regular Customers
+16131,52,6,3506.54,1,Regular Customers
+16133,4,33,14589.04,3,High-Value Customers
+16134,22,1,334.56,2,Recent / Developing
+16135,263,1,517.55,0,Dormant / Low-Value
+16136,60,3,709.38,1,Regular Customers
+16139,19,3,635.4100000000001,2,Recent / Developing
+16140,66,1,601.04,0,Dormant / Low-Value
+16141,88,1,620.4,0,Dormant / Low-Value
+16142,250,1,535.34,0,Dormant / Low-Value
+16143,3,4,1613.5900000000001,3,High-Value Customers
+16144,247,1,175.2,0,Dormant / Low-Value
+16145,9,10,3496.71,3,High-Value Customers
+16146,157,3,734.13,1,Regular Customers
+16147,134,1,375.0,0,Dormant / Low-Value
+16148,296,1,76.32000000000001,0,Dormant / Low-Value
+16149,5,2,280.52,2,Recent / Developing
+16150,43,4,1659.6,1,Regular Customers
+16152,269,1,1829.04,0,Dormant / Low-Value
+16153,50,4,1609.22,1,Regular Customers
+16156,9,9,3092.04,3,High-Value Customers
+16157,16,3,656.69,2,Recent / Developing
+16159,282,1,348.2,0,Dormant / Low-Value
+16160,65,2,1025.44,1,Regular Customers
+16161,2,16,4957.37,3,High-Value Customers
+16162,252,1,37.4,0,Dormant / Low-Value
+16163,232,1,415.00000000000006,0,Dormant / Low-Value
+16164,17,3,822.48,1,Regular Customers
+16168,11,26,3511.8,3,High-Value Customers
+16169,8,4,1822.97,1,Regular Customers
+16170,51,6,1885.05,1,Regular Customers
+16171,59,1,73.19999999999999,0,Dormant / Low-Value
+16172,95,5,1140.21,1,Regular Customers
+16173,16,6,1418.32,1,Regular Customers
+16174,126,3,1009.55,1,Regular Customers
+16175,94,4,1037.5900000000001,1,Regular Customers
+16177,50,1,331.95,0,Dormant / Low-Value
+16178,138,1,197.9,0,Dormant / Low-Value
+16179,61,1,215.83,0,Dormant / Low-Value
+16180,100,8,10254.18,1,Regular Customers
+16181,73,1,305.54,0,Dormant / Low-Value
+16182,72,4,6617.65,1,Regular Customers
+16183,67,1,338.71000000000004,0,Dormant / Low-Value
+16184,64,6,1158.79,1,Regular Customers
+16185,17,2,529.41,2,Recent / Developing
+16186,23,11,3699.2599999999998,3,High-Value Customers
+16187,32,15,6911.4400000000005,3,High-Value Customers
+16188,45,4,981.86,1,Regular Customers
+16189,16,2,215.48,2,Recent / Developing
+16190,40,1,215.08,2,Recent / Developing
+16191,3,11,4552.92,3,High-Value Customers
+16193,237,1,314.45,0,Dormant / Low-Value
+16198,75,1,400.68100000000004,0,Dormant / Low-Value
+16200,4,2,1068.8700000000001,2,Recent / Developing
+16201,3,4,1863.47,3,High-Value Customers
+16203,59,3,422.2,1,Regular Customers
+16204,23,1,384.18,2,Recent / Developing
+16205,31,4,757.63,1,Regular Customers
+16206,55,4,537.0600000000001,1,Regular Customers
+16207,25,1,394.38,2,Recent / Developing
+16208,45,2,664.26,1,Regular Customers
+16209,89,5,2262.62,1,Regular Customers
+16210,2,14,14085.66,3,High-Value Customers
+16211,89,1,547.02,0,Dormant / Low-Value
+16212,19,2,690.34,2,Recent / Developing
+16213,79,1,159.0,0,Dormant / Low-Value
+16214,171,3,1062.75,1,Regular Customers
+16215,81,1,242.35,0,Dormant / Low-Value
+16216,267,1,914.9300000000001,0,Dormant / Low-Value
+16217,235,2,304.25,0,Dormant / Low-Value
+16218,30,6,2613.38,1,Regular Customers
+16221,37,2,694.12,2,Recent / Developing
+16222,318,1,773.55,0,Dormant / Low-Value
+16224,57,4,1295.3,1,Regular Customers
+16225,45,5,1096.32,1,Regular Customers
+16226,203,3,255.12,0,Dormant / Low-Value
+16227,225,1,314.22,0,Dormant / Low-Value
+16229,87,2,1010.6,1,Regular Customers
+16230,190,2,542.03,0,Dormant / Low-Value
+16232,44,4,990.88,1,Regular Customers
+16233,71,2,389.28000000000003,0,Dormant / Low-Value
+16235,41,5,867.3100000000001,1,Regular Customers
+16236,78,1,432.2,0,Dormant / Low-Value
+16239,57,2,414.2,0,Dormant / Low-Value
+16240,24,2,3718.8,1,Regular Customers
+16241,10,12,2312.66,3,High-Value Customers
+16242,8,7,3579.86,3,High-Value Customers
+16243,34,2,409.1,2,Recent / Developing
+16244,212,1,466.12,0,Dormant / Low-Value
+16245,24,3,1413.66,1,Regular Customers
+16247,170,1,114.56,0,Dormant / Low-Value
+16248,62,1,152.94,0,Dormant / Low-Value
+16249,53,5,1800.07,1,Regular Customers
+16250,261,1,163.3,0,Dormant / Low-Value
+16253,67,2,3683.86,1,Regular Customers
+16255,17,7,2245.66,3,High-Value Customers
+16256,267,1,752.4300000000001,0,Dormant / Low-Value
+16257,177,1,46.95,0,Dormant / Low-Value
+16258,45,5,5203.51,1,Regular Customers
+16260,51,1,1035.45,1,Regular Customers
+16261,17,4,728.54,1,Regular Customers
+16265,9,7,4606.1900000000005,3,High-Value Customers
+16266,74,7,861.89,1,Regular Customers
+16268,71,2,667.65,1,Regular Customers
+16271,3,4,1271.42,3,High-Value Customers
+16272,117,1,411.7,0,Dormant / Low-Value
+16275,197,1,559.87,0,Dormant / Low-Value
+16276,177,1,810.6,0,Dormant / Low-Value
+16278,100,1,566.38,0,Dormant / Low-Value
+16279,21,3,1502.78,1,Regular Customers
+16281,72,1,2062.06,1,Regular Customers
+16282,340,1,168.3,0,Dormant / Low-Value
+16283,6,5,1570.81,3,High-Value Customers
+16284,31,2,812.68,1,Regular Customers
+16287,170,1,142.5,0,Dormant / Low-Value
+16292,122,1,302.25,0,Dormant / Low-Value
+16293,22,9,1870.24,3,High-Value Customers
+16295,10,4,1328.55,1,Regular Customers
+16297,269,1,301.9,0,Dormant / Low-Value
+16298,23,3,598.2,2,Recent / Developing
+16302,127,1,233.22,0,Dormant / Low-Value
+16303,26,3,5360.63,1,Regular Customers
+16305,139,1,361.22,0,Dormant / Low-Value
+16306,214,5,564.17,1,Regular Customers
+16308,38,4,2560.0,1,Regular Customers
+16309,106,2,706.57,0,Dormant / Low-Value
+16311,18,2,616.26,2,Recent / Developing
+16313,3,2,274.15000000000003,2,Recent / Developing
+16315,331,1,226.37,0,Dormant / Low-Value
+16316,64,7,2630.69,1,Regular Customers
+16317,120,3,1341.65,1,Regular Customers
+16318,35,1,328.15000000000003,2,Recent / Developing
+16319,218,1,404.40000000000003,0,Dormant / Low-Value
+16322,1,2,326.75,2,Recent / Developing
+16323,196,1,207.50000000000003,0,Dormant / Low-Value
+16324,128,3,408.59000000000003,0,Dormant / Low-Value
+16325,47,3,594.24,1,Regular Customers
+16326,6,14,3039.2200000000003,3,High-Value Customers
+16327,14,5,3284.67,3,High-Value Customers
+16330,18,3,251.91,2,Recent / Developing
+16332,28,7,1582.8,1,Regular Customers
+16333,8,22,26626.8,3,High-Value Customers
+16337,37,1,151.05,2,Recent / Developing
+16338,157,1,214.8,0,Dormant / Low-Value
+16339,284,1,94.05,0,Dormant / Low-Value
+16340,107,1,534.31,0,Dormant / Low-Value
+16341,25,4,1971.8700000000001,1,Regular Customers
+16342,75,4,322.41,1,Regular Customers
+16343,16,2,328.58,2,Recent / Developing
+16344,158,1,101.10000000000001,0,Dormant / Low-Value
+16345,44,1,565.46,2,Recent / Developing
+16347,11,2,847.45,2,Recent / Developing
+16348,32,7,1415.65,1,Regular Customers
+16349,291,1,53.5,0,Dormant / Low-Value
+16350,21,4,1116.47,1,Regular Customers
+16351,333,1,153.9,0,Dormant / Low-Value
+16352,18,2,494.44,2,Recent / Developing
+16353,4,19,6165.71,3,High-Value Customers
+16354,63,2,395.8,0,Dormant / Low-Value
+16356,198,3,211.77,0,Dormant / Low-Value
+16357,33,3,658.88,1,Regular Customers
+16358,1,4,2027.5,3,High-Value Customers
+16359,7,9,1750.92,3,High-Value Customers
+16360,5,6,3450.41,3,High-Value Customers
+16361,10,4,891.21,1,Regular Customers
+16362,32,5,709.99,1,Regular Customers
+16363,53,1,109.36000000000001,0,Dormant / Low-Value
+16364,12,2,705.79,2,Recent / Developing
+16365,18,7,1171.96,1,Regular Customers
+16366,19,1,327.3,2,Recent / Developing
+16367,37,1,633.58,2,Recent / Developing
+16368,2,2,479.91,2,Recent / Developing
+16369,18,3,1545.41,1,Regular Customers
+16370,82,4,1301.91,1,Regular Customers
+16372,33,2,355.73,2,Recent / Developing
+16374,66,2,466.73,0,Dormant / Low-Value
+16376,9,2,974.96,2,Recent / Developing
+16377,267,1,676.2,0,Dormant / Low-Value
+16378,247,3,362.95,0,Dormant / Low-Value
+16379,4,4,2157.4,3,High-Value Customers
+16380,61,1,1743.1499999999999,1,Regular Customers
+16383,75,2,643.76,0,Dormant / Low-Value
+16384,90,2,584.5,0,Dormant / Low-Value
+16385,60,2,407.66,0,Dormant / Low-Value
+16386,29,2,302.57,2,Recent / Developing
+16387,323,1,94.36,0,Dormant / Low-Value
+16389,53,4,1382.0700000000002,1,Regular Customers
+16392,270,1,217.89000000000001,0,Dormant / Low-Value
+16393,2,11,2749.41,3,High-Value Customers
+16394,57,5,1555.34,1,Regular Customers
+16395,60,5,1482.06,1,Regular Customers
+16398,154,2,1705.8,1,Regular Customers
+16399,19,2,408.02,2,Recent / Developing
+16400,95,1,303.93,0,Dormant / Low-Value
+16401,1,12,4098.32,3,High-Value Customers
+16402,265,1,87.8,0,Dormant / Low-Value
+16403,312,1,177.5,0,Dormant / Low-Value
+16404,70,1,443.05,0,Dormant / Low-Value
+16405,302,2,167.25,0,Dormant / Low-Value
+16406,19,1,154.35,2,Recent / Developing
+16407,13,10,2079.68,3,High-Value Customers
+16409,36,5,2022.98,1,Regular Customers
+16411,19,1,83.15,2,Recent / Developing
+16412,54,1,135.99,0,Dormant / Low-Value
+16413,57,1,262.2,0,Dormant / Low-Value
+16414,22,2,126.25,2,Recent / Developing
+16415,44,1,200.27,0,Dormant / Low-Value
+16416,26,3,1051.4,1,Regular Customers
+16418,45,3,631.12,1,Regular Customers
+16419,113,6,958.71,1,Regular Customers
+16422,17,48,32659.08,3,High-Value Customers
+16423,25,1,346.12,2,Recent / Developing
+16424,191,1,133.56,0,Dormant / Low-Value
+16425,302,1,302.7,0,Dormant / Low-Value
+16426,2,10,1863.76,3,High-Value Customers
+16427,263,2,241.06,0,Dormant / Low-Value
+16429,106,1,284.55,0,Dormant / Low-Value
+16430,57,1,300.85,0,Dormant / Low-Value
+16431,213,3,623.28,0,Dormant / Low-Value
+16432,64,1,287.40000000000003,0,Dormant / Low-Value
+16433,28,1,184.26,2,Recent / Developing
+16434,29,7,1511.8,1,Regular Customers
+16438,6,5,798.35,2,Recent / Developing
+16440,8,5,3640.67,3,High-Value Customers
+16441,67,2,381.2,0,Dormant / Low-Value
+16442,2,2,462.24,2,Recent / Developing
+16444,46,4,654.67,1,Regular Customers
+16445,34,1,230.51,2,Recent / Developing
+16446,1,2,168472.5,3,High-Value Customers
+16447,136,1,255.91,0,Dormant / Low-Value
+16448,198,1,182.99,0,Dormant / Low-Value
+16449,198,2,707.69,0,Dormant / Low-Value
+16450,150,1,311.92,0,Dormant / Low-Value
+16451,88,1,266.97,0,Dormant / Low-Value
+16454,45,2,6.9,0,Dormant / Low-Value
+16455,64,4,1309.2,1,Regular Customers
+16456,99,4,1370.78,1,Regular Customers
+16457,218,1,208.36,0,Dormant / Low-Value
+16458,3,17,3288.84,3,High-Value Customers
+16460,28,3,811.23,1,Regular Customers
+16461,178,1,142.92,0,Dormant / Low-Value
+16462,74,3,136.0,0,Dormant / Low-Value
+16463,21,4,1422.4,1,Regular Customers
+16464,20,3,1298.66,1,Regular Customers
+16466,34,7,1595.96,1,Regular Customers
+16468,74,1,74.9,0,Dormant / Low-Value
+16469,24,4,625.42,1,Regular Customers
+16470,52,3,536.4300000000001,1,Regular Customers
+16471,275,1,223.95000000000002,0,Dormant / Low-Value
+16473,165,3,316.11,0,Dormant / Low-Value
+16474,7,7,1810.65,3,High-Value Customers
+16475,88,4,544.3,1,Regular Customers
+16477,64,5,1950.06,1,Regular Customers
+16478,25,3,331.0,2,Recent / Developing
+16479,10,2,300.83,2,Recent / Developing
+16480,76,1,769.29,0,Dormant / Low-Value
+16482,16,1,220.62,2,Recent / Developing
+16483,192,1,139.35,0,Dormant / Low-Value
+16484,174,2,404.3,0,Dormant / Low-Value
+16485,77,1,363.65,0,Dormant / Low-Value
+16488,33,3,498.8,2,Recent / Developing
+16491,47,1,731.5,2,Recent / Developing
+16493,80,4,1351.63,1,Regular Customers
+16494,297,1,826.53,0,Dormant / Low-Value
+16495,3,3,648.26,2,Recent / Developing
+16496,9,3,1599.52,1,Regular Customers
+16497,50,6,2965.69,1,Regular Customers
+16498,161,2,100.97,0,Dormant / Low-Value
+16500,5,6,400.86,2,Recent / Developing
+16503,107,3,943.84,1,Regular Customers
+16504,25,1,465.88,2,Recent / Developing
+16505,32,1,777.6,2,Recent / Developing
+16506,20,2,90.30000000000001,2,Recent / Developing
+16509,297,1,363.70000000000005,0,Dormant / Low-Value
+16511,22,3,918.33,1,Regular Customers
+16513,5,4,874.59,2,Recent / Developing
+16515,52,5,1624.14,1,Regular Customers
+16516,30,1,101.69999999999999,2,Recent / Developing
+16517,277,1,162.70000000000002,0,Dormant / Low-Value
+16518,61,2,484.32,0,Dormant / Low-Value
+16519,25,1,111.38,2,Recent / Developing
+16520,186,2,720.8100000000001,0,Dormant / Low-Value
+16523,2,21,9418.470000000001,3,High-Value Customers
+16525,2,24,12225.01,3,High-Value Customers
+16526,172,1,290.36,0,Dormant / Low-Value
+16527,81,1,228.06,0,Dormant / Low-Value
+16528,4,1,244.41,2,Recent / Developing
+16529,190,1,455.25,0,Dormant / Low-Value
+16531,22,6,1151.77,1,Regular Customers
+16532,18,3,6748.8,1,Regular Customers
+16533,19,3,1082.81,1,Regular Customers
+16535,5,1,593.75,2,Recent / Developing
+16536,110,1,548.12,0,Dormant / Low-Value
+16539,3,2,641.56,2,Recent / Developing
+16542,54,1,119.62,0,Dormant / Low-Value
+16545,165,1,339.3,0,Dormant / Low-Value
+16546,291,1,487.75,0,Dormant / Low-Value
+16549,10,10,4034.9,3,High-Value Customers
+16550,109,4,1744.31,1,Regular Customers
+16551,96,3,922.12,1,Regular Customers
+16552,243,1,284.44,0,Dormant / Low-Value
+16553,163,10,4110.38,1,Regular Customers
+16554,42,3,837.1,1,Regular Customers
+16555,35,2,285.89,2,Recent / Developing
+16556,67,6,3002.94,1,Regular Customers
+16557,24,2,281.85,2,Recent / Developing
+16558,1,18,7457.9400000000005,3,High-Value Customers
+16560,27,1,509.23,2,Recent / Developing
+16561,6,2,511.12,2,Recent / Developing
+16563,54,1,1077.74,1,Regular Customers
+16566,15,5,614.66,1,Regular Customers
+16567,194,2,865.6,0,Dormant / Low-Value
+16569,3,1,124.2,2,Recent / Developing
+16570,15,10,3738.4,3,High-Value Customers
+16571,27,3,1421.69,1,Regular Customers
+16572,127,3,1009.6,1,Regular Customers
+16573,85,2,663.61,0,Dormant / Low-Value
+16574,71,1,451.44,0,Dormant / Low-Value
+16581,183,1,105.84,0,Dormant / Low-Value
+16582,113,1,313.62,0,Dormant / Low-Value
+16584,80,2,936.08,1,Regular Customers
+16586,249,1,463.95,0,Dormant / Low-Value
+16587,232,1,225.15,0,Dormant / Low-Value
+16589,71,3,459.24,1,Regular Customers
+16591,69,1,213.5,0,Dormant / Low-Value
+16592,4,16,4113.68,3,High-Value Customers
+16593,51,3,330.03,2,Recent / Developing
+16594,75,1,181.09,0,Dormant / Low-Value
+16595,61,1,360.16,0,Dormant / Low-Value
+16596,16,1,129.5,2,Recent / Developing
+16597,4,1,90.04,2,Recent / Developing
+16598,286,1,145.05,0,Dormant / Low-Value
+16600,4,6,813.52,3,High-Value Customers
+16601,41,1,242.7,2,Recent / Developing
+16602,36,1,528.08,2,Recent / Developing
+16603,75,2,482.47,0,Dormant / Low-Value
+16607,18,12,2692.89,3,High-Value Customers
+16609,15,7,5493.46,3,High-Value Customers
+16610,219,1,75.66,0,Dormant / Low-Value
+16611,186,1,129.49,0,Dormant / Low-Value
+16612,33,4,1187.66,1,Regular Customers
+16613,70,1,618.59,0,Dormant / Low-Value
+16614,183,1,506.19,0,Dormant / Low-Value
+16616,15,2,500.42,2,Recent / Developing
+16617,236,1,151.85,0,Dormant / Low-Value
+16618,31,5,2647.59,1,Regular Customers
+16619,264,1,226.21,0,Dormant / Low-Value
+16620,4,2,178.96,2,Recent / Developing
+16621,52,4,813.48,1,Regular Customers
+16623,246,1,129.45000000000002,0,Dormant / Low-Value
+16624,81,2,810.57,1,Regular Customers
+16625,274,1,333.08,0,Dormant / Low-Value
+16626,1,17,4413.1,3,High-Value Customers
+16627,79,1,322.8,0,Dormant / Low-Value
+16628,30,5,2188.05,1,Regular Customers
+16629,74,2,408.63,0,Dormant / Low-Value
+16633,17,6,2883.1,3,High-Value Customers
+16634,223,1,53.1,0,Dormant / Low-Value
+16637,32,4,1154.47,1,Regular Customers
+16638,23,8,1609.92,1,Regular Customers
+16639,31,3,1257.51,1,Regular Customers
+16641,106,1,231.1,0,Dormant / Low-Value
+16642,5,2,688.33,2,Recent / Developing
+16643,246,1,487.51,0,Dormant / Low-Value
+16644,178,2,833.78,0,Dormant / Low-Value
+16647,170,2,214.06,0,Dormant / Low-Value
+16648,43,1,290.66,0,Dormant / Low-Value
+16650,72,1,518.42,0,Dormant / Low-Value
+16652,59,7,6773.97,1,Regular Customers
+16653,16,2,1212.66,2,Recent / Developing
+16654,141,3,373.87,0,Dormant / Low-Value
+16655,18,6,3789.52,3,High-Value Customers
+16656,22,14,8197.04,3,High-Value Customers
+16657,10,4,874.43,1,Regular Customers
+16659,189,1,39.12,0,Dormant / Low-Value
+16660,16,4,1267.65,1,Regular Customers
+16666,19,1,118.98,2,Recent / Developing
+16667,68,2,567.1800000000001,0,Dormant / Low-Value
+16668,15,6,306.72,2,Recent / Developing
+16669,24,3,1348.88,1,Regular Customers
+16670,17,10,3692.29,3,High-Value Customers
+16671,28,3,1692.27,1,Regular Customers
+16672,2,20,8134.9400000000005,3,High-Value Customers
+16674,55,2,304.24,0,Dormant / Low-Value
+16676,34,4,1592.12,1,Regular Customers
+16678,3,12,3109.99,3,High-Value Customers
+16680,43,1,183.7,0,Dormant / Low-Value
+16681,73,6,1770.3400000000001,1,Regular Customers
+16682,5,5,1028.0,3,High-Value Customers
+16684,4,24,63540.16,3,High-Value Customers
+16685,61,2,324.24,0,Dormant / Low-Value
+16686,47,6,2608.75,1,Regular Customers
+16688,1,4,1260.8600000000001,3,High-Value Customers
+16689,76,2,422.6,0,Dormant / Low-Value
+16690,72,2,225.58,0,Dormant / Low-Value
+16692,256,2,1276.0,0,Dormant / Low-Value
+16693,69,2,477.86,0,Dormant / Low-Value
+16696,135,4,657.9,1,Regular Customers
+16697,241,1,112.75,0,Dormant / Low-Value
+16698,227,2,1998.0,1,Regular Customers
+16700,9,12,4739.61,3,High-Value Customers
+16701,9,12,4921.54,3,High-Value Customers
+16705,1,18,12903.27,3,High-Value Customers
+16706,37,3,531.35,1,Regular Customers
+16708,46,1,656.63,2,Recent / Developing
+16709,85,5,3029.87,1,Regular Customers
+16710,19,8,1948.07,3,High-Value Customers
+16711,3,4,1436.83,3,High-Value Customers
+16712,9,11,3611.31,3,High-Value Customers
+16713,19,13,6152.24,3,High-Value Customers
+16714,219,3,1129.06,1,Regular Customers
+16715,78,1,301.71999999999997,0,Dormant / Low-Value
+16716,267,2,901.2,0,Dormant / Low-Value
+16717,24,5,3535.83,1,Regular Customers
+16719,15,6,1339.49,1,Regular Customers
+16720,26,1,152.95,2,Recent / Developing
+16721,262,1,292.47,0,Dormant / Low-Value
+16722,17,11,3931.29,3,High-Value Customers
+16723,91,2,576.4,0,Dormant / Low-Value
+16725,302,4,437.82,0,Dormant / Low-Value
+16726,26,4,1229.17,1,Regular Customers
+16728,46,4,1048.28,1,Regular Customers
+16729,38,21,7205.33,3,High-Value Customers
+16730,52,3,743.11,1,Regular Customers
+16732,32,1,603.75,2,Recent / Developing
+16734,52,3,646.76,1,Regular Customers
+16735,79,5,2247.41,1,Regular Customers
+16737,53,1,417.6,0,Dormant / Low-Value
+16738,298,1,3.75,0,Dormant / Low-Value
+16739,177,1,323.0,0,Dormant / Low-Value
+16742,47,1,464.9,0,Dormant / Low-Value
+16743,29,6,1782.85,1,Regular Customers
+16744,11,7,1291.91,3,High-Value Customers
+16745,87,17,7180.7,3,High-Value Customers
+16746,5,17,6368.47,3,High-Value Customers
+16747,38,2,836.0600000000001,1,Regular Customers
+16748,18,5,1515.9,1,Regular Customers
+16750,45,5,623.93,1,Regular Customers
+16751,31,1,1764.72,1,Regular Customers
+16753,58,1,223.92000000000002,0,Dormant / Low-Value
+16755,114,3,1475.43,1,Regular Customers
+16756,215,1,239.4,0,Dormant / Low-Value
+16757,319,1,106.83000000000001,0,Dormant / Low-Value
+16758,65,1,369.34000000000003,0,Dormant / Low-Value
+16759,8,3,789.79,2,Recent / Developing
+16761,97,1,316.62,0,Dormant / Low-Value
+16762,20,3,1207.24,1,Regular Customers
+16763,199,1,611.8499999999999,0,Dormant / Low-Value
+16764,4,13,2790.9500000000003,3,High-Value Customers
+16765,294,1,34.0,0,Dormant / Low-Value
+16766,273,2,1145.6,0,Dormant / Low-Value
+16767,31,11,5575.56,3,High-Value Customers
+16768,48,3,478.09000000000003,1,Regular Customers
+16769,260,1,361.54,0,Dormant / Low-Value
+16770,58,3,494.90000000000003,1,Regular Customers
+16771,33,5,2242.61,1,Regular Customers
+16773,57,1,171.59,0,Dormant / Low-Value
+16774,68,4,661.52,1,Regular Customers
+16775,10,10,1459.61,3,High-Value Customers
+16776,60,1,371.54,0,Dormant / Low-Value
+16777,80,2,222.62,0,Dormant / Low-Value
+16778,74,2,245.94,0,Dormant / Low-Value
+16779,2,20,9923.89,3,High-Value Customers
+16780,100,2,422.24,0,Dormant / Low-Value
+16782,10,11,1701.91,3,High-Value Customers
+16784,20,1,107.6,2,Recent / Developing
+16788,123,2,594.39,0,Dormant / Low-Value
+16789,8,1,80.80000000000001,2,Recent / Developing
+16790,4,6,1545.6200000000001,3,High-Value Customers
+16791,29,7,1705.78,1,Regular Customers
+16792,282,2,110.38,0,Dormant / Low-Value
+16793,57,1,243.84,0,Dormant / Low-Value
+16794,1,10,1196.5,3,High-Value Customers
+16796,89,1,305.62,0,Dormant / Low-Value
+16800,11,1,1162.65,2,Recent / Developing
+16801,163,4,1594.23,1,Regular Customers
+16803,65,1,332.3,0,Dormant / Low-Value
+16804,23,3,536.99,2,Recent / Developing
+16805,174,1,245.82,0,Dormant / Low-Value
+16806,103,4,762.16,1,Regular Customers
+16807,143,3,1121.59,1,Regular Customers
+16808,99,2,288.42,0,Dormant / Low-Value
+16809,23,5,914.69,1,Regular Customers
+16810,192,1,309.54,0,Dormant / Low-Value
+16811,5,2,547.07,2,Recent / Developing
+16813,8,10,1652.18,3,High-Value Customers
+16814,14,20,6143.41,3,High-Value Customers
+16816,103,3,341.28000000000003,0,Dormant / Low-Value
+16817,3,7,1237.45,3,High-Value Customers
+16818,11,11,3349.57,3,High-Value Customers
+16820,96,1,497.61,0,Dormant / Low-Value
+16823,227,1,358.38,0,Dormant / Low-Value
+16824,16,2,460.64,2,Recent / Developing
+16825,39,2,775.18,1,Regular Customers
+16826,51,1,341.7,0,Dormant / Low-Value
+16828,93,2,128.5,0,Dormant / Low-Value
+16829,157,1,197.22,0,Dormant / Low-Value
+16830,39,1,325.91,2,Recent / Developing
+16832,184,3,199.15,0,Dormant / Low-Value
+16833,1,4,1106.53,3,High-Value Customers
+16834,228,1,413.46,0,Dormant / Low-Value
+16835,128,1,99.1,0,Dormant / Low-Value
+16836,40,2,251.87,2,Recent / Developing
+16837,31,11,3170.98,3,High-Value Customers
+16838,197,2,588.85,0,Dormant / Low-Value
+16839,9,33,16042.11,3,High-Value Customers
+16841,37,6,1869.82,1,Regular Customers
+16842,101,3,1264.19,1,Regular Customers
+16843,43,16,10196.57,3,High-Value Customers
+16846,50,1,214.32,0,Dormant / Low-Value
+16847,43,1,193.44,0,Dormant / Low-Value
+16848,53,1,281.42,0,Dormant / Low-Value
+16849,187,1,124.57,0,Dormant / Low-Value
+16850,334,1,332.41,0,Dormant / Low-Value
+16851,4,3,342.45,2,Recent / Developing
+16852,10,2,144.91,2,Recent / Developing
+16855,24,2,328.40000000000003,2,Recent / Developing
+16856,15,1,35.400000000000006,2,Recent / Developing
+16859,145,2,747.81,0,Dormant / Low-Value
+16861,60,2,173.76,0,Dormant / Low-Value
+16863,31,1,338.55,2,Recent / Developing
+16866,141,3,207.74,0,Dormant / Low-Value
+16869,23,4,817.12,1,Regular Customers
+16871,22,6,2812.34,1,Regular Customers
+16872,77,3,680.02,1,Regular Customers
+16873,5,5,4965.9800000000005,3,High-Value Customers
+16875,67,5,2095.53,1,Regular Customers
+16877,12,6,846.62,1,Regular Customers
+16878,84,1,13.3,0,Dormant / Low-Value
+16880,31,7,1491.43,1,Regular Customers
+16881,67,1,432.0,0,Dormant / Low-Value
+16882,67,3,705.12,1,Regular Customers
+16883,187,1,144.45,0,Dormant / Low-Value
+16884,38,2,429.84,2,Recent / Developing
+16885,15,2,272.46,2,Recent / Developing
+16887,35,1,192.32999999999998,2,Recent / Developing
+16889,195,3,1578.67,1,Regular Customers
+16891,2,4,525.17,2,Recent / Developing
+16892,1,5,518.19,2,Recent / Developing
+16895,65,1,202.27,0,Dormant / Low-Value
+16897,299,2,289.78,0,Dormant / Low-Value
+16898,26,2,388.95,2,Recent / Developing
+16899,8,5,1100.51,1,Regular Customers
+16900,17,3,887.11,1,Regular Customers
+16902,116,1,1706.88,1,Regular Customers
+16903,29,1,363.2,2,Recent / Developing
+16904,4,14,3315.05,3,High-Value Customers
+16905,5,6,2783.2,3,High-Value Customers
+16906,82,4,559.59,1,Regular Customers
+16907,29,4,748.84,1,Regular Customers
+16909,72,1,379.14,0,Dormant / Low-Value
+16910,4,8,1508.96,3,High-Value Customers
+16912,29,11,2555.58,3,High-Value Customers
+16913,290,1,113.44,0,Dormant / Low-Value
+16914,36,1,183.76,2,Recent / Developing
+16915,9,6,621.6800000000001,1,Regular Customers
+16916,24,1,365.98,2,Recent / Developing
+16917,277,1,391.52,0,Dormant / Low-Value
+16918,49,6,1068.82,1,Regular Customers
+16919,156,9,2052.2400000000002,1,Regular Customers
+16921,61,1,154.18,0,Dormant / Low-Value
+16923,12,18,6518.58,3,High-Value Customers
+16924,21,3,829.89,1,Regular Customers
+16927,116,2,324.95,0,Dormant / Low-Value
+16928,80,16,2698.45,3,High-Value Customers
+16929,4,7,1295.39,3,High-Value Customers
+16930,26,3,378.89,2,Recent / Developing
+16931,5,19,4190.21,3,High-Value Customers
+16932,53,1,150.23000000000002,0,Dormant / Low-Value
+16933,1,2,563.23,2,Recent / Developing
+16934,55,2,931.03,1,Regular Customers
+16936,26,1,261.9,2,Recent / Developing
+16938,9,4,2711.6800000000003,3,High-Value Customers
+16940,52,3,3049.88,1,Regular Customers
+16942,13,9,1904.99,3,High-Value Customers
+16943,212,3,816.73,1,Regular Customers
+16945,22,18,4065.65,3,High-Value Customers
+16947,236,1,406.48,0,Dormant / Low-Value
+16948,139,3,435.02,0,Dormant / Low-Value
+16949,4,6,1286.27,3,High-Value Customers
+16950,57,2,1006.56,1,Regular Customers
+16951,135,3,1277.75,1,Regular Customers
+16952,109,2,167.61,0,Dormant / Low-Value
+16953,30,1,20.8,0,Dormant / Low-Value
+16954,1,8,1738.28,3,High-Value Customers
+16955,185,2,329.57,0,Dormant / Low-Value
+16956,18,1,308.74,2,Recent / Developing
+16957,239,2,416.64,0,Dormant / Low-Value
+16959,87,1,117.35000000000001,0,Dormant / Low-Value
+16960,39,3,507.05,1,Regular Customers
+16961,116,1,234.17000000000002,0,Dormant / Low-Value
+16963,187,1,110.55000000000001,0,Dormant / Low-Value
+16965,227,1,201.19,0,Dormant / Low-Value
+16966,8,7,2154.97,3,High-Value Customers
+16967,189,1,319.02,0,Dormant / Low-Value
+16968,4,2,439.43,2,Recent / Developing
+16969,39,3,650.41,1,Regular Customers
+16971,38,1,357.21,2,Recent / Developing
+16976,267,1,251.51999999999998,0,Dormant / Low-Value
+16978,77,1,344.33,0,Dormant / Low-Value
+16979,4,6,1852.0,3,High-Value Customers
+16980,255,2,1028.46,0,Dormant / Low-Value
+16982,61,1,384.06,0,Dormant / Low-Value
+16983,13,6,1742.38,3,High-Value Customers
+16984,88,2,4459.52,1,Regular Customers
+16985,17,9,4530.8,3,High-Value Customers
+16986,30,2,1873.2,1,Regular Customers
+16987,3,7,1616.8,3,High-Value Customers
+16988,5,1,126.12,2,Recent / Developing
+16989,7,6,1133.25,3,High-Value Customers
+16990,219,1,179.0,0,Dormant / Low-Value
+16992,11,5,1614.31,1,Regular Customers
+16996,30,4,1329.42,1,Regular Customers
+16997,288,3,702.0,0,Dormant / Low-Value
+16998,150,4,295.0,0,Dormant / Low-Value
+16999,23,2,484.82,2,Recent / Developing
+17001,1,10,3591.61,3,High-Value Customers
+17002,86,3,1493.73,1,Regular Customers
+17004,46,2,1312.1399999999999,1,Regular Customers
+17006,5,4,781.78,2,Recent / Developing
+17007,51,4,682.8100000000001,1,Regular Customers
+17010,18,1,195.36,2,Recent / Developing
+17011,30,1,270.9,2,Recent / Developing
+17014,8,3,583.4300000000001,2,Recent / Developing
+17015,29,3,1838.61,1,Regular Customers
+17017,3,15,6336.62,3,High-Value Customers
+17018,41,2,920.1,1,Regular Customers
+17019,11,3,899.26,2,Recent / Developing
+17022,31,1,71.0,2,Recent / Developing
+17024,45,3,95.85,0,Dormant / Low-Value
+17025,61,1,196.8,0,Dormant / Low-Value
+17026,185,1,121.68,0,Dormant / Low-Value
+17027,79,6,877.5600000000001,1,Regular Customers
+17029,111,2,716.0,0,Dormant / Low-Value
+17030,64,1,146.87,0,Dormant / Low-Value
+17031,12,2,380.35,2,Recent / Developing
+17033,86,2,722.34,1,Regular Customers
+17034,16,3,745.52,2,Recent / Developing
+17035,246,2,433.53000000000003,0,Dormant / Low-Value
+17037,88,1,1267.32,0,Dormant / Low-Value
+17038,30,1,112.4,2,Recent / Developing
+17040,138,1,449.73,0,Dormant / Low-Value
+17041,27,2,766.99,2,Recent / Developing
+17042,3,5,1036.58,3,High-Value Customers
+17043,32,4,1735.18,1,Regular Customers
+17044,25,1,948.48,2,Recent / Developing
+17045,113,3,339.44,0,Dormant / Low-Value
+17046,157,1,642.02,0,Dormant / Low-Value
+17047,85,3,1100.9,1,Regular Customers
+17048,118,3,925.35,1,Regular Customers
+17049,3,9,5655.03,3,High-Value Customers
+17050,96,6,3185.64,1,Regular Customers
+17051,194,1,240.89,0,Dormant / Low-Value
+17052,28,1,399.09,2,Recent / Developing
+17053,131,1,498.48,0,Dormant / Low-Value
+17054,28,5,1356.33,1,Regular Customers
+17058,82,3,1179.89,1,Regular Customers
+17059,30,4,2358.03,1,Regular Customers
+17060,266,1,234.24,0,Dormant / Low-Value
+17061,74,11,5232.2300000000005,3,High-Value Customers
+17062,314,1,102.64,0,Dormant / Low-Value
+17063,21,7,1461.14,1,Regular Customers
+17064,59,3,855.45,1,Regular Customers
+17068,12,19,4254.6900000000005,3,High-Value Customers
+17069,28,7,2126.5,1,Regular Customers
+17070,114,1,304.24,0,Dormant / Low-Value
+17071,28,9,2429.03,3,High-Value Customers
+17073,18,4,1446.09,1,Regular Customers
+17075,18,4,834.12,1,Regular Customers
+17076,36,2,689.5799999999999,2,Recent / Developing
+17078,36,2,378.2,2,Recent / Developing
+17079,78,1,118.80000000000001,0,Dormant / Low-Value
+17080,22,2,287.62,2,Recent / Developing
+17081,25,2,288.91,2,Recent / Developing
+17082,33,2,2003.8500000000001,1,Regular Customers
+17083,109,3,1405.78,1,Regular Customers
+17084,35,2,2747.9900000000002,1,Regular Customers
+17085,123,3,826.21,1,Regular Customers
+17086,7,6,2050.08,3,High-Value Customers
+17088,28,4,1991.01,1,Regular Customers
+17090,4,6,1913.45,3,High-Value Customers
+17091,3,8,3534.31,3,High-Value Customers
+17092,50,4,1774.03,1,Regular Customers
+17094,322,1,302.0,0,Dormant / Low-Value
+17095,23,3,1324.16,1,Regular Customers
+17096,15,4,1022.13,1,Regular Customers
+17100,18,2,971.74,2,Recent / Developing
+17101,10,4,1621.73,1,Regular Customers
+17102,262,1,25.5,0,Dormant / Low-Value
+17105,159,2,665.78,0,Dormant / Low-Value
+17107,33,6,10797.48,3,High-Value Customers
+17109,29,6,881.29,1,Regular Customers
+17110,165,1,163.29999999999998,0,Dormant / Low-Value
+17111,47,1,231.61,0,Dormant / Low-Value
+17114,6,8,801.12,3,High-Value Customers
+17115,8,3,837.5,2,Recent / Developing
+17117,288,1,116.2,0,Dormant / Low-Value
+17118,318,1,157.02,0,Dormant / Low-Value
+17119,3,2,606.91,2,Recent / Developing
+17120,233,1,307.46,0,Dormant / Low-Value
+17122,119,1,138.32,0,Dormant / Low-Value
+17123,162,1,345.3,0,Dormant / Low-Value
+17124,185,1,294.24,0,Dormant / Low-Value
+17125,50,1,230.5,0,Dormant / Low-Value
+17126,152,4,787.5,1,Regular Customers
+17128,335,1,157.09,0,Dormant / Low-Value
+17131,5,5,2463.17,3,High-Value Customers
+17133,16,7,4892.240000000001,3,High-Value Customers
+17134,107,2,413.2,0,Dormant / Low-Value
+17135,16,6,924.15,1,Regular Customers
+17138,276,1,380.5,0,Dormant / Low-Value
+17139,16,12,10650.77,3,High-Value Customers
+17140,247,1,454.12,0,Dormant / Low-Value
+17142,239,1,579.0,0,Dormant / Low-Value
+17144,1,2,984.57,2,Recent / Developing
+17146,106,2,451.53000000000003,0,Dormant / Low-Value
+17147,23,4,1714.59,1,Regular Customers
+17148,52,1,124.88,0,Dormant / Low-Value
+17152,195,3,1689.5,1,Regular Customers
+17153,24,1,213.78,2,Recent / Developing
+17154,75,1,329.34,0,Dormant / Low-Value
+17155,18,2,251.7,2,Recent / Developing
+17157,8,2,319.0,2,Recent / Developing
+17158,32,2,853.1800000000001,1,Regular Customers
+17159,22,3,1538.88,1,Regular Customers
+17160,31,6,3518.03,1,Regular Customers
+17162,29,10,1715.46,3,High-Value Customers
+17163,22,2,293.1,2,Recent / Developing
+17164,33,7,2467.35,1,Regular Customers
+17165,284,1,158.68,0,Dormant / Low-Value
+17166,39,2,206.34,2,Recent / Developing
+17169,58,2,835.78,1,Regular Customers
+17171,289,1,224.91,0,Dormant / Low-Value
+17172,79,1,317.76,0,Dormant / Low-Value
+17173,5,8,3766.6,3,High-Value Customers
+17174,218,1,59.9,0,Dormant / Low-Value
+17175,44,4,1443.69,1,Regular Customers
+17176,202,1,306.13,0,Dormant / Low-Value
+17179,178,2,468.79,0,Dormant / Low-Value
+17180,56,4,783.97,1,Regular Customers
+17181,57,1,84.39999999999999,0,Dormant / Low-Value
+17183,8,6,3347.31,3,High-Value Customers
+17186,47,2,144.0,0,Dormant / Low-Value
+17187,227,1,203.95,0,Dormant / Low-Value
+17188,11,6,1960.5900000000001,3,High-Value Customers
+17189,106,1,157.18,0,Dormant / Low-Value
+17190,59,2,444.74,0,Dormant / Low-Value
+17191,28,4,1583.57,1,Regular Customers
+17193,36,7,1699.3,1,Regular Customers
+17194,274,1,10.0,0,Dormant / Low-Value
+17197,30,1,1013.01,2,Recent / Developing
+17198,24,1,170.56,2,Recent / Developing
+17201,54,1,289.78000000000003,0,Dormant / Low-Value
+17203,36,6,3560.08,1,Regular Customers
+17204,175,4,1564.56,1,Regular Customers
+17205,54,1,384.08,0,Dormant / Low-Value
+17206,53,1,204.24,0,Dormant / Low-Value
+17211,27,5,1537.51,1,Regular Customers
+17212,253,1,226.85,0,Dormant / Low-Value
+17213,40,5,2165.38,1,Regular Customers
+17214,60,5,888.07,1,Regular Customers
+17217,234,1,113.5,0,Dormant / Low-Value
+17218,4,7,1350.69,3,High-Value Customers
+17219,32,1,114.23,2,Recent / Developing
+17220,24,13,2870.05,3,High-Value Customers
+17221,7,2,334.48,2,Recent / Developing
+17222,65,1,328.65,0,Dormant / Low-Value
+17223,310,1,124.05,0,Dormant / Low-Value
+17226,309,1,393.49,0,Dormant / Low-Value
+17227,19,5,797.07,1,Regular Customers
+17228,16,6,1550.14,1,Regular Customers
+17229,96,2,318.76,0,Dormant / Low-Value
+17230,264,2,878.4,0,Dormant / Low-Value
+17231,12,9,2892.71,3,High-Value Customers
+17232,3,2,417.77,2,Recent / Developing
+17233,35,1,190.88,2,Recent / Developing
+17234,183,1,149.89,0,Dormant / Low-Value
+17235,25,1,208.16,2,Recent / Developing
+17236,13,5,789.85,1,Regular Customers
+17237,11,2,314.69,2,Recent / Developing
+17238,3,15,3349.01,3,High-Value Customers
+17239,313,1,382.5,0,Dormant / Low-Value
+17242,108,2,1135.04,1,Regular Customers
+17243,1,23,7711.9,3,High-Value Customers
+17244,53,1,954.9,0,Dormant / Low-Value
+17245,205,1,171.45000000000002,0,Dormant / Low-Value
+17247,15,1,280.09000000000003,2,Recent / Developing
+17248,120,1,318.65,0,Dormant / Low-Value
+17250,4,2,381.97,2,Recent / Developing
+17252,117,2,348.90999999999997,0,Dormant / Low-Value
+17253,18,1,178.26,2,Recent / Developing
+17254,5,2,271.19,2,Recent / Developing
+17255,41,2,291.48,2,Recent / Developing
+17256,107,2,240.0,0,Dormant / Low-Value
+17259,148,1,213.28,0,Dormant / Low-Value
+17262,52,4,984.5,1,Regular Customers
+17263,208,1,63.440000000000005,0,Dormant / Low-Value
+17265,139,2,550.01,0,Dormant / Low-Value
+17266,2,3,296.58,2,Recent / Developing
+17267,127,2,317.2,0,Dormant / Low-Value
+17268,108,4,763.64,1,Regular Customers
+17272,42,4,2148.63,1,Regular Customers
+17274,35,1,107.82,2,Recent / Developing
+17277,228,2,1065.3500000000001,0,Dormant / Low-Value
+17278,241,1,246.04000000000002,0,Dormant / Low-Value
+17279,58,1,187.82999999999998,0,Dormant / Low-Value
+17282,130,3,1685.46,1,Regular Customers
+17284,60,6,1647.48,1,Regular Customers
+17286,22,1,151.37,2,Recent / Developing
+17287,26,5,826.36,1,Regular Customers
+17288,9,6,1284.07,3,High-Value Customers
+17289,32,3,931.02,1,Regular Customers
+17290,4,2,513.01,2,Recent / Developing
+17291,308,1,550.8000000000001,0,Dormant / Low-Value
+17293,8,8,1507.92,3,High-Value Customers
+17295,29,3,547.0,2,Recent / Developing
+17297,17,1,128.18,2,Recent / Developing
+17298,101,2,498.42,0,Dormant / Low-Value
+17299,12,4,656.61,2,Recent / Developing
+17301,21,1,163.24,2,Recent / Developing
+17302,15,5,1135.63,1,Regular Customers
+17306,11,18,8307.31,3,High-Value Customers
+17309,95,1,82.75,0,Dormant / Low-Value
+17311,78,2,1384.85,1,Regular Customers
+17312,139,3,644.3,1,Regular Customers
+17313,31,1,2328.84,1,Regular Customers
+17314,25,8,2527.92,3,High-Value Customers
+17315,2,37,6172.31,3,High-Value Customers
+17317,46,3,2600.34,1,Regular Customers
+17320,100,2,749.7,0,Dormant / Low-Value
+17321,8,2,657.16,2,Recent / Developing
+17323,15,7,906.52,1,Regular Customers
+17324,18,3,859.43,1,Regular Customers
+17325,280,1,96.8,0,Dormant / Low-Value
+17329,14,2,523.11,2,Recent / Developing
+17330,23,2,363.9,2,Recent / Developing
+17331,124,1,175.2,0,Dormant / Low-Value
+17333,86,1,494.25,0,Dormant / Low-Value
+17334,302,2,307.02000000000004,0,Dormant / Low-Value
+17337,151,4,1981.06,1,Regular Customers
+17338,17,7,5725.9400000000005,3,High-Value Customers
+17339,94,1,183.36,0,Dormant / Low-Value
+17340,30,9,7992.900000000001,3,High-Value Customers
+17341,157,2,265.68,0,Dormant / Low-Value
+17344,46,1,157.62,0,Dormant / Low-Value
+17345,15,4,519.6899999999999,2,Recent / Developing
+17346,4,13,2387.54,3,High-Value Customers
+17347,86,1,228.96,0,Dormant / Low-Value
+17348,15,5,1156.6,1,Regular Customers
+17349,179,1,98.25,0,Dormant / Low-Value
+17350,8,4,1281.32,1,Regular Customers
+17351,36,3,587.15,1,Regular Customers
+17353,129,2,1740.0,1,Regular Customers
+17354,51,1,1393.06,1,Regular Customers
+17356,312,1,178.22,0,Dormant / Low-Value
+17357,24,2,384.39,2,Recent / Developing
+17358,303,1,119.15,0,Dormant / Low-Value
+17359,11,1,127.86,2,Recent / Developing
+17360,17,3,568.24,2,Recent / Developing
+17361,49,3,488.2,1,Regular Customers
+17362,239,2,312.23,0,Dormant / Low-Value
+17364,1,11,4462.68,3,High-Value Customers
+17365,13,8,4767.36,3,High-Value Customers
+17367,238,1,167.55,0,Dormant / Low-Value
+17368,23,8,1878.87,3,High-Value Customers
+17370,73,4,446.18,1,Regular Customers
+17371,17,2,326.26,2,Recent / Developing
+17372,41,6,970.65,1,Regular Customers
+17373,40,4,646.92,1,Regular Customers
+17374,219,2,495.77,0,Dormant / Low-Value
+17375,199,2,290.39,0,Dormant / Low-Value
+17376,71,2,203.2,0,Dormant / Low-Value
+17377,24,17,3273.2400000000002,3,High-Value Customers
+17379,11,1,389.71999999999997,2,Recent / Developing
+17381,9,26,16671.89,3,High-Value Customers
+17382,65,1,65.4,0,Dormant / Low-Value
+17383,4,1,193.39000000000001,2,Recent / Developing
+17384,19,2,336.4,2,Recent / Developing
+17385,15,1,256.11,2,Recent / Developing
+17386,8,6,2686.42,3,High-Value Customers
+17387,20,2,746.81,2,Recent / Developing
+17388,78,4,1259.56,1,Regular Customers
+17389,1,34,31833.68,3,High-Value Customers
+17391,164,2,508.8,0,Dormant / Low-Value
+17392,307,1,145.5,0,Dormant / Low-Value
+17394,219,1,203.86999999999998,0,Dormant / Low-Value
+17396,39,7,6933.3,3,High-Value Customers
+17397,22,2,681.41,2,Recent / Developing
+17398,115,3,653.38,1,Regular Customers
+17400,126,4,1673.67,1,Regular Customers
+17402,5,11,2173.88,3,High-Value Customers
+17403,36,1,263.92,2,Recent / Developing
+17405,1,3,1031.41,2,Recent / Developing
+17406,333,2,1482.32,0,Dormant / Low-Value
+17408,163,1,32.65,0,Dormant / Low-Value
+17409,185,2,771.85,0,Dormant / Low-Value
+17410,16,5,1214.72,1,Regular Customers
+17411,12,3,778.94,2,Recent / Developing
+17412,3,5,810.3,3,High-Value Customers
+17414,44,2,778.0,1,Regular Customers
+17415,79,1,507.84,0,Dormant / Low-Value
+17416,30,7,6893.42,3,High-Value Customers
+17418,42,2,463.46000000000004,2,Recent / Developing
+17419,11,10,3852.3,3,High-Value Customers
+17420,50,2,467.98,2,Recent / Developing
+17422,16,6,1979.37,1,Regular Customers
+17423,46,2,698.41,1,Regular Customers
+17425,19,2,759.1700000000001,2,Recent / Developing
+17426,8,6,5037.26,3,High-Value Customers
+17427,72,1,100.8,0,Dormant / Low-Value
+17428,1,26,16362.9,3,High-Value Customers
+17429,128,3,524.9200000000001,0,Dormant / Low-Value
+17430,33,1,153.16,2,Recent / Developing
+17431,313,1,403.3,0,Dormant / Low-Value
+17432,18,2,365.76,2,Recent / Developing
+17433,88,1,303.16,0,Dormant / Low-Value
+17434,2,7,2373.82,3,High-Value Customers
+17436,2,2,216.3,2,Recent / Developing
+17438,254,1,388.45000000000005,0,Dormant / Low-Value
+17440,157,3,186.42000000000002,0,Dormant / Low-Value
+17442,37,6,2248.56,1,Regular Customers
+17446,177,2,120.89999999999999,0,Dormant / Low-Value
+17447,40,2,541.53,2,Recent / Developing
+17449,2,6,1834.95,3,High-Value Customers
+17450,8,44,192361.95,3,High-Value Customers
+17451,1,7,1721.4,3,High-Value Customers
+17453,18,2,486.72,2,Recent / Developing
+17454,192,3,351.68,0,Dormant / Low-Value
+17455,204,1,131.7,0,Dormant / Low-Value
+17457,127,5,1737.7,1,Regular Customers
+17458,15,1,316.5,2,Recent / Developing
+17459,43,2,657.3,1,Regular Customers
+17460,94,4,552.13,1,Regular Customers
+17461,23,3,735.82,1,Regular Customers
+17462,60,2,675.69,1,Regular Customers
+17463,16,5,1875.8600000000001,1,Regular Customers
+17464,158,1,289.96000000000004,0,Dormant / Low-Value
+17466,10,2,763.28,2,Recent / Developing
+17468,10,2,137.0,2,Recent / Developing
+17469,16,5,1870.97,1,Regular Customers
+17470,45,4,946.67,1,Regular Customers
+17472,191,3,697.54,0,Dormant / Low-Value
+17475,79,1,194.37,0,Dormant / Low-Value
+17480,78,1,511.82,0,Dormant / Low-Value
+17481,4,4,1255.59,3,High-Value Customers
+17483,65,3,414.04,1,Regular Customers
+17486,261,1,396.87,0,Dormant / Low-Value
+17489,59,2,376.64,0,Dormant / Low-Value
+17490,1,7,2092.32,3,High-Value Customers
+17491,1,9,3231.4700000000003,3,High-Value Customers
+17492,248,1,374.57,0,Dormant / Low-Value
+17495,8,2,497.56,2,Recent / Developing
+17498,76,1,272.21999999999997,0,Dormant / Low-Value
+17499,290,1,622.88,0,Dormant / Low-Value
+17500,17,3,1138.0,1,Regular Customers
+17501,221,2,288.6,0,Dormant / Low-Value
+17502,9,4,689.1,2,Recent / Developing
+17503,3,2,558.96,2,Recent / Developing
+17504,206,9,2997.03,1,Regular Customers
+17505,161,2,1145.8400000000001,1,Regular Customers
+17506,76,1,302.2,0,Dormant / Low-Value
+17507,262,2,605.58,0,Dormant / Low-Value
+17509,58,8,6083.64,1,Regular Customers
+17510,25,1,308.48,2,Recent / Developing
+17511,3,28,84351.3,3,High-Value Customers
+17512,29,10,2924.9900000000002,3,High-Value Customers
+17513,72,1,513.2,0,Dormant / Low-Value
+17514,128,1,208.65,0,Dormant / Low-Value
+17515,31,4,639.02,1,Regular Customers
+17516,15,5,764.88,1,Regular Customers
+17517,309,1,153.94,0,Dormant / Low-Value
+17519,17,5,1508.72,1,Regular Customers
+17520,54,1,546.81,0,Dormant / Low-Value
+17521,30,3,723.21,1,Regular Customers
+17522,2,5,1070.71,3,High-Value Customers
+17523,11,4,652.74,2,Recent / Developing
+17526,5,2,957.3,2,Recent / Developing
+17527,54,4,939.37,1,Regular Customers
+17528,1,8,3628.5,3,High-Value Customers
+17530,1,9,2066.48,3,High-Value Customers
+17531,190,1,296.7,0,Dormant / Low-Value
+17534,54,1,223.36,0,Dormant / Low-Value
+17535,280,1,164.4,0,Dormant / Low-Value
+17536,177,1,76.5,0,Dormant / Low-Value
+17537,30,2,887.6700000000001,1,Regular Customers
+17538,26,1,98.42,2,Recent / Developing
+17540,25,2,578.9,2,Recent / Developing
+17542,270,1,170.75,0,Dormant / Low-Value
+17545,43,3,642.32,1,Regular Customers
+17548,234,1,103.3,0,Dormant / Low-Value
+17549,24,2,148.86,2,Recent / Developing
+17550,197,3,267.16,0,Dormant / Low-Value
+17552,60,2,631.89,1,Regular Customers
+17553,130,1,1487.6,0,Dormant / Low-Value
+17554,1,5,1952.45,3,High-Value Customers
+17555,20,2,480.31,2,Recent / Developing
+17556,206,1,157.9,0,Dormant / Low-Value
+17557,14,3,541.46,2,Recent / Developing
+17560,95,5,854.95,1,Regular Customers
+17561,19,1,165.12,2,Recent / Developing
+17562,14,7,1122.38,1,Regular Customers
+17564,24,3,454.01,2,Recent / Developing
+17566,8,2,869.77,2,Recent / Developing
+17567,7,7,3813.53,3,High-Value Customers
+17569,332,1,344.14,0,Dormant / Low-Value
+17571,50,4,1425.67,1,Regular Customers
+17572,71,3,155.95000000000002,0,Dormant / Low-Value
+17573,29,3,380.6,2,Recent / Developing
+17574,243,1,185.65,0,Dormant / Low-Value
+17576,8,17,3267.83,3,High-Value Customers
+17578,218,1,143.45999999999998,0,Dormant / Low-Value
+17579,5,3,448.90000000000003,2,Recent / Developing
+17580,253,2,168.87,0,Dormant / Low-Value
+17581,1,23,10238.46,3,High-Value Customers
+17582,236,1,175.27,0,Dormant / Low-Value
+17584,7,2,1242.3,2,Recent / Developing
+17585,109,4,1116.68,1,Regular Customers
+17588,100,3,1240.2,1,Regular Customers
+17589,60,4,2404.17,1,Regular Customers
+17590,2,3,1468.02,2,Recent / Developing
+17591,73,6,1819.3700000000001,1,Regular Customers
+17593,4,4,3260.96,3,High-Value Customers
+17594,85,2,993.1800000000001,1,Regular Customers
+17595,12,2,386.69,2,Recent / Developing
+17596,23,6,2415.72,1,Regular Customers
+17597,214,1,2044.3700000000001,0,Dormant / Low-Value
+17600,18,1,161.67000000000002,2,Recent / Developing
+17601,239,1,116.00999999999999,0,Dormant / Low-Value
+17602,2,6,5054.42,3,High-Value Customers
+17603,78,1,394.72,0,Dormant / Low-Value
+17604,217,2,309.36,0,Dormant / Low-Value
+17608,33,2,191.99,2,Recent / Developing
+17609,41,5,1105.78,1,Regular Customers
+17611,7,14,3716.93,3,High-Value Customers
+17612,53,6,2048.45,1,Regular Customers
+17613,23,14,4544.55,3,High-Value Customers
+17614,57,1,386.32,0,Dormant / Low-Value
+17615,130,3,329.6,0,Dormant / Low-Value
+17616,174,2,244.79999999999998,0,Dormant / Low-Value
+17618,6,2,651.3,2,Recent / Developing
+17619,312,1,214.37,0,Dormant / Low-Value
+17620,60,1,81.44,0,Dormant / Low-Value
+17621,21,2,1140.5,1,Regular Customers
+17623,33,1,527.05,2,Recent / Developing
+17624,15,2,843.48,2,Recent / Developing
+17625,18,4,2020.4,1,Regular Customers
+17628,81,1,75.75,0,Dormant / Low-Value
+17629,6,7,1575.47,3,High-Value Customers
+17630,170,2,503.6,0,Dormant / Low-Value
+17631,2,3,528.33,2,Recent / Developing
+17633,31,4,1324.84,1,Regular Customers
+17634,36,9,2358.59,1,Regular Customers
+17636,19,1,285.56,2,Recent / Developing
+17637,31,2,547.0600000000001,2,Recent / Developing
+17639,276,1,108.5,0,Dormant / Low-Value
+17640,87,1,621.66,0,Dormant / Low-Value
+17642,120,2,712.29,0,Dormant / Low-Value
+17644,1,11,2895.64,3,High-Value Customers
+17646,219,2,757.39,0,Dormant / Low-Value
+17647,65,1,133.06,0,Dormant / Low-Value
+17648,61,4,1797.5,1,Regular Customers
+17649,138,1,868.49,0,Dormant / Low-Value
+17650,21,1,166.07999999999998,2,Recent / Developing
+17651,12,10,3945.0,3,High-Value Customers
+17652,25,12,4867.72,3,High-Value Customers
+17653,37,4,1207.56,1,Regular Customers
+17654,277,1,117.55,0,Dormant / Low-Value
+17655,11,6,1962.8400000000001,3,High-Value Customers
+17656,73,5,1674.69,1,Regular Customers
+17658,26,2,595.42,2,Recent / Developing
+17659,17,10,2639.51,3,High-Value Customers
+17660,141,1,178.75,0,Dormant / Low-Value
+17663,26,7,1802.91,1,Regular Customers
+17664,19,2,604.64,2,Recent / Developing
+17666,4,2,728.16,2,Recent / Developing
+17667,66,5,2055.51,1,Regular Customers
+17668,1,2,347.75,2,Recent / Developing
+17669,43,7,3406.7200000000003,1,Regular Customers
+17670,228,1,205.7,0,Dormant / Low-Value
+17671,16,3,1178.53,1,Regular Customers
+17672,50,2,3178.17,1,Regular Customers
+17673,1,6,1594.97,3,High-Value Customers
+17674,74,1,250.38,0,Dormant / Low-Value
+17675,1,29,19355.16,3,High-Value Customers
+17676,4,5,1070.48,3,High-Value Customers
+17677,2,26,14728.78,3,High-Value Customers
+17678,264,1,298.11,0,Dormant / Low-Value
+17679,53,2,1992.1100000000001,1,Regular Customers
+17680,24,1,184.4,2,Recent / Developing
+17682,10,5,2082.83,3,High-Value Customers
+17684,44,1,239.41,0,Dormant / Low-Value
+17685,17,5,2692.81,1,Regular Customers
+17686,7,7,5739.46,3,High-Value Customers
+17690,30,11,4038.9,3,High-Value Customers
+17692,127,3,397.68,0,Dormant / Low-Value
+17693,137,1,200.47,0,Dormant / Low-Value
+17694,142,1,283.12,0,Dormant / Low-Value
+17695,132,2,765.34,0,Dormant / Low-Value
+17696,38,6,2110.11,1,Regular Customers
+17697,236,1,338.95,0,Dormant / Low-Value
+17698,261,1,154.95,0,Dormant / Low-Value
+17700,17,4,2534.64,1,Regular Customers
+17701,253,1,417.95,0,Dormant / Low-Value
+17702,30,4,1824.37,1,Regular Customers
+17703,35,3,798.74,1,Regular Customers
+17704,169,2,885.19,0,Dormant / Low-Value
+17705,3,9,1823.52,3,High-Value Customers
+17706,4,14,10026.66,3,High-Value Customers
+17707,185,2,152.4,0,Dormant / Low-Value
+17708,188,2,263.33,0,Dormant / Low-Value
+17709,170,1,137.45,0,Dormant / Low-Value
+17711,11,2,385.1,2,Recent / Developing
+17712,45,1,522.91,2,Recent / Developing
+17714,321,1,153.0,0,Dormant / Low-Value
+17715,201,1,326.4,0,Dormant / Low-Value
+17716,23,11,5655.99,3,High-Value Customers
+17718,232,1,139.35,0,Dormant / Low-Value
+17719,38,15,5396.04,3,High-Value Customers
+17720,26,3,1093.94,1,Regular Customers
+17722,96,3,1513.9,1,Regular Customers
+17723,127,6,3276.4000000000005,1,Regular Customers
+17724,71,3,1033.0,1,Regular Customers
+17725,16,11,3439.08,3,High-Value Customers
+17727,15,1,1060.25,2,Recent / Developing
+17728,4,3,2876.01,3,High-Value Customers
+17730,3,13,5298.4800000000005,3,High-Value Customers
+17731,79,4,1240.11,1,Regular Customers
+17733,39,2,692.19,1,Regular Customers
+17734,54,3,700.63,1,Regular Customers
+17735,2,18,12655.42,3,High-Value Customers
+17736,9,3,377.44,2,Recent / Developing
+17737,9,2,168.24,2,Recent / Developing
+17738,19,4,1879.05,1,Regular Customers
+17739,12,6,2431.29,3,High-Value Customers
+17742,113,2,355.11,0,Dormant / Low-Value
+17744,4,5,1944.8799999999999,3,High-Value Customers
+17746,240,1,110.25,0,Dormant / Low-Value
+17747,113,1,71.4,0,Dormant / Low-Value
+17749,178,2,674.52,0,Dormant / Low-Value
+17750,5,9,1710.45,3,High-Value Customers
+17754,1,5,1664.6499999999999,3,High-Value Customers
+17757,1,26,5027.59,3,High-Value Customers
+17758,19,8,3408.2,3,High-Value Customers
+17759,17,3,819.96,1,Regular Customers
+17760,22,1,115.05,2,Recent / Developing
+17761,33,1,712.78,2,Recent / Developing
+17763,263,1,15.0,0,Dormant / Low-Value
+17764,51,2,772.55,1,Regular Customers
+17765,159,3,367.63,0,Dormant / Low-Value
+17767,15,1,271.2,2,Recent / Developing
+17768,8,3,2081.9,1,Regular Customers
+17769,13,10,3957.43,3,High-Value Customers
+17770,199,5,1143.27,1,Regular Customers
+17771,57,2,245.81,0,Dormant / Low-Value
+17772,11,2,173.45,2,Recent / Developing
+17774,97,4,1213.73,1,Regular Customers
+17775,255,1,56.4,0,Dormant / Low-Value
+17777,25,3,647.56,1,Regular Customers
+17779,21,3,650.32,2,Recent / Developing
+17781,159,2,188.02,0,Dormant / Low-Value
+17783,72,2,283.47,0,Dormant / Low-Value
+17785,53,1,131.94,0,Dormant / Low-Value
+17786,85,2,266.85,0,Dormant / Low-Value
+17787,153,3,1081.26,1,Regular Customers
+17788,74,2,1117.9,1,Regular Customers
+17789,281,1,225.9,0,Dormant / Low-Value
+17790,27,9,1564.75,1,Regular Customers
+17791,30,1,106.1,2,Recent / Developing
+17793,25,1,300.34,2,Recent / Developing
+17795,180,2,342.83,0,Dormant / Low-Value
+17796,40,3,575.35,1,Regular Customers
+17797,22,3,780.43,1,Regular Customers
+17799,22,9,2815.69,3,High-Value Customers
+17800,37,9,1187.21,1,Regular Customers
+17802,82,2,1184.84,1,Regular Customers
+17805,74,1,512.31,0,Dormant / Low-Value
+17806,11,1,546.04,2,Recent / Developing
+17809,16,9,4160.41,3,High-Value Customers
+17811,4,39,7761.82,3,High-Value Customers
+17812,13,3,506.51,2,Recent / Developing
+17813,14,5,1698.07,1,Regular Customers
+17816,37,3,20.35,0,Dormant / Low-Value
+17817,4,3,387.68,2,Recent / Developing
+17819,72,5,2724.75,1,Regular Customers
+17824,51,1,298.4,0,Dormant / Low-Value
+17827,5,2,716.37,2,Recent / Developing
+17830,2,3,398.7,2,Recent / Developing
+17831,33,1,35.400000000000006,0,Dormant / Low-Value
+17832,50,1,155.37,0,Dormant / Low-Value
+17835,3,3,342.24,2,Recent / Developing
+17836,47,1,110.21000000000001,0,Dormant / Low-Value
+17837,42,8,1541.23,1,Regular Customers
+17838,27,3,1817.94,1,Regular Customers
+17839,42,1,318.15,2,Recent / Developing
+17841,2,118,38051.72,3,High-Value Customers
+17843,303,1,205.48,0,Dormant / Low-Value
+17846,85,1,2033.1,1,Regular Customers
+17848,81,8,803.9,1,Regular Customers
+17849,218,4,605.8000000000001,1,Regular Customers
+17852,12,2,114.34,2,Recent / Developing
+17854,185,2,311.26,0,Dormant / Low-Value
+17856,2,4,1418.03,3,High-Value Customers
+17857,4,21,25538.34,3,High-Value Customers
+17858,6,10,3598.81,3,High-Value Customers
+17859,305,1,141.92,0,Dormant / Low-Value
+17861,3,8,2097.88,3,High-Value Customers
+17862,324,1,330.9,0,Dormant / Low-Value
+17863,59,5,2775.28,1,Regular Customers
+17864,13,3,554.85,2,Recent / Developing
+17865,31,18,9446.49,3,High-Value Customers
+17866,143,1,329.65000000000003,0,Dormant / Low-Value
+17867,30,6,1157.8700000000001,1,Regular Customers
+17869,107,4,213.86,0,Dormant / Low-Value
+17870,2,11,1539.49,3,High-Value Customers
+17871,205,1,155.9,0,Dormant / Low-Value
+17873,80,4,1644.01,1,Regular Customers
+17874,185,6,683.46,1,Regular Customers
+17877,170,1,237.61,0,Dormant / Low-Value
+17878,44,1,379.45,2,Recent / Developing
+17879,174,1,178.52,0,Dormant / Low-Value
+17881,304,1,133.35,0,Dormant / Low-Value
+17883,3,4,664.34,2,Recent / Developing
+17884,4,2,372.55,2,Recent / Developing
+17885,12,1,156.34,2,Recent / Developing
+17886,32,3,869.28,1,Regular Customers
+17887,129,1,111.35,0,Dormant / Low-Value
+17888,21,7,686.5699999999999,1,Regular Customers
+17889,212,2,201.37,0,Dormant / Low-Value
+17890,323,1,123.88,0,Dormant / Low-Value
+17891,162,1,203.85999999999999,0,Dormant / Low-Value
+17892,56,3,244.1,0,Dormant / Low-Value
+17893,225,1,107.21,0,Dormant / Low-Value
+17894,72,4,603.96,1,Regular Customers
+17895,44,1,95.45,0,Dormant / Low-Value
+17896,23,1,256.32,2,Recent / Developing
+17897,173,1,131.14,0,Dormant / Low-Value
+17898,85,2,152.06,0,Dormant / Low-Value
+17899,159,1,154.55,0,Dormant / Low-Value
+17900,190,2,112.19999999999999,0,Dormant / Low-Value
+17901,29,1,110.38,2,Recent / Developing
+17904,21,1,181.07,2,Recent / Developing
+17905,71,2,406.09000000000003,0,Dormant / Low-Value
+17906,247,1,72.9,0,Dormant / Low-Value
+17911,9,1,366.23,2,Recent / Developing
+17912,310,1,21.6,0,Dormant / Low-Value
+17913,59,1,190.6,0,Dormant / Low-Value
+17914,4,1,329.36,2,Recent / Developing
+17917,45,2,227.87,2,Recent / Developing
+17919,88,1,1304.04,0,Dormant / Low-Value
+17920,4,15,3444.54,3,High-Value Customers
+17921,64,4,820.23,1,Regular Customers
+17923,282,1,207.50000000000003,0,Dormant / Low-Value
+17924,12,6,2683.5,3,High-Value Customers
+17926,133,2,397.29,0,Dormant / Low-Value
+17928,45,2,212.54,2,Recent / Developing
+17929,11,4,843.0,1,Regular Customers
+17930,36,5,1740.48,1,Regular Customers
+17931,134,2,408.36,0,Dormant / Low-Value
+17932,29,3,1331.57,1,Regular Customers
+17934,52,2,704.25,1,Regular Customers
+17935,138,2,145.79,0,Dormant / Low-Value
+17936,5,1,380.13,2,Recent / Developing
+17937,9,5,2147.34,3,High-Value Customers
+17939,160,1,99.14,0,Dormant / Low-Value
+17940,49,10,4020.04,3,High-Value Customers
+17941,131,1,304.56,0,Dormant / Low-Value
+17942,8,1,77.50000000000001,2,Recent / Developing
+17946,233,2,149.57999999999998,0,Dormant / Low-Value
+17947,37,1,176.68,2,Recent / Developing
+17948,147,1,358.56000000000006,0,Dormant / Low-Value
+17949,1,44,57196.48,3,High-Value Customers
+17950,72,1,219.03,0,Dormant / Low-Value
+17951,40,1,599.0400000000001,2,Recent / Developing
+17954,5,10,2185.45,3,High-Value Customers
+17955,199,4,557.3,1,Regular Customers
+17956,249,1,12.75,0,Dormant / Low-Value
+17957,66,1,111.68,0,Dormant / Low-Value
+17958,117,1,508.46000000000004,0,Dormant / Low-Value
+17960,171,1,73.78,0,Dormant / Low-Value
+17961,21,36,726.69,3,High-Value Customers
+17962,142,1,102.41,0,Dormant / Low-Value
+17964,32,1,201.45,2,Recent / Developing
+17965,38,12,2448.64,3,High-Value Customers
+17966,38,5,1098.43,1,Regular Customers
+17969,166,1,103.0,0,Dormant / Low-Value
+17970,211,1,562.79,0,Dormant / Low-Value
+17972,242,1,135.19,0,Dormant / Low-Value
+17973,52,1,337.04,0,Dormant / Low-Value
+17974,25,3,703.99,1,Regular Customers
+17975,15,11,3861.77,3,High-Value Customers
+17977,29,1,288.14,2,Recent / Developing
+17979,36,4,732.41,1,Regular Customers
+17980,166,2,516.25,0,Dormant / Low-Value
+17984,145,1,152.68,0,Dormant / Low-Value
+17985,22,1,631.35,2,Recent / Developing
+17986,56,1,20.8,0,Dormant / Low-Value
+17987,185,1,198.57,0,Dormant / Low-Value
+17988,12,7,201.12,2,Recent / Developing
+17990,237,1,314.84000000000003,0,Dormant / Low-Value
+17991,225,2,93.35,0,Dormant / Low-Value
+17994,122,4,674.89,1,Regular Customers
+17995,282,1,76.1,0,Dormant / Low-Value
+17997,74,8,1962.46,1,Regular Customers
+17999,37,1,190.05,2,Recent / Developing
+18001,12,2,415.13,2,Recent / Developing
+18005,4,2,226.47,2,Recent / Developing
+18006,23,1,444.68,2,Recent / Developing
+18008,70,9,2116.19,1,Regular Customers
+18009,235,1,247.39,0,Dormant / Low-Value
+18010,257,1,174.8,0,Dormant / Low-Value
+18013,155,2,187.29,0,Dormant / Low-Value
+18014,28,1,162.22,2,Recent / Developing
+18015,4,1,120.03,2,Recent / Developing
+18016,32,4,1321.01,1,Regular Customers
+18017,81,3,523.0,1,Regular Customers
+18018,108,2,122.14,0,Dormant / Low-Value
+18019,52,1,38.45,0,Dormant / Low-Value
+18022,36,1,612.72,2,Recent / Developing
+18024,153,2,389.78,0,Dormant / Low-Value
+18027,99,1,115.31,0,Dormant / Low-Value
+18030,4,2,230.64999999999998,2,Recent / Developing
+18032,334,1,73.5,0,Dormant / Low-Value
+18033,65,1,93.82000000000001,0,Dormant / Low-Value
+18034,22,2,418.68,2,Recent / Developing
+18035,36,3,713.89,1,Regular Customers
+18036,32,3,403.12,2,Recent / Developing
+18037,154,5,38.72,0,Dormant / Low-Value
+18040,19,2,357.20000000000005,2,Recent / Developing
+18041,12,18,3482.48,3,High-Value Customers
+18042,54,1,165.04999999999998,0,Dormant / Low-Value
+18043,25,2,241.38,2,Recent / Developing
+18044,4,9,2014.3500000000001,3,High-Value Customers
+18045,45,1,178.34,0,Dormant / Low-Value
+18048,203,2,172.29000000000002,0,Dormant / Low-Value
+18053,71,1,300.02,0,Dormant / Low-Value
+18055,7,7,5010.22,3,High-Value Customers
+18056,288,1,363.65,0,Dormant / Low-Value
+18058,10,1,170.16,2,Recent / Developing
+18059,23,3,306.46,2,Recent / Developing
+18061,22,9,1714.25,3,High-Value Customers
+18062,173,3,720.52,1,Regular Customers
+18064,133,2,814.0,0,Dormant / Low-Value
+18065,6,12,2047.81,3,High-Value Customers
+18066,75,1,318.0,0,Dormant / Low-Value
+18067,40,1,396.33,2,Recent / Developing
+18068,289,1,101.7,0,Dormant / Low-Value
+18069,26,5,2009.24,1,Regular Customers
+18071,258,1,194.05,0,Dormant / Low-Value
+18072,186,1,247.44,0,Dormant / Low-Value
+18073,114,12,3859.82,1,Regular Customers
+18075,23,9,2412.8,3,High-Value Customers
+18077,8,9,2188.08,3,High-Value Customers
+18078,217,2,336.13,0,Dormant / Low-Value
+18079,45,4,3613.15,1,Regular Customers
+18080,19,2,1231.5,1,Regular Customers
+18081,36,3,343.45,2,Recent / Developing
+18082,26,1,680.84,2,Recent / Developing
+18084,16,1,90.48,2,Recent / Developing
+18085,330,1,386.05,0,Dormant / Low-Value
+18086,274,1,101.34,0,Dormant / Low-Value
+18087,98,2,4055.7200000000003,1,Regular Customers
+18088,61,1,166.03,0,Dormant / Low-Value
+18092,2,8,6215.62,3,High-Value Customers
+18093,93,4,2106.52,1,Regular Customers
+18094,82,7,3017.3,1,Regular Customers
+18095,312,2,580.05,0,Dormant / Low-Value
+18096,12,3,849.06,2,Recent / Developing
+18097,8,5,2479.88,3,High-Value Customers
+18099,127,1,168.31,0,Dormant / Low-Value
+18101,11,2,222.4,2,Recent / Developing
+18102,1,56,231822.69,3,High-Value Customers
+18104,37,1,754.64,2,Recent / Developing
+18105,38,1,113.48000000000002,0,Dormant / Low-Value
+18106,330,1,421.9,0,Dormant / Low-Value
+18108,254,1,271.0,0,Dormant / Low-Value
+18109,2,24,7452.17,3,High-Value Customers
+18110,20,1,198.8,2,Recent / Developing
+18112,12,2,352.69,2,Recent / Developing
+18114,290,1,220.1,0,Dormant / Low-Value
+18116,68,5,741.74,1,Regular Customers
+18117,26,1,315.65,2,Recent / Developing
+18118,11,24,5020.32,3,High-Value Customers
+18120,214,1,111.15,0,Dormant / Low-Value
+18121,149,2,653.3000000000001,0,Dormant / Low-Value
+18122,8,6,1793.06,3,High-Value Customers
+18123,24,2,574.4399999999999,2,Recent / Developing
+18125,30,4,1131.75,1,Regular Customers
+18126,61,1,200.92,0,Dormant / Low-Value
+18127,19,3,347.08,2,Recent / Developing
+18129,243,1,112.55000000000001,0,Dormant / Low-Value
+18130,15,3,1059.39,1,Regular Customers
+18133,212,1,931.5,0,Dormant / Low-Value
+18135,29,5,681.91,1,Regular Customers
+18136,63,3,784.33,1,Regular Customers
+18138,295,1,152.65,0,Dormant / Low-Value
+18139,18,6,8438.34,3,High-Value Customers
+18142,157,2,1019.52,1,Regular Customers
+18143,117,2,1000.16,1,Regular Customers
+18144,8,10,2386.1,3,High-Value Customers
+18145,13,4,2861.55,1,Regular Customers
+18146,141,2,160.35,0,Dormant / Low-Value
+18147,46,2,179.34,0,Dormant / Low-Value
+18149,51,3,612.0799999999999,1,Regular Customers
+18150,32,3,566.58,1,Regular Customers
+18151,135,2,653.35,0,Dormant / Low-Value
+18154,3,2,399.19,2,Recent / Developing
+18155,75,3,371.62,0,Dormant / Low-Value
+18156,13,1,488.76,2,Recent / Developing
+18158,9,2,453.4,2,Recent / Developing
+18159,301,1,530.15,0,Dormant / Low-Value
+18160,57,2,638.0600000000001,1,Regular Customers
+18161,15,5,1618.69,1,Regular Customers
+18164,37,1,399.65,2,Recent / Developing
+18165,177,1,302.46,0,Dormant / Low-Value
+18167,23,3,1384.8600000000001,1,Regular Customers
+18168,176,4,710.1,1,Regular Customers
+18169,61,1,202.65,0,Dormant / Low-Value
+18170,33,3,980.3100000000001,1,Regular Customers
+18171,59,5,1231.31,1,Regular Customers
+18172,15,20,7561.68,3,High-Value Customers
+18173,87,4,2106.84,1,Regular Customers
+18174,7,1,104.0,2,Recent / Developing
+18177,31,6,1340.8700000000001,1,Regular Customers
+18178,129,3,1290.16,1,Regular Customers
+18179,9,6,1793.17,3,High-Value Customers
+18180,5,6,1843.75,3,High-Value Customers
+18181,24,1,366.85,2,Recent / Developing
+18183,227,2,632.07,0,Dormant / Low-Value
+18184,15,1,49.8,2,Recent / Developing
+18185,249,1,304.25,0,Dormant / Low-Value
+18188,15,3,2001.04,1,Regular Customers
+18189,78,2,1090.24,1,Regular Customers
+18190,192,2,284.46000000000004,0,Dormant / Low-Value
+18191,262,1,207.8,0,Dormant / Low-Value
+18192,72,1,957.97,0,Dormant / Low-Value
+18193,165,1,243.76,0,Dormant / Low-Value
+18194,82,1,973.84,0,Dormant / Low-Value
+18196,95,2,686.63,0,Dormant / Low-Value
+18198,4,17,5425.56,3,High-Value Customers
+18200,106,1,150.35,0,Dormant / Low-Value
+18202,200,3,1396.99,1,Regular Customers
+18203,157,1,160.42000000000002,0,Dormant / Low-Value
+18204,71,3,1975.3500000000001,1,Regular Customers
+18205,36,2,517.36,2,Recent / Developing
+18209,29,1,139.10000000000002,2,Recent / Developing
+18210,2,6,2621.38,3,High-Value Customers
+18211,26,5,600.07,1,Regular Customers
+18212,326,1,216.07,0,Dormant / Low-Value
+18213,237,1,232.48000000000002,0,Dormant / Low-Value
+18215,89,1,299.34000000000003,0,Dormant / Low-Value
+18216,31,1,481.75,2,Recent / Developing
+18217,29,2,621.75,2,Recent / Developing
+18218,211,2,641.92,0,Dormant / Low-Value
+18219,3,8,1679.71,3,High-Value Customers
+18220,227,1,305.28,0,Dormant / Low-Value
+18221,22,5,1041.61,1,Regular Customers
+18222,93,1,443.0,0,Dormant / Low-Value
+18223,5,13,5982.85,3,High-Value Customers
+18224,264,1,158.95000000000002,0,Dormant / Low-Value
+18225,3,11,5474.96,3,High-Value Customers
+18226,44,11,5228.05,3,High-Value Customers
+18227,218,1,93.75,0,Dormant / Low-Value
+18228,57,2,779.9,1,Regular Customers
+18229,12,18,6623.7,3,High-Value Customers
+18230,9,7,2810.2000000000003,3,High-Value Customers
+18231,192,5,2071.77,1,Regular Customers
+18232,82,4,592.97,1,Regular Customers
+18233,326,1,440.0,0,Dormant / Low-Value
+18235,72,3,1796.48,1,Regular Customers
+18236,30,6,882.24,1,Regular Customers
+18237,3,5,987.1,3,High-Value Customers
+18239,219,4,1123.51,1,Regular Customers
+18240,46,1,422.58,0,Dormant / Low-Value
+18241,10,17,2073.09,3,High-Value Customers
+18242,72,4,2232.4900000000002,1,Regular Customers
+18245,7,6,2201.33,3,High-Value Customers
+18246,24,2,596.1,2,Recent / Developing
+18248,123,2,804.02,0,Dormant / Low-Value
+18249,17,1,95.34,2,Recent / Developing
+18250,310,1,349.27,0,Dormant / Low-Value
+18251,87,1,4314.72,1,Regular Customers
+18252,51,2,518.27,2,Recent / Developing
+18255,89,1,103.30000000000001,0,Dormant / Low-Value
+18257,39,8,2337.63,1,Regular Customers
+18259,25,2,1962.3000000000002,1,Regular Customers
+18260,173,5,2397.65,1,Regular Customers
+18261,43,2,324.24,2,Recent / Developing
+18262,140,1,149.48,0,Dormant / Low-Value
+18263,26,3,1213.16,1,Regular Customers
+18265,72,2,801.51,1,Regular Customers
+18268,134,1,25.5,0,Dormant / Low-Value
+18270,38,2,283.15000000000003,2,Recent / Developing
+18272,3,6,3078.58,3,High-Value Customers
+18273,2,3,204.0,2,Recent / Developing
+18274,30,1,175.92,2,Recent / Developing
+18276,44,1,335.86,2,Recent / Developing
+18277,58,1,110.38,0,Dormant / Low-Value
+18278,74,1,173.9,0,Dormant / Low-Value
+18280,278,1,180.60000000000002,0,Dormant / Low-Value
+18281,181,1,80.82,0,Dormant / Low-Value
+18282,8,2,178.05,2,Recent / Developing
+18283,4,16,2045.53,3,High-Value Customers
+18287,43,3,1837.28,1,Regular Customers

@@ -1,0 +1,5 @@
+Segment,Customers,Percentage,Recency_Median,Frequency_Median,Monetary_Median
+Dormant / Low-Value,1407,36.90975865687303,166.0,1.0,288.42
+High-Value Customers,616,16.1594963273872,7.0,9.0,3350.2650000000003
+Recent / Developing,719,18.861490031479537,18.0,2.0,380.6
+Regular Customers,1070,28.069254984260233,46.0,4.0,1280.715
