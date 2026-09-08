@@ -1,0 +1,2161 @@
+feedback_id,clause,sentiment,sentiment_confidence
+0,customer support was slightly disappointing,negative,0.9093
+0,billing had a small discrepancy,neutral,0.8311
+1,the experience was decent,positive,0.9294
+1,and the final billed amount differed slightly and needs some improvement,neutral,0.595
+2,Superr 10 out of 10,positive,0.7102
+3,wow nice option,positive,0.9327
+4,i found the buying process to be quite good,positive,0.9384
+4,the return pickup was delayed which slightly affected my experience,negative,0.8206
+5,using the app was inconsistent,negative,0.7601
+5,billing had a small discrepancy,neutral,0.8311
+6,the ordering experience felt a bit confusing,negative,0.6626
+6,payment failed once before succeeding,neutral,0.5795
+7,using the app was decent,positive,0.8401
+7,communication from support could be better,neutral,0.521
+8,From my experience,neutral,0.7509
+8,the checkout process seemed decent,positive,0.8216
+8,the invoice was not easy to access,negative,0.828
+8,not a major concern,neutral,0.6826
+9,The experience was good,positive,0.9722
+10,customer support was better than expected,positive,0.9678
+10,the invoice was not easy to access,negative,0.828
+11,i found the buying process to be mostly fine,positive,0.6349
+12,customer support was frustrating,negative,0.9218
+12,payment failed once before succeeding,neutral,0.5795
+13,the experience was mostly fine,positive,0.896
+13,and refund processing was slower than promised,negative,0.852
+14,billing and payment were not very impressive,negative,0.8618
+15,the delivery experience turned out to be not very impressive,negative,0.8797
+16,the ordering experience felt smooth,positive,0.9088
+17,billing and payment were satisfactory,positive,0.8478
+17,everything worked fine which could be improved,positive,0.8023
+18,the checkout process seemed better than expected,positive,0.9376
+18,coupon application did not work properly,negative,0.8587
+19,i found the buying process to be inconsistent,negative,0.7412
+20,billing and payment were decent,positive,0.6978
+20,everything worked fine,positive,0.7039
+21,my interaction with customer care was worse than expected,negative,0.9391
+22,from browsing to delivery,neutral,0.84
+22,the experience was decent,positive,0.9294
+22,coupon application did not work properly,negative,0.8587
+23,the checkout process seemed worse than expected,negative,0.9172
+23,billing had a small discrepancy,neutral,0.8311
+24,i found the buying process to be slightly disappointing,negative,0.8862
+24,and the app lagged during checkout which could be improved,negative,0.8118
+25,billing and payment were satisfactory,positive,0.8478
+25,the return pickup was delayed,negative,0.5779
+26,the checkout process seemed slightly disappointing,negative,0.8693
+26,support eventually resolved the issue which could be improved,neutral,0.5016
+27,the ordering experience felt worse than expected,negative,0.9332
+27,and the final billed amount differed slightly which could be improved,neutral,0.7765
+28,the delivery experience turned out to be slow at times,negative,0.8142
+28,coupon application did not work properly,negative,0.8587
+29,using the app was decent,positive,0.8401
+29,payment failed once before succeeding,neutral,0.5795
+30,the experience was decent,positive,0.9294
+30,coupon application did not work properly and needs some improvement,negative,0.9019
+31,my interaction with customer care was mostly fine,positive,0.7532
+31,payment failed once before succeeding which could be improved,negative,0.4881
+32,the ordering experience felt slightly disappointing,negative,0.8973
+32,communication from support could be better,neutral,0.521
+33,its like any other what to tell new nothing,neutral,0.4832
+34,the experience was pleasant,positive,0.9663
+34,communication from support could be better,neutral,0.521
+35,customer support was satisfactory,positive,0.9291
+35,everything worked fine,positive,0.7039
+36,i found the buying process to be frustrating,negative,0.8647
+36,support eventually resolved the issue,neutral,0.6597
+36,not a major concern,neutral,0.6826
+37,customer support was better than expected,positive,0.9678
+37,and refund processing was slower than promised which could be improved,negative,0.7531
+38,the experience was satisfactory,positive,0.9494
+38,and the final billed amount differed slightly,neutral,0.8341
+39,using the app was average,negative,0.7631
+39,coupon application did not work properly which could be improved,negative,0.8567
+40,From my experience,neutral,0.7509
+40,customer support was inconsistent,negative,0.8775
+40,and the app froze briefly during checkout,negative,0.6335
+41,Verry happy man good option,positive,0.9413
+42,using the app was inconsistent,negative,0.7601
+42,and tracking updates were not regular,neutral,0.693
+43,the experience was fairly efficient,positive,0.9463
+43,the delivery was delayed by a couple of days,negative,0.7335
+44,billing and payment were a bit confusing,neutral,0.4992
+44,coupon application did not work properly,negative,0.8587
+45,billing and payment were slightly disappointing,negative,0.8894
+45,billing had a small discrepancy,neutral,0.8311
+46,i found the buying process ly efficient,positive,0.69
+46,the return pickup was delayed,negative,0.5779
+47,the delivery experience turned out to be slightly disappointing,negative,0.8781
+47,customer care took time to respond,neutral,0.7581
+48,the experience was slow at times,negative,0.8504
+48,the invoice was not easy to access,negative,0.828
+49,billing and payment were not very impressive,negative,0.8618
+49,communication from support could be better and needs some improvement,neutral,0.5949
+50,my interaction with customer care was frustrating,negative,0.9052
+50,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+51,the ordering experience felt slow at times,negative,0.8322
+51,the invoice was not easy to access,negative,0.828
+52,from browsing to delivery,neutral,0.84
+52,the experience was fairly efficient,positive,0.9463
+52,coupon application did not work properly,negative,0.8587
+54,the checkout process seemed average,negative,0.7465
+54,and the app froze briefly during checkout,negative,0.6335
+54,not a major concern,neutral,0.6826
+55,the ordering experience felt quite good,positive,0.9714
+55,and tracking updates were not regular,neutral,0.693
+56,customer support was not very impressive,negative,0.891
+56,everything worked fine,positive,0.7039
+57,billing and payment were mostly fine,positive,0.5629
+57,customer care took time to respond,neutral,0.7581
+58,the checkout process seemed slightly disappointing,negative,0.8693
+59,from browsing to delivery,neutral,0.84
+59,the experience was smooth,positive,0.9286
+60,customer support was a bit confusing,negative,0.7998
+60,and refund processing was slower than promised,negative,0.852
+60,not a major concern,neutral,0.6826
+61,the delivery experience turned out to be worse than expected,negative,0.9247
+61,communication from support could be better,neutral,0.521
+62,the checkout process seemed worse than expected,negative,0.9172
+62,communication from support could be better,neutral,0.521
+63,From my experience,neutral,0.7509
+63,using the app was mostly fine,positive,0.641
+63,communication from support could be better,neutral,0.521
+64,using the app was a bit confusing,neutral,0.505
+64,and the app froze briefly during checkout,negative,0.6335
+65,billing and payment were mostly fine,positive,0.5629
+65,support eventually resolved the issue,neutral,0.6597
+66,from browsing to delivery,neutral,0.84
+66,the experience was decent,positive,0.9294
+66,support eventually resolved the issue,neutral,0.6597
+66,not a major concern,neutral,0.6826
+67,the ordering experience felt inconsistent,negative,0.8297
+67,the return pickup was delayed and needs some improvement,negative,0.8213
+68,the delivery experience turned out ly efficient,positive,0.8559
+68,payment failed once before succeeding and needs some improvement,negative,0.5932
+69,using the app was average,negative,0.7631
+69,the delivery was delayed by a couple of days,negative,0.7335
+70,from browsing to delivery,neutral,0.84
+70,the experience was average,negative,0.8643
+70,the invoice was not easy to access,negative,0.828
+71,From my experience,neutral,0.7509
+71,billing and payment were satisfactory,positive,0.8478
+71,billing had a small discrepancy,neutral,0.8311
+71,not a major concern,neutral,0.6826
+72,billing and payment were a bit confusing,neutral,0.4992
+72,and the app froze briefly during checkout,negative,0.6335
+73,i found the buying process to be average,negative,0.6802
+73,and refund processing was slower than promised,negative,0.852
+74,using the app was slow at times,negative,0.6987
+74,support eventually resolved the issue,neutral,0.6597
+75,my interaction with customer care was mostly fine,positive,0.7532
+75,the delivery was delayed by a couple of days which could be improved,negative,0.7154
+76,using the app was inconsistent,negative,0.7601
+76,and the app froze briefly during checkout,negative,0.6335
+77,The delivery was delayed by a couple of days,negative,0.7312
+78,my interaction with customer care was not very impressive,negative,0.8848
+78,coupon application did not work properly,negative,0.8587
+78,not a major concern,neutral,0.6826
+79,From my experience,neutral,0.7509
+79,the delivery experience turned out to be slightly disappointing,negative,0.8781
+79,and the app froze briefly during checkout,negative,0.6335
+80,the experience was pleasant,positive,0.9663
+80,billing had a small discrepancy,neutral,0.8311
+81,the ordering experience felt not very impressive,negative,0.8736
+81,and refund processing was slower than promised,negative,0.852
+82,my interaction with customer care was smooth,positive,0.8227
+82,the invoice was not easy to access and needs some improvement,negative,0.8864
+83,using the app was better than expected,positive,0.9636
+83,and refund processing was slower than promised,negative,0.852
+84,From my experience,neutral,0.7509
+84,using the app was not very impressive,negative,0.8712
+84,and the app froze briefly during checkout and needs some improvement,negative,0.7869
+85,from browsing to delivery,neutral,0.84
+85,the experience was a bit confusing,negative,0.6813
+85,and the app froze briefly during checkout,negative,0.6335
+86,the experience was decent,positive,0.9294
+86,and the final billed amount differed slightly,neutral,0.8341
+87,customer support was a bit confusing,negative,0.7998
+87,coupon application did not work properly which slightly affected my experience,negative,0.873
+88,using the app was better than expected,positive,0.9636
+88,and the final billed amount differed slightly,neutral,0.8341
+89,the delivery experience turned out to be worse than expected,negative,0.9247
+89,the invoice was not easy to access,negative,0.828
+90,billing and payment were average,negative,0.5647
+90,support eventually resolved the issue and needs some improvement,neutral,0.5631
+91,the delivery experience turned out to be smooth,positive,0.9114
+91,billing had a small discrepancy,neutral,0.8311
+92,the checkout process seemed mostly fine,positive,0.7489
+92,coupon application did not work properly,negative,0.8587
+93,From my experience,neutral,0.7509
+93,customer support was average,negative,0.8797
+93,everything worked fine,positive,0.7039
+93,not a major concern,neutral,0.6826
+94,the delivery experience turned out to be satisfactory,positive,0.9322
+94,everything worked fine and needs some improvement,positive,0.783
+95,the ordering experience felt pleasant,positive,0.9632
+95,and the app froze briefly during checkout,negative,0.6335
+95,not a major concern,neutral,0.6826
+96,customer support was mostly fine,positive,0.7734
+96,and the app froze briefly during checkout which slightly affected my experience,negative,0.8183
+97,customer support was better than expected,positive,0.9678
+97,and tracking updates were not regular which could be improved,neutral,0.5808
+98,customer support was slightly disappointing,negative,0.9093
+98,support eventually resolved the issue,neutral,0.6597
+99,i found the buying process to be decent,positive,0.7139
+99,and the final billed amount differed slightly,neutral,0.8341
+100,from browsing to delivery,neutral,0.84
+100,the experience was a bit confusing,negative,0.6813
+100,the invoice was not easy to access,negative,0.828
+101,the experience was smooth,positive,0.9286
+101,everything worked fine,positive,0.7039
+102,my interaction with customer care was better than expected,positive,0.9604
+102,the delivery was delayed by a couple of days,negative,0.7335
+102,not a major concern,neutral,0.6826
+103,billing and payment were not very impressive,negative,0.8618
+103,support eventually resolved the issue,neutral,0.6597
+103,not a major concern,neutral,0.6826
+104,i found the buying process to be average,negative,0.6802
+104,payment failed once before succeeding which could be improved,negative,0.4881
+105,from browsing to delivery,neutral,0.84
+105,the experience was decent,positive,0.9294
+105,everything worked fine,positive,0.7039
+106,From my experience,neutral,0.7509
+106,my interaction with customer care was fairly efficient,positive,0.8965
+106,and the app froze briefly during checkout,negative,0.6335
+107,billing and payment were inconsistent,negative,0.736
+107,payment failed once before succeeding,neutral,0.5795
+108,the checkout process seemed satisfactory,positive,0.8768
+108,the delivery was delayed by a couple of days,negative,0.7335
+109,the ordering experience felt slightly disappointing,negative,0.8973
+109,the return pickup was delayed which could be improved,negative,0.5467
+110,the checkout process seemed decent,positive,0.8216
+110,the delivery was delayed by a couple of days which slightly affected my experience,negative,0.852
+111,i found the buying process to be satisfactory,positive,0.8375
+111,and the app froze briefly during checkout,negative,0.6335
+112,using the app was satisfactory,positive,0.8924
+112,and the app lagged during checkout which could be improved,negative,0.8118
+113,From my experience,neutral,0.7509
+113,the ordering experience felt smooth,positive,0.9088
+113,support eventually resolved the issue,neutral,0.6597
+114,the delivery experience turned out to be a bit confusing,negative,0.7174
+114,and tracking updates were not regular,neutral,0.693
+114,not a major concern,neutral,0.6826
+115,my interaction with customer care was worse than expected,negative,0.9391
+115,and the app froze briefly during checkout,negative,0.6335
+115,not a major concern,neutral,0.6826
+116,from browsing to delivery,neutral,0.84
+116,the experience was slightly disappointing,negative,0.8861
+116,the return pickup was delayed,negative,0.5779
+117,billing and payment were not very impressive,negative,0.8618
+117,the return pickup was delayed,negative,0.5779
+118,customer support was worse than expected,negative,0.9323
+118,coupon application did not work properly which slightly affected my experience,negative,0.873
+119,the delivery experience turned out to be quite good,positive,0.975
+119,the invoice was not easy to access,negative,0.828
+119,not a major concern,neutral,0.6826
+120,using the app was decent,positive,0.8401
+120,everything worked fine,positive,0.7039
+120,not a major concern,neutral,0.6826
+121,the checkout process seemed inconsistent,negative,0.7649
+121,payment failed once before succeeding,neutral,0.5795
+122,using the app was pleasant,positive,0.9449
+122,the delivery was delayed by a couple of days,negative,0.7335
+123,my interaction with customer care was decent,positive,0.8777
+123,support eventually resolved the issue,neutral,0.6597
+124,billing and payment were worse than expected,negative,0.9263
+124,coupon application did not work properly,negative,0.8587
+125,the delivery experience turned out to be satisfactory,positive,0.9322
+125,payment failed once before succeeding,neutral,0.5795
+126,the delivery experience turned out to be smooth,positive,0.9114
+126,the return pickup was delayed,negative,0.5779
+127,From my experience,neutral,0.7509
+127,i found the buying process ly efficient,positive,0.69
+127,support eventually resolved the issue,neutral,0.6597
+127,not a major concern,neutral,0.6826
+128,billing and payment were average,negative,0.5647
+128,communication from support could be better,neutral,0.521
+128,not a major concern,neutral,0.6826
+129,the ordering experience felt frustrating,negative,0.8998
+129,the delivery was delayed by a couple of days which could be improved,negative,0.7154
+130,From my experience,neutral,0.7509
+130,billing and payment were slightly disappointing,negative,0.8894
+130,and the app lagged during checkout,negative,0.8398
+131,my interaction with customer care was inconsistent,negative,0.8301
+131,billing had a small discrepancy,neutral,0.8311
+132,the delivery experience turned out to be decent,positive,0.9252
+132,communication from support could be better and needs some improvement,neutral,0.5949
+133,the delivery experience turned out ly efficient,positive,0.8559
+133,customer care took time to respond and needs some improvement,neutral,0.5303
+134,the delivery experience turned out to be slightly disappointing,negative,0.8781
+134,payment failed once before succeeding,neutral,0.5795
+135,the delivery experience turned out to be worse than expected,negative,0.9247
+135,and the app lagged during checkout,negative,0.8398
+135,not a major concern,neutral,0.6826
+136,From my experience,neutral,0.7509
+136,the delivery experience turned out to be inconsistent,negative,0.8114
+136,coupon application did not work properly and needs some improvement,negative,0.9019
+137,my interaction with customer care was not very impressive,negative,0.8848
+137,the delivery was delayed by a couple of days,negative,0.7335
+138,using the app was inconsistent,negative,0.7601
+138,the return pickup was delayed and needs some improvement,negative,0.8213
+139,using the app was slow at times,negative,0.6987
+139,payment failed once before succeeding which could be improved,negative,0.4881
+140,from browsing to delivery,neutral,0.84
+140,the experience was pleasant,positive,0.9663
+140,and refund processing was slower than promised and needs some improvement,negative,0.851
+141,the ordering experience felt decent,positive,0.9093
+141,payment failed once before succeeding,neutral,0.5795
+142,i found the buying process to be inconsistent,negative,0.7412
+142,and the app lagged during checkout,negative,0.8398
+143,i found the buying process to be decent,positive,0.7139
+143,billing had a small discrepancy which could be improved,neutral,0.7188
+144,using the app was quite good,positive,0.9668
+144,coupon application did not work properly,negative,0.8587
+145,the delivery experience turned out to be mostly fine,positive,0.8742
+145,and the final billed amount differed slightly,neutral,0.8341
+146,the delivery experience turned out to be a bit confusing,negative,0.7174
+146,customer care took time to respond which could be improved,negative,0.5184
+147,the delivery experience turned out to be pleasant,positive,0.9631
+147,and the app lagged during checkout,negative,0.8398
+148,using the app was not very impressive,negative,0.8712
+148,the delivery was delayed by a couple of days,negative,0.7335
+148,not a major concern,neutral,0.6826
+149,using the app was smooth,positive,0.686
+149,the delivery was delayed by a couple of days,negative,0.7335
+150,customer support was decent,positive,0.8701
+150,support eventually resolved the issue,neutral,0.6597
+151,Good good good,positive,0.9044
+152,the delivery experience turned out to be slow at times,negative,0.8142
+152,and the app lagged during checkout which could be improved,negative,0.8118
+153,my interaction with customer care was fairly efficient,positive,0.8965
+153,and the final billed amount differed slightly,neutral,0.8341
+154,its is indeed good,positive,0.9615
+155,my interaction with customer care was frustrating,negative,0.9052
+155,communication from support could be better which slightly affected my experience,negative,0.5905
+156,from browsing to delivery,neutral,0.84
+156,the experience was satisfactory,positive,0.9494
+156,payment failed once before succeeding,neutral,0.5795
+157,from browsing to delivery,neutral,0.84
+157,the experience was worse than expected,negative,0.9332
+157,everything worked fine,positive,0.7039
+158,the ordering experience felt worse than expected,negative,0.9332
+158,payment failed once before succeeding which slightly affected my experience,negative,0.7393
+159,the delivery experience turned out to be decent,positive,0.9252
+159,communication from support could be better,neutral,0.521
+160,the delivery experience turned out to be smooth,positive,0.9114
+160,and the app froze briefly during checkout,negative,0.6335
+161,customer support was fairly efficient,positive,0.8737
+161,support eventually resolved the issue,neutral,0.6597
+161,not a major concern,neutral,0.6826
+162,billing and payment were mostly fine,positive,0.5629
+162,billing had a small discrepancy and needs some improvement,neutral,0.5608
+163,from browsing to delivery,neutral,0.84
+163,the experience was slow at times,negative,0.8504
+163,and the app lagged during checkout,negative,0.8398
+164,i found the buying process to be satisfactory,positive,0.8375
+164,support eventually resolved the issue and needs some improvement,neutral,0.5631
+165,my interaction with customer care was average,negative,0.8322
+165,coupon application did not work properly,negative,0.8587
+166,customer support was pleasant,positive,0.9551
+166,the invoice was not easy to access,negative,0.828
+167,very very nice app verye asy,positive,0.9702
+168,the ordering experience felt slow at times,negative,0.8322
+168,support eventually resolved the issue,neutral,0.6597
+169,Was a bit unsure before ordering,neutral,0.7363
+169,turned out to be a good decision,positive,0.7912
+170,the delivery experience turned out to be a bit confusing,negative,0.7174
+170,the return pickup was delayed which slightly affected my experience,negative,0.8206
+171,from browsing to delivery,neutral,0.84
+171,the experience was slow at times,negative,0.8504
+171,everything worked fine,positive,0.7039
+172,customer support was pleasant,positive,0.9551
+172,and the app lagged during checkout which could be improved,negative,0.8118
+173,i found the buying process to be pleasant,positive,0.9076
+173,everything worked fine,positive,0.7039
+174,i found the buying process to be slow at times,negative,0.73
+174,the return pickup was delayed,negative,0.5779
+174,not a major concern,neutral,0.6826
+175,the ordering experience felt decent,positive,0.9093
+175,and refund processing was slower than promised,negative,0.852
+176,billing and payment were fairly efficient,positive,0.721
+176,coupon application did not work properly,negative,0.8587
+177,From my experience,neutral,0.7509
+177,from browsing to delivery,neutral,0.84
+177,the experience was better than expected,positive,0.9811
+177,everything worked fine which slightly affected my experience,neutral,0.5434
+178,the ordering experience felt average,negative,0.8621
+178,and the app lagged during checkout,negative,0.8398
+179,from browsing to delivery,neutral,0.84
+179,the experience was not very impressive,negative,0.881
+179,communication from support could be better,neutral,0.521
+180,the ordering experience felt worse than expected,negative,0.9332
+180,and refund processing was slower than promised,negative,0.852
+180,not a major concern,neutral,0.6826
+181,my interaction with customer care was a bit confusing,negative,0.6228
+181,coupon application did not work properly and needs some improvement,negative,0.9019
+182,the checkout process seemed fairly efficient,positive,0.8837
+182,and the app lagged during checkout which could be improved,negative,0.8118
+183,using the app was pleasant,positive,0.9449
+183,payment failed once before succeeding,neutral,0.5795
+184,customer support was frustrating,negative,0.9218
+184,communication from support could be better which slightly affected my experience,negative,0.5905
+185,customer support was smooth,positive,0.8344
+185,and the app lagged during checkout which could be improved,negative,0.8118
+186,the experience was a bit confusing,negative,0.6813
+186,and refund processing was slower than promised,negative,0.852
+187,the delivery experience turned out to be smooth,positive,0.9114
+187,the delivery was delayed by a couple of days,negative,0.7335
+188,billing and payment were not very impressive,negative,0.8618
+188,coupon application did not work properly,negative,0.8587
+189,from browsing to delivery,neutral,0.84
+189,the experience was not very impressive,negative,0.881
+189,everything worked fine,positive,0.7039
+190,i found the buying process ly efficient,positive,0.69
+190,everything worked fine,positive,0.7039
+191,i found the buying process to be quite good,positive,0.9384
+191,the return pickup was delayed,negative,0.5779
+192,from browsing to delivery,neutral,0.84
+192,the experience was satisfactory,positive,0.9494
+192,and the app froze briefly during checkout which could be improved,negative,0.6996
+193,using the app was fairly efficient,positive,0.8246
+193,and the final billed amount differed slightly which could be improved,neutral,0.7765
+194,from browsing to delivery,neutral,0.84
+194,the experience was better than expected,positive,0.9811
+194,the return pickup was delayed,negative,0.5779
+194,not a major concern,neutral,0.6826
+195,the delivery experience turned out to be slow at times,negative,0.8142
+195,the return pickup was delayed which slightly affected my experience,negative,0.8206
+196,the experience was frustrating,negative,0.895
+196,the return pickup was delayed,negative,0.5779
+197,customer support was mostly fine,positive,0.7734
+197,everything worked fine which could be improved,positive,0.8023
+198,my interaction with customer care was pleasant,positive,0.9485
+198,coupon application did not work properly,negative,0.8587
+199,from browsing to delivery,neutral,0.84
+199,the experience was a bit confusing,negative,0.6813
+199,and the app froze briefly during checkout which could be improved,negative,0.6996
+200,customer support was mostly fine,positive,0.7734
+200,coupon application did not work properly,negative,0.8587
+200,not a major concern,neutral,0.6826
+201,From my experience,neutral,0.7509
+201,from browsing to delivery,neutral,0.84
+201,the experience was quite good,positive,0.9747
+201,communication from support could be better which slightly affected my experience,negative,0.5905
+202,the checkout process seemed better than expected,positive,0.9376
+202,customer care took time to respond,neutral,0.7581
+203,the ordering experience felt a bit confusing,negative,0.6626
+203,and the app froze briefly during checkout,negative,0.6335
+204,my interaction with customer care was average,negative,0.8322
+204,support eventually resolved the issue,neutral,0.6597
+205,using the app was fairly efficient,positive,0.8246
+205,billing had a small discrepancy,neutral,0.8311
+206,the delivery experience turned out to be slow at times,negative,0.8142
+206,and the app froze briefly during checkout which could be improved,negative,0.6996
+207,from browsing to delivery,neutral,0.84
+207,the experience was quite good,positive,0.9747
+207,coupon application did not work properly,negative,0.8587
+208,the ordering experience felt average,negative,0.8621
+208,billing had a small discrepancy,neutral,0.8311
+209,my interaction with customer care was slow at times,negative,0.8312
+209,and the app froze briefly during checkout,negative,0.6335
+210,the ordering experience felt frustrating,negative,0.8998
+210,and the final billed amount differed slightly,neutral,0.8341
+210,not a major concern,neutral,0.6826
+211,using the app was worse than expected,negative,0.9319
+211,and tracking updates were not regular which could be improved,neutral,0.5808
+212,the ordering experience felt not very impressive,negative,0.8736
+212,support eventually resolved the issue,neutral,0.6597
+213,the ordering experience felt frustrating,negative,0.8998
+213,and the final billed amount differed slightly,neutral,0.8341
+214,billing and payment were a bit confusing,neutral,0.4992
+214,the invoice was not easy to access,negative,0.828
+215,using the app was pleasant,positive,0.9449
+215,coupon application did not work properly,negative,0.8587
+216,the checkout process seemed smooth,positive,0.7016
+216,support eventually resolved the issue,neutral,0.6597
+217,the checkout process seemed satisfactory,positive,0.8768
+217,communication from support could be better,neutral,0.521
+218,from browsing to delivery,neutral,0.84
+218,the experience was not very impressive,negative,0.881
+218,and refund processing was slower than promised,negative,0.852
+219,the checkout process seemed better than expected,positive,0.9376
+219,and the final billed amount differed slightly,neutral,0.8341
+220,the checkout process seemed mostly fine,positive,0.7489
+220,everything worked fine,positive,0.7039
+221,from browsing to delivery,neutral,0.84
+221,the experience was average,negative,0.8643
+221,and tracking updates were not regular,neutral,0.693
+222,the ordering experience felt fairly efficient,positive,0.9422
+222,everything worked fine,positive,0.7039
+223,the ordering experience felt decent,positive,0.9093
+223,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+224,i found the buying process to be frustrating,negative,0.8647
+224,coupon application did not work properly,negative,0.8587
+225,Verrry nicee experince,positive,0.9478
+225,will buy again on weekend,neutral,0.5993
+226,billing and payment were inconsistent,negative,0.736
+226,coupon application did not work properly,negative,0.8587
+227,From my experience,neutral,0.7509
+227,i found the buying process to be pleasant,positive,0.9076
+227,and the final billed amount differed slightly which slightly affected my experience,negative,0.6564
+228,the ordering experience felt inconsistent,negative,0.8297
+228,everything worked fine which slightly affected my experience,neutral,0.5434
+229,my interaction with customer care was not very impressive,negative,0.8848
+229,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+230,customer support was average,negative,0.8797
+230,and the app lagged during checkout,negative,0.8398
+231,billing and payment were smooth,positive,0.7625
+231,the return pickup was delayed,negative,0.5779
+232,billing and payment were frustrating,negative,0.8702
+232,support eventually resolved the issue,neutral,0.6597
+233,i found the buying process to be smooth,positive,0.6252
+233,and the app lagged during checkout,negative,0.8398
+234,from browsing to delivery,neutral,0.84
+234,the experience was a bit confusing,negative,0.6813
+234,payment failed once before succeeding,neutral,0.5795
+235,billing and payment were frustrating,negative,0.8702
+235,customer care took time to respond,neutral,0.7581
+236,from browsing to delivery,neutral,0.84
+236,the experience was pleasant,positive,0.9663
+236,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+237,the experience was decent,positive,0.9294
+237,and the app froze briefly during checkout,negative,0.6335
+238,i found the buying process to be satisfactory,positive,0.8375
+238,the delivery was delayed by a couple of days which could be improved,negative,0.7154
+239,From my experience,neutral,0.7509
+239,the checkout process seemed worse than expected,negative,0.9172
+239,the invoice was not easy to access,negative,0.828
+240,the delivery experience turned out to be average,negative,0.859
+240,the return pickup was delayed which could be improved,negative,0.5467
+241,the ordering experience felt frustrating,negative,0.8998
+241,and the app froze briefly during checkout which could be improved,negative,0.6996
+242,from browsing to delivery,neutral,0.84
+242,the experience was better than expected,positive,0.9811
+242,and refund processing was slower than promised which could be improved,negative,0.7531
+243,From my experience,neutral,0.7509
+243,i found the buying process to be better than expected,positive,0.9373
+243,and the app froze briefly during checkout,negative,0.6335
+244,my interaction with customer care was quite good,positive,0.9599
+244,everything worked fine,positive,0.7039
+245,i found the buying process to be smooth,positive,0.6252
+245,the return pickup was delayed,negative,0.5779
+246,From my experience,neutral,0.7509
+246,customer support was decent,positive,0.8701
+246,everything worked fine,positive,0.7039
+247,the experience was better than expected,positive,0.9811
+247,the return pickup was delayed which slightly affected my experience,negative,0.8206
+248,the experience was slightly disappointing,negative,0.8861
+248,the return pickup was delayed which slightly affected my experience,negative,0.8206
+249,the ordering experience felt inconsistent,negative,0.8297
+249,and the final billed amount differed slightly,neutral,0.8341
+250,the delivery experience turned out to be quite good,positive,0.975
+250,and the app lagged during checkout and needs some improvement,negative,0.8635
+251,the ordering experience felt mostly fine,positive,0.8739
+251,communication from support could be better and needs some improvement,neutral,0.5949
+252,billing and payment were frustrating,negative,0.8702
+252,the delivery was delayed by a couple of days,negative,0.7335
+253,the delivery experience turned out to be decent,positive,0.9252
+253,billing had a small discrepancy,neutral,0.8311
+253,not a major concern,neutral,0.6826
+254,from browsing to delivery,neutral,0.84
+254,the experience was decent,positive,0.9294
+254,and the app lagged during checkout,negative,0.8398
+255,customer support was slow at times,negative,0.8624
+255,and the final billed amount differed slightly which slightly affected my experience,negative,0.6564
+256,using the app was better than expected,positive,0.9636
+256,and the app lagged during checkout,negative,0.8398
+257,From my experience,neutral,0.7509
+257,the delivery experience turned out to be mostly fine,positive,0.8742
+257,the return pickup was delayed and needs some improvement,negative,0.8213
+258,the ordering experience felt slightly disappointing,negative,0.8973
+258,billing had a small discrepancy,neutral,0.8311
+258,not a major concern,neutral,0.6826
+259,Delivery was quick and the packaging was neat,positive,0.9759
+259,no damage at all,neutral,0.6503
+260,customer support was quite good,positive,0.9558
+260,support eventually resolved the issue and needs some improvement,neutral,0.5631
+261,the checkout process seemed fairly efficient,positive,0.8837
+261,customer care took time to respond,neutral,0.7581
+262,the ordering experience felt average,negative,0.8621
+262,the delivery was delayed by a couple of days,negative,0.7335
+262,not a major concern,neutral,0.6826
+263,from browsing to delivery,neutral,0.84
+263,the experience was pleasant,positive,0.9663
+263,the invoice was not easy to access,negative,0.828
+264,my interaction with customer care was fairly efficient,positive,0.8965
+264,the return pickup was delayed,negative,0.5779
+265,From my experience,neutral,0.7509
+265,my interaction with customer care was slow at times,negative,0.8312
+265,the delivery was delayed by a couple of days which slightly affected my experience,negative,0.852
+266,customer support was better than expected,positive,0.9678
+266,the return pickup was delayed,negative,0.5779
+267,i found the buying process to be pleasant,positive,0.9076
+267,customer care took time to respond,neutral,0.7581
+267,not a major concern,neutral,0.6826
+268,From my experience,neutral,0.7509
+268,using the app was pleasant,positive,0.9449
+268,the return pickup was delayed which could be improved,negative,0.5467
+269,from browsing to delivery,neutral,0.84
+269,the experience was fairly efficient,positive,0.9463
+269,the delivery was delayed by a couple of days,negative,0.7335
+270,the experience was frustrating,negative,0.895
+270,communication from support could be better,neutral,0.521
+271,customer support was pleasant,positive,0.9551
+271,coupon application did not work properly,negative,0.8587
+272,using the app was slightly disappointing,negative,0.8907
+272,billing had a small discrepancy,neutral,0.8311
+273,the ordering experience felt slow at times,negative,0.8322
+273,and tracking updates were not regular,neutral,0.693
+274,the checkout process seemed smooth,positive,0.7016
+274,and the app lagged during checkout,negative,0.8398
+275,Everything was handled well,positive,0.7769
+275,from order placement to final delivery,neutral,0.8423
+276,using the app was frustrating,negative,0.8875
+276,and refund processing was slower than promised which could be improved,negative,0.7531
+277,billing and payment were a bit confusing,neutral,0.4992
+277,everything worked fine,positive,0.7039
+278,the ordering experience felt quite good,positive,0.9714
+278,and the app lagged during checkout which slightly affected my experience,negative,0.8631
+279,i found the buying process to be quite good,positive,0.9384
+279,billing had a small discrepancy,neutral,0.8311
+279,not a major concern,neutral,0.6826
+280,using the app was slightly disappointing,negative,0.8907
+280,payment failed once before succeeding,neutral,0.5795
+281,using the app was fairly efficient,positive,0.8246
+281,and tracking updates were not regular,neutral,0.693
+282,the delivery experience turned out to be satisfactory,positive,0.9322
+282,billing had a small discrepancy,neutral,0.8311
+283,from browsing to delivery,neutral,0.84
+283,the experience was pleasant,positive,0.9663
+283,and the app lagged during checkout,negative,0.8398
+284,using the app was fairly efficient,positive,0.8246
+284,support eventually resolved the issue,neutral,0.6597
+285,the delivery experience turned out to be inconsistent,negative,0.8114
+285,the invoice was not easy to access which slightly affected my experience,negative,0.8552
+286,From my experience,neutral,0.7509
+286,customer support was decent,positive,0.8701
+286,everything worked fine,positive,0.7039
+287,the experience was frustrating,negative,0.895
+287,the return pickup was delayed,negative,0.5779
+288,customer support was quite good,positive,0.9558
+288,and the app lagged during checkout which slightly affected my experience,negative,0.8631
+289,using the app was slow at times,negative,0.6987
+289,billing had a small discrepancy which could be improved,neutral,0.7188
+290,from browsing to delivery,neutral,0.84
+290,the experience was better than expected,positive,0.9811
+290,everything worked fine and needs some improvement,positive,0.783
+291,customer support was frustrating,negative,0.9218
+291,the return pickup was delayed,negative,0.5779
+291,not a major concern,neutral,0.6826
+292,the delivery experience turned out to be worse than expected,negative,0.9247
+292,support eventually resolved the issue,neutral,0.6597
+292,not a major concern,neutral,0.6826
+293,From my experience,neutral,0.7509
+293,billing and payment were average,negative,0.5647
+293,and refund processing was slower than promised,negative,0.852
+294,billing and payment were slightly disappointing,negative,0.8894
+294,and tracking updates were not regular,neutral,0.693
+295,the checkout process seemed slow at times,negative,0.7531
+295,coupon application did not work properly,negative,0.8587
+296,the experience was worse than expected,negative,0.9332
+296,and refund processing was slower than promised,negative,0.852
+297,customer support was better than expected,positive,0.9678
+297,payment failed once before succeeding,neutral,0.5795
+298,i found the buying process to be mostly fine,positive,0.6349
+298,customer care took time to respond,neutral,0.7581
+299,the checkout process seemed slightly disappointing,negative,0.8693
+299,and the final billed amount differed slightly,neutral,0.8341
+300,billing and payment were quite good,positive,0.9162
+300,and the app lagged during checkout,negative,0.8398
+301,the ordering experience felt slightly disappointing,negative,0.8973
+301,support eventually resolved the issue,neutral,0.6597
+302,i found the buying process to be pleasant,positive,0.9076
+302,and tracking updates were not regular and needs some improvement,negative,0.5728
+303,my interaction with customer care was average,negative,0.8322
+303,the delivery was delayed by a couple of days,negative,0.7335
+304,from browsing to delivery,neutral,0.84
+304,the experience was worse than expected,negative,0.9332
+304,everything worked fine,positive,0.7039
+305,the checkout process seemed frustrating,negative,0.8704
+305,billing had a small discrepancy,neutral,0.8311
+306,i found the buying process to be mostly fine,positive,0.6349
+306,everything worked fine,positive,0.7039
+307,from browsing to delivery,neutral,0.84
+307,the experience was slightly disappointing,negative,0.8861
+307,the delivery was delayed by a couple of days,negative,0.7335
+308,From my experience,neutral,0.7509
+308,from browsing to delivery,neutral,0.84
+308,the experience was a bit confusing,negative,0.6813
+308,the delivery was delayed by a couple of days which could be improved,negative,0.7154
+309,the ordering experience felt decent,positive,0.9093
+309,customer care took time to respond,neutral,0.7581
+310,I thought very nice experiecne worth repeat purchase,positive,0.9722
+311,i found the buying process to be quite good,positive,0.9384
+311,everything worked fine which could be improved,positive,0.8023
+312,the experience was slightly disappointing,negative,0.8861
+312,customer care took time to respond,neutral,0.7581
+313,billing and payment were not very impressive,negative,0.8618
+313,and the app lagged during checkout,negative,0.8398
+314,customer support was satisfactory,positive,0.9291
+314,the invoice was not easy to access which could be improved,negative,0.8182
+315,from browsing to delivery,neutral,0.84
+315,the experience was slightly disappointing,negative,0.8861
+315,everything worked fine,positive,0.7039
+315,not a major concern,neutral,0.6826
+316,the checkout process seemed average,negative,0.7465
+316,the return pickup was delayed,negative,0.5779
+317,billing and payment were mostly fine,positive,0.5629
+317,the delivery was delayed by a couple of days,negative,0.7335
+318,i found the buying process to be pleasant,positive,0.9076
+318,communication from support could be better,neutral,0.521
+319,from browsing to delivery,neutral,0.84
+319,the experience was not very impressive,negative,0.881
+319,and the final billed amount differed slightly,neutral,0.8341
+320,my interaction with customer care was slow at times,negative,0.8312
+320,the return pickup was delayed which slightly affected my experience,negative,0.8206
+321,billing and payment were mostly fine,positive,0.5629
+321,payment failed once before succeeding,neutral,0.5795
+322,using the app was fairly efficient,positive,0.8246
+322,and the app lagged during checkout,negative,0.8398
+323,the delivery experience turned out to be a bit confusing,negative,0.7174
+323,customer care took time to respond,neutral,0.7581
+324,the experience was smooth,positive,0.9286
+324,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+325,from browsing to delivery,neutral,0.84
+325,the experience was slightly disappointing,negative,0.8861
+325,and refund processing was slower than promised,negative,0.852
+326,using the app was slow at times,negative,0.6987
+326,and tracking updates were not regular,neutral,0.693
+326,not a major concern,neutral,0.6826
+327,the delivery experience turned out to be average,negative,0.859
+327,coupon application did not work properly,negative,0.8587
+328,Probbaly I will be buying more stuff,positive,0.501
+328,looks good to me,positive,0.9337
+329,using the app was average,negative,0.7631
+329,communication from support could be better,neutral,0.521
+330,billing and payment were pleasant,positive,0.9066
+330,everything worked fine which could be improved,positive,0.8023
+331,from browsing to delivery,neutral,0.84
+331,the experience was inconsistent,negative,0.8575
+331,the invoice was not easy to access and needs some improvement,negative,0.8864
+332,using the app was a bit confusing,neutral,0.505
+332,billing had a small discrepancy which could be improved,neutral,0.7188
+333,customer support was decent,positive,0.8701
+333,and the app lagged during checkout,negative,0.8398
+334,the checkout process seemed better than expected,positive,0.9376
+334,billing had a small discrepancy,neutral,0.8311
+334,not a major concern,neutral,0.6826
+335,i found the buying process to be quite good,positive,0.9384
+335,and refund processing was slower than promised,negative,0.852
+335,not a major concern,neutral,0.6826
+336,i found the buying process to be smooth,positive,0.6252
+336,everything worked fine,positive,0.7039
+337,billing and payment were mostly fine,positive,0.5629
+337,the delivery was delayed by a couple of days which could be improved,negative,0.7154
+338,the ordering experience felt slightly disappointing,negative,0.8973
+338,and the final billed amount differed slightly and needs some improvement,neutral,0.595
+339,my interaction with customer care was pleasant,positive,0.9485
+339,everything worked fine,positive,0.7039
+340,the checkout process seemed average,negative,0.7465
+340,the invoice was not easy to access,negative,0.828
+341,The process was smooth and fast,positive,0.8926
+342,i found the buying process to be mostly fine,positive,0.6349
+342,the invoice was not easy to access,negative,0.828
+343,From my experience,neutral,0.7509
+343,billing and payment were inconsistent,negative,0.736
+343,everything worked fine,positive,0.7039
+344,the checkout process seemed mostly fine,positive,0.7489
+344,and the app lagged during checkout,negative,0.8398
+345,my interaction with customer care was inconsistent,negative,0.8301
+345,and the app lagged during checkout,negative,0.8398
+345,not a major concern,neutral,0.6826
+346,From my experience,neutral,0.7509
+346,the delivery experience turned out to be pleasant,positive,0.9631
+346,the delivery was delayed by a couple of days,negative,0.7335
+346,not a major concern,neutral,0.6826
+347,the delivery experience turned out to be worse than expected,negative,0.9247
+347,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+348,using the app was not very impressive,negative,0.8712
+348,and refund processing was slower than promised,negative,0.852
+349,the ordering experience felt slightly disappointing,negative,0.8973
+349,billing had a small discrepancy,neutral,0.8311
+350,the delivery experience turned out to be inconsistent,negative,0.8114
+350,payment failed once before succeeding,neutral,0.5795
+351,i found the buying process ly efficient,positive,0.69
+351,and the app lagged during checkout which could be improved,negative,0.8118
+352,the delivery experience turned out to be decent,positive,0.9252
+352,and the app froze briefly during checkout,negative,0.6335
+353,the checkout process seemed inconsistent,negative,0.7649
+353,everything worked fine,positive,0.7039
+353,not a major concern,neutral,0.6826
+354,using the app was average,negative,0.7631
+354,and the final billed amount differed slightly,neutral,0.8341
+355,From my experience,neutral,0.7509
+355,my interaction with customer care was inconsistent,negative,0.8301
+355,and the final billed amount differed slightly,neutral,0.8341
+356,from browsing to delivery,neutral,0.84
+356,the experience was not very impressive,negative,0.881
+356,the invoice was not easy to access,negative,0.828
+357,billing and payment were quite good,positive,0.9162
+357,the return pickup was delayed,negative,0.5779
+358,from browsing to delivery,neutral,0.84
+358,the experience was smooth,positive,0.9286
+358,and refund processing was slower than promised,negative,0.852
+359,the ordering experience felt average,negative,0.8621
+359,and refund processing was slower than promised,negative,0.852
+360,the delivery experience turned out to be pleasant,positive,0.9631
+360,and the final billed amount differed slightly,neutral,0.8341
+361,from browsing to delivery,neutral,0.84
+361,the experience was satisfactory,positive,0.9494
+361,the delivery was delayed by a couple of days,negative,0.7335
+362,from browsing to delivery,neutral,0.84
+362,the experience was inconsistent,negative,0.8575
+362,the delivery was delayed by a couple of days,negative,0.7335
+363,the ordering experience felt decent,positive,0.9093
+363,and the app froze briefly during checkout which slightly affected my experience,negative,0.8183
+364,billing and payment were frustrating,negative,0.8702
+364,the return pickup was delayed,negative,0.5779
+364,not a major concern,neutral,0.6826
+365,the checkout process seemed better than expected,positive,0.9376
+365,the return pickup was delayed,negative,0.5779
+366,billing and payment were quite good,positive,0.9162
+366,the delivery was delayed by a couple of days which could be improved,negative,0.7154
+367,i found the buying process to be worse than expected,negative,0.9242
+367,coupon application did not work properly,negative,0.8587
+367,not a major concern,neutral,0.6826
+368,customer support was fairly efficient,positive,0.8737
+368,coupon application did not work properly,negative,0.8587
+369,the checkout process seemed frustrating,negative,0.8704
+369,the return pickup was delayed,negative,0.5779
+370,From my experience,neutral,0.7509
+370,i found the buying process to be quite good,positive,0.9384
+370,everything worked fine and needs some improvement,positive,0.783
+371,my interaction with customer care was not very impressive,negative,0.8848
+371,coupon application did not work properly,negative,0.8587
+372,The buying experience felt smooth,positive,0.9025
+372,no unnecessary steps or confusion,neutral,0.5558
+373,customer support was inconsistent,negative,0.8775
+373,payment failed once before succeeding which slightly affected my experience,negative,0.7393
+374,using the app was worse than expected,negative,0.9319
+374,and the app lagged during checkout which could be improved,negative,0.8118
+375,billing and payment were satisfactory,positive,0.8478
+375,and the app lagged during checkout which could be improved,negative,0.8118
+376,the delivery experience turned out to be inconsistent,negative,0.8114
+376,and tracking updates were not regular and needs some improvement,negative,0.5728
+377,customer support was slightly disappointing,negative,0.9093
+377,payment failed once before succeeding,neutral,0.5795
+377,not a major concern,neutral,0.6826
+378,the experience was better than expected,positive,0.9811
+378,support eventually resolved the issue,neutral,0.6597
+379,my interaction with customer care was quite good,positive,0.9599
+379,billing had a small discrepancy which could be improved,neutral,0.7188
+380,the experience was smooth,positive,0.9286
+380,customer care took time to respond,neutral,0.7581
+380,not a major concern,neutral,0.6826
+381,the experience was mostly fine,positive,0.896
+381,billing had a small discrepancy,neutral,0.8311
+382,From my experience,neutral,0.7509
+382,i found the buying process to be quite good,positive,0.9384
+382,customer care took time to respond,neutral,0.7581
+383,billing and payment were pleasant,positive,0.9066
+383,coupon application did not work properly,negative,0.8587
+384,From my experience,neutral,0.7509
+384,the ordering experience felt not very impressive,negative,0.8736
+384,the delivery was delayed by a couple of days which slightly affected my experience,negative,0.852
+385,from browsing to delivery,neutral,0.84
+385,the experience was smooth,positive,0.9286
+385,coupon application did not work properly,negative,0.8587
+386,i found the buying process to be mostly fine,positive,0.6349
+386,billing had a small discrepancy,neutral,0.8311
+387,customer support was slightly disappointing,negative,0.9093
+387,and the app froze briefly during checkout,negative,0.6335
+388,the delivery experience turned out to be decent,positive,0.9252
+388,everything worked fine,positive,0.7039
+389,using the app was a bit confusing,neutral,0.505
+389,the invoice was not easy to access,negative,0.828
+390,the delivery experience turned out to be not very impressive,negative,0.8797
+390,the invoice was not easy to access which slightly affected my experience,negative,0.8552
+391,billing and payment were pleasant,positive,0.9066
+391,everything worked fine,positive,0.7039
+392,customer support was inconsistent,negative,0.8775
+392,billing had a small discrepancy which slightly affected my experience,negative,0.7122
+393,billing and payment were not very impressive,negative,0.8618
+393,the delivery was delayed by a couple of days,negative,0.7335
+394,customer support was mostly fine,positive,0.7734
+394,coupon application did not work properly which slightly affected my experience,negative,0.873
+395,i found the buying process to be quite good,positive,0.9384
+395,and tracking updates were not regular,neutral,0.693
+396,the checkout process seemed fairly efficient,positive,0.8837
+396,and tracking updates were not regular,neutral,0.693
+396,not a major concern,neutral,0.6826
+397,billing and payment were average,negative,0.5647
+397,billing had a small discrepancy,neutral,0.8311
+398,customer support was a bit confusing,negative,0.7998
+398,communication from support could be better,neutral,0.521
+398,not a major concern,neutral,0.6826
+399,From my experience,neutral,0.7509
+399,my interaction with customer care was worse than expected,negative,0.9391
+399,communication from support could be better,neutral,0.521
+400,using the app was smooth,positive,0.686
+400,billing had a small discrepancy,neutral,0.8311
+400,not a major concern,neutral,0.6826
+401,billing and payment were fairly efficient,positive,0.721
+401,payment failed once before succeeding which slightly affected my experience,negative,0.7393
+402,customer support was a bit confusing,negative,0.7998
+402,communication from support could be better which slightly affected my experience,negative,0.5905
+403,the experience was frustrating,negative,0.895
+403,everything worked fine,positive,0.7039
+404,customer support was slightly disappointing,negative,0.9093
+404,and tracking updates were not regular,neutral,0.693
+405,using the app was inconsistent,negative,0.7601
+405,and the final billed amount differed slightly and needs some improvement,neutral,0.595
+406,the checkout process seemed satisfactory,positive,0.8768
+406,and the final billed amount differed slightly,neutral,0.8341
+407,the experience was inconsistent,negative,0.8575
+407,coupon application did not work properly,negative,0.8587
+408,well like others nothing different,neutral,0.6924
+409,the experience was slightly disappointing,negative,0.8861
+409,the return pickup was delayed and needs some improvement,negative,0.8213
+410,from browsing to delivery,neutral,0.84
+410,the experience was a bit confusing,negative,0.6813
+410,and tracking updates were not regular,neutral,0.693
+410,not a major concern,neutral,0.6826
+411,the experience was decent,positive,0.9294
+411,support eventually resolved the issue,neutral,0.6597
+412,the ordering experience felt smooth,positive,0.9088
+412,customer care took time to respond,neutral,0.7581
+413,the ordering experience felt not very impressive,negative,0.8736
+413,communication from support could be better,neutral,0.521
+413,not a major concern,neutral,0.6826
+414,customer support was not very impressive,negative,0.891
+414,and the app lagged during checkout,negative,0.8398
+415,using the app was quite good,positive,0.9668
+415,everything worked fine,positive,0.7039
+416,my interaction with customer care was smooth,positive,0.8227
+416,the return pickup was delayed,negative,0.5779
+416,not a major concern,neutral,0.6826
+417,the checkout process seemed mostly fine,positive,0.7489
+417,and tracking updates were not regular,neutral,0.693
+417,not a major concern,neutral,0.6826
+418,the ordering experience felt fairly efficient,positive,0.9422
+418,customer care took time to respond,neutral,0.7581
+418,not a major concern,neutral,0.6826
+419,From my experience,neutral,0.7509
+419,using the app was fairly efficient,positive,0.8246
+419,the invoice was not easy to access which slightly affected my experience,negative,0.8552
+420,the experience was fairly efficient,positive,0.9463
+420,the delivery was delayed by a couple of days which could be improved,negative,0.7154
+421,the delivery experience turned out to be satisfactory,positive,0.9322
+421,customer care took time to respond,neutral,0.7581
+422,the checkout process seemed average,negative,0.7465
+422,payment failed once before succeeding which slightly affected my experience,negative,0.7393
+423,using the app was smooth,positive,0.686
+423,payment failed once before succeeding,neutral,0.5795
+424,customer support was worse than expected,negative,0.9323
+424,coupon application did not work properly,negative,0.8587
+424,not a major concern,neutral,0.6826
+425,my interaction with customer care was frustrating,negative,0.9052
+425,and the final billed amount differed slightly,neutral,0.8341
+426,the ordering experience felt slow at times,negative,0.8322
+426,coupon application did not work properly,negative,0.8587
+427,customer support was slow at times,negative,0.8624
+427,payment failed once before succeeding,neutral,0.5795
+428,my interaction with customer care was fairly efficient,positive,0.8965
+428,billing had a small discrepancy,neutral,0.8311
+429,customer support was satisfactory,positive,0.9291
+429,communication from support could be better,neutral,0.521
+430,billing and payment were inconsistent,negative,0.736
+430,communication from support could be better,neutral,0.521
+431,the ordering experience felt fairly efficient,positive,0.9422
+431,and refund processing was slower than promised,negative,0.852
+431,not a major concern,neutral,0.6826
+432,i found the buying process to be slightly disappointing,negative,0.8862
+432,the return pickup was delayed,negative,0.5779
+433,From my experience,neutral,0.7509
+433,the checkout process seemed quite good,positive,0.939
+433,the invoice was not easy to access which could be improved,negative,0.8182
+434,the checkout process seemed satisfactory,positive,0.8768
+434,the return pickup was delayed,negative,0.5779
+435,from browsing to delivery,neutral,0.84
+435,the experience was better than expected,positive,0.9811
+435,coupon application did not work properly,negative,0.8587
+436,the experience was better than expected,positive,0.9811
+436,communication from support could be better which could be improved,positive,0.6907
+437,billing and payment were frustrating,negative,0.8702
+437,communication from support could be better,neutral,0.521
+437,not a major concern,neutral,0.6826
+438,i found the buying process to be better than expected,positive,0.9373
+438,billing had a small discrepancy,neutral,0.8311
+439,the delivery experience turned out to be frustrating,negative,0.8708
+439,and the app froze briefly during checkout which slightly affected my experience,negative,0.8183
+440,i found the buying process to be slightly disappointing,negative,0.8862
+440,and the final billed amount differed slightly and needs some improvement,neutral,0.595
+441,From my experience,neutral,0.7509
+441,billing and payment were smooth,positive,0.7625
+441,and tracking updates were not regular,neutral,0.693
+441,not a major concern,neutral,0.6826
+442,the checkout process seemed satisfactory,positive,0.8768
+442,billing had a small discrepancy,neutral,0.8311
+443,they do too much telecalling and marketing,negative,0.646
+444,customer support was mostly fine,positive,0.7734
+444,payment failed once before succeeding,neutral,0.5795
+445,i found the buying process to be satisfactory,positive,0.8375
+445,payment failed once before succeeding,neutral,0.5795
+446,from browsing to delivery,neutral,0.84
+446,the experience was satisfactory,positive,0.9494
+446,and the final billed amount differed slightly,neutral,0.8341
+447,From my experience,neutral,0.7509
+447,from browsing to delivery,neutral,0.84
+447,the experience was smooth,positive,0.9286
+447,and the app froze briefly during checkout,negative,0.6335
+447,not a major concern,neutral,0.6826
+448,using the app was not very impressive,negative,0.8712
+448,the delivery was delayed by a couple of days,negative,0.7335
+449,the ordering experience felt average,negative,0.8621
+449,and the app lagged during checkout,negative,0.8398
+450,using the app was pleasant,positive,0.9449
+450,and refund processing was slower than promised,negative,0.852
+451,the checkout process seemed satisfactory,positive,0.8768
+451,the delivery was delayed by a couple of days,negative,0.7335
+451,not a major concern,neutral,0.6826
+452,billing and payment were inconsistent,negative,0.736
+452,customer care took time to respond,neutral,0.7581
+453,From my experience,neutral,0.7509
+453,billing and payment were mostly fine,positive,0.5629
+453,everything worked fine,positive,0.7039
+454,From my experience,neutral,0.7509
+454,my interaction with customer care was fairly efficient,positive,0.8965
+454,everything worked fine and needs some improvement,positive,0.783
+455,the ordering experience felt slightly disappointing,negative,0.8973
+455,the invoice was not easy to access,negative,0.828
+456,i found the buying process to be quite good,positive,0.9384
+456,payment failed once before succeeding which could be improved,negative,0.4881
+457,the delivery experience turned out to be smooth,positive,0.9114
+457,and refund processing was slower than promised,negative,0.852
+458,the delivery experience turned out to be satisfactory,positive,0.9322
+458,and the final billed amount differed slightly,neutral,0.8341
+459,the experience was fairly efficient,positive,0.9463
+459,and the app lagged during checkout,negative,0.8398
+460,billing and payment were quite good,positive,0.9162
+460,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+461,billing and payment were worse than expected,negative,0.9263
+461,the delivery was delayed by a couple of days,negative,0.7335
+461,not a major concern,neutral,0.6826
+462,customer support was pleasant,positive,0.9551
+462,and the app froze briefly during checkout,negative,0.6335
+463,customer support was frustrating,negative,0.9218
+463,support eventually resolved the issue which slightly affected my experience,neutral,0.6756
+464,i found the buying process to be satisfactory,positive,0.8375
+464,and the app lagged during checkout,negative,0.8398
+465,customer support was quite good,positive,0.9558
+465,everything worked fine,positive,0.7039
+465,not a major concern,neutral,0.6826
+466,the ordering experience felt mostly fine,positive,0.8739
+466,and tracking updates were not regular,neutral,0.693
+467,the ordering experience felt inconsistent,negative,0.8297
+467,the return pickup was delayed,negative,0.5779
+468,from browsing to delivery,neutral,0.84
+468,the experience was smooth,positive,0.9286
+468,and tracking updates were not regular,neutral,0.693
+469,i found the buying process to be inconsistent,negative,0.7412
+469,and refund processing was slower than promised,negative,0.852
+470,my interaction with customer care was fairly efficient,positive,0.8965
+470,communication from support could be better,neutral,0.521
+470,not a major concern,neutral,0.6826
+471,customer support was quite good,positive,0.9558
+471,everything worked fine which slightly affected my experience,neutral,0.5434
+472,using the app was inconsistent,negative,0.7601
+472,support eventually resolved the issue,neutral,0.6597
+473,the checkout process seemed better than expected,positive,0.9376
+473,support eventually resolved the issue which could be improved,neutral,0.5016
+474,billing and payment were average,negative,0.5647
+474,everything worked fine,positive,0.7039
+475,customer support was better than expected,positive,0.9678
+475,and the app lagged during checkout which could be improved,negative,0.8118
+476,the experience was fairly efficient,positive,0.9463
+476,and the final billed amount differed slightly,neutral,0.8341
+477,the ordering experience felt smooth,positive,0.9088
+477,and refund processing was slower than promised,negative,0.852
+478,the delivery experience turned out to be decent,positive,0.9252
+478,customer care took time to respond,neutral,0.7581
+479,the experience was quite good,positive,0.9747
+479,payment failed once before succeeding,neutral,0.5795
+480,the checkout process seemed a bit confusing,negative,0.6168
+480,and the app froze briefly during checkout,negative,0.6335
+481,i found the buying process to be pleasant,positive,0.9076
+481,and the app lagged during checkout,negative,0.8398
+482,Product met expectations and the entire process was hassle free,positive,0.9533
+483,the ordering experience felt better than expected,positive,0.9736
+483,and the app froze briefly during checkout,negative,0.6335
+484,the ordering experience felt frustrating,negative,0.8998
+484,support eventually resolved the issue,neutral,0.6597
+485,my interaction with customer care was mostly fine,positive,0.7532
+485,and refund processing was slower than promised,negative,0.852
+485,not a major concern,neutral,0.6826
+486,billing and payment were not very impressive,negative,0.8618
+486,and the app lagged during checkout which slightly affected my experience,negative,0.8631
+487,from browsing to delivery,neutral,0.84
+487,the experience was smooth,positive,0.9286
+487,the delivery was delayed by a couple of days and needs some improvement,negative,0.8341
+488,i found the buying process to be pleasant,positive,0.9076
+488,everything worked fine,positive,0.7039
+489,customer support was better than expected,positive,0.9678
+489,and tracking updates were not regular,neutral,0.693
+490,i found the buying process to be pleasant,positive,0.9076
+490,billing had a small discrepancy which slightly affected my experience,negative,0.7122
+491,the checkout process seemed fairly efficient,positive,0.8837
+491,the invoice was not easy to access,negative,0.828
+492,customer support was quite good,positive,0.9558
+492,support eventually resolved the issue which slightly affected my experience,neutral,0.6756
+493,the delivery experience turned out to be inconsistent,negative,0.8114
+493,communication from support could be better,neutral,0.521
+494,customer support was smooth,positive,0.8344
+494,communication from support could be better,neutral,0.521
+495,the experience was smooth,positive,0.9286
+495,and the app froze briefly during checkout and needs some improvement,negative,0.7869
+496,using the app was pleasant,positive,0.9449
+496,billing had a small discrepancy which slightly affected my experience,negative,0.7122
+497,my interaction with customer care was slightly disappointing,negative,0.9025
+497,billing had a small discrepancy,neutral,0.8311
+498,i found the buying process to be average,negative,0.6802
+498,and the app froze briefly during checkout,negative,0.6335
+499,the delivery experience turned out to be worse than expected,negative,0.9247
+499,billing had a small discrepancy,neutral,0.8311
+500,the ordering experience felt worse than expected,negative,0.9332
+500,everything worked fine which could be improved,positive,0.8023
+501,From my experience,neutral,0.7509
+501,using the app was average,negative,0.7631
+501,coupon application did not work properly,negative,0.8587
+502,customer support was decent,positive,0.8701
+502,coupon application did not work properly,negative,0.8587
+503,From my experience,neutral,0.7509
+503,the checkout process seemed worse than expected,negative,0.9172
+503,customer care took time to respond which could be improved,negative,0.5184
+504,billing and payment were average,negative,0.5647
+504,and the app lagged during checkout,negative,0.8398
+505,one of the better web app,positive,0.9707
+506,i found the buying process to be slightly disappointing,negative,0.8862
+506,the delivery was delayed by a couple of days,negative,0.7335
+507,i found the buying process to be satisfactory,positive,0.8375
+507,and tracking updates were not regular,neutral,0.693
+508,i found the buying process to be mostly fine,positive,0.6349
+508,the delivery was delayed by a couple of days,negative,0.7335
+508,not a major concern,neutral,0.6826
+509,the experience was fairly efficient,positive,0.9463
+509,and refund processing was slower than promised,negative,0.852
+510,From my experience,neutral,0.7509
+510,the checkout process seemed not very impressive,negative,0.839
+510,everything worked fine,positive,0.7039
+511,the checkout process seemed inconsistent,negative,0.7649
+511,customer care took time to respond and needs some improvement,neutral,0.5303
+512,the ordering experience felt pleasant,positive,0.9632
+512,customer care took time to respond and needs some improvement,neutral,0.5303
+513,Delivery timing was accurate,positive,0.8222
+513,came on the promised date without delay,neutral,0.7651
+514,From my experience,neutral,0.7509
+514,customer support was slow at times,negative,0.8624
+514,customer care took time to respond,neutral,0.7581
+515,From my experience,neutral,0.7509
+515,using the app was decent,positive,0.8401
+515,the delivery was delayed by a couple of days which slightly affected my experience,negative,0.852
+516,billing and payment were worse than expected,negative,0.9263
+516,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+517,the experience was satisfactory,positive,0.9494
+517,the return pickup was delayed which could be improved,negative,0.5467
+518,my interaction with customer care was quite good,positive,0.9599
+518,the delivery was delayed by a couple of days,negative,0.7335
+519,the experience was mostly fine,positive,0.896
+519,billing had a small discrepancy which slightly affected my experience,negative,0.7122
+520,from browsing to delivery,neutral,0.84
+520,the experience was smooth,positive,0.9286
+520,and tracking updates were not regular,neutral,0.693
+521,From my experience,neutral,0.7509
+521,from browsing to delivery,neutral,0.84
+521,the experience was inconsistent,negative,0.8575
+521,everything worked fine,positive,0.7039
+522,from browsing to delivery,neutral,0.84
+522,the experience was decent,positive,0.9294
+522,and the final billed amount differed slightly,neutral,0.8341
+523,customer support was quite good,positive,0.9558
+523,and the final billed amount differed slightly,neutral,0.8341
+524,my interaction with customer care was decent,positive,0.8777
+524,the invoice was not easy to access and needs some improvement,negative,0.8864
+525,the ordering experience felt a bit confusing,negative,0.6626
+525,and refund processing was slower than promised,negative,0.852
+526,from browsing to delivery,neutral,0.84
+526,the experience was mostly fine,positive,0.896
+526,payment failed once before succeeding,neutral,0.5795
+527,billing and payment were quite good,positive,0.9162
+527,everything worked fine,positive,0.7039
+527,not a major concern,neutral,0.6826
+528,the ordering experience felt pleasant,positive,0.9632
+528,and the app lagged during checkout,negative,0.8398
+529,the checkout process seemed not very impressive,negative,0.839
+529,the delivery was delayed by a couple of days,negative,0.7335
+530,the experience was quite good,positive,0.9747
+530,billing had a small discrepancy,neutral,0.8311
+531,from browsing to delivery,neutral,0.84
+531,the experience was frustrating,negative,0.895
+531,and the app lagged during checkout which could be improved,negative,0.8118
+532,from browsing to delivery,neutral,0.84
+532,the experience was a bit confusing,negative,0.6813
+532,the invoice was not easy to access which could be improved,negative,0.8182
+533,the experience was mostly fine,positive,0.896
+533,the delivery was delayed by a couple of days,negative,0.7335
+534,From my experience,neutral,0.7509
+534,from browsing to delivery,neutral,0.84
+534,the experience was fairly efficient,positive,0.9463
+534,billing had a small discrepancy,neutral,0.8311
+535,billing and payment were mostly fine,positive,0.5629
+535,billing had a small discrepancy which could be improved,neutral,0.7188
+536,the experience was worse than expected,negative,0.9332
+536,support eventually resolved the issue,neutral,0.6597
+537,From my experience,neutral,0.7509
+537,the delivery experience turned out to be better than expected,positive,0.9801
+537,the invoice was not easy to access which slightly affected my experience,negative,0.8552
+538,From my experience,neutral,0.7509
+538,my interaction with customer care was smooth,positive,0.8227
+538,communication from support could be better,neutral,0.521
+539,my interaction with customer care was pleasant,positive,0.9485
+539,and the app lagged during checkout,negative,0.8398
+539,not a major concern,neutral,0.6826
+540,customer support was smooth,positive,0.8344
+540,communication from support could be better,neutral,0.521
+540,not a major concern,neutral,0.6826
+541,the checkout process seemed average,negative,0.7465
+541,and tracking updates were not regular,neutral,0.693
+542,customer support was better than expected,positive,0.9678
+542,and refund processing was slower than promised and needs some improvement,negative,0.851
+543,From my experience,neutral,0.7509
+543,from browsing to delivery,neutral,0.84
+543,the experience was pleasant,positive,0.9663
+543,customer care took time to respond which slightly affected my experience,negative,0.7476
+544,customer support was pleasant,positive,0.9551
+544,payment failed once before succeeding and needs some improvement,negative,0.5932
+545,my interaction with customer care was smooth,positive,0.8227
+545,coupon application did not work properly,negative,0.8587
+546,i found the buying process to be slow at times,negative,0.73
+546,everything worked fine,positive,0.7039
+547,the experience was satisfactory,positive,0.9494
+547,and the app lagged during checkout,negative,0.8398
+548,Customer support responded faster than expected and solved the issue in one go,positive,0.8269
+549,using the app was slow at times,negative,0.6987
+549,and the app froze briefly during checkout,negative,0.6335
+550,i found the buying process to be smooth,positive,0.6252
+550,support eventually resolved the issue which slightly affected my experience,neutral,0.6756
+551,billing and payment were inconsistent,negative,0.736
+551,and the app froze briefly during checkout,negative,0.6335
+552,the delivery experience turned out to be slightly disappointing,negative,0.8781
+552,and refund processing was slower than promised and needs some improvement,negative,0.851
+553,the ordering experience felt not very impressive,negative,0.8736
+553,coupon application did not work properly,negative,0.8587
+554,billing and payment were inconsistent,negative,0.736
+554,payment failed once before succeeding and needs some improvement,negative,0.5932
+555,the delivery experience turned out to be worse than expected,negative,0.9247
+555,support eventually resolved the issue,neutral,0.6597
+556,the experience was average,negative,0.8643
+556,billing had a small discrepancy,neutral,0.8311
+557,from browsing to delivery,neutral,0.84
+557,the experience was decent,positive,0.9294
+557,and tracking updates were not regular which could be improved,neutral,0.5808
+558,my interaction with customer care was worse than expected,negative,0.9391
+558,billing had a small discrepancy,neutral,0.8311
+559,my interaction with customer care was better than expected,positive,0.9604
+559,and tracking updates were not regular,neutral,0.693
+560,my interaction with customer care was smooth,positive,0.8227
+560,communication from support could be better and needs some improvement,neutral,0.5949
+561,my interaction with customer care was quite good,positive,0.9599
+561,payment failed once before succeeding,neutral,0.5795
+561,not a major concern,neutral,0.6826
+562,the ordering experience felt satisfactory,positive,0.9461
+562,the invoice was not easy to access,negative,0.828
+563,using the app was slow at times,negative,0.6987
+563,the return pickup was delayed,negative,0.5779
+564,the experience was pleasant,positive,0.9663
+564,and the app froze briefly during checkout,negative,0.6335
+565,the checkout process seemed smooth,positive,0.7016
+565,and the final billed amount differed slightly,neutral,0.8341
+566,billing and payment were smooth,positive,0.7625
+566,and the final billed amount differed slightly which slightly affected my experience,negative,0.6564
+567,the delivery experience turned out to be better than expected,positive,0.9801
+567,customer care took time to respond,neutral,0.7581
+568,i found the buying process to be better than expected,positive,0.9373
+568,support eventually resolved the issue,neutral,0.6597
+569,the ordering experience felt slightly disappointing,negative,0.8973
+569,billing had a small discrepancy,neutral,0.8311
+570,Website is attractive,positive,0.7894
+570,I think its good option,positive,0.8579
+571,customer support was fairly efficient,positive,0.8737
+571,and tracking updates were not regular,neutral,0.693
+571,not a major concern,neutral,0.6826
+572,billing and payment were not very impressive,negative,0.8618
+572,coupon application did not work properly which slightly affected my experience,negative,0.873
+573,the delivery experience turned out to be pleasant,positive,0.9631
+573,the invoice was not easy to access which slightly affected my experience,negative,0.8552
+574,Overall a good experience,positive,0.9656
+574,would probably order again from here,positive,0.5811
+575,customer support was frustrating,negative,0.9218
+575,and refund processing was slower than promised,negative,0.852
+575,not a major concern,neutral,0.6826
+576,my interaction with customer care was decent,positive,0.8777
+576,everything worked fine,positive,0.7039
+577,customer support was smooth,positive,0.8344
+577,the return pickup was delayed,negative,0.5779
+578,the ordering experience felt inconsistent,negative,0.8297
+578,and the app lagged during checkout,negative,0.8398
+579,the experience was decent,positive,0.9294
+579,customer care took time to respond which slightly affected my experience,negative,0.7476
+580,customer support was slow at times,negative,0.8624
+580,support eventually resolved the issue and needs some improvement,neutral,0.5631
+581,the ordering experience felt satisfactory,positive,0.9461
+581,coupon application did not work properly which could be improved,negative,0.8567
+582,my interaction with customer care was worse than expected,negative,0.9391
+582,and the app lagged during checkout,negative,0.8398
+583,the ordering experience felt a bit confusing,negative,0.6626
+583,communication from support could be better,neutral,0.521
+584,the checkout process seemed slightly disappointing,negative,0.8693
+584,coupon application did not work properly,negative,0.8587
+585,the checkout process seemed smooth,positive,0.7016
+585,payment failed once before succeeding and needs some improvement,negative,0.5932
+586,customer support was better than expected,positive,0.9678
+586,the delivery was delayed by a couple of days and needs some improvement,negative,0.8341
+587,the experience was fairly efficient,positive,0.9463
+587,billing had a small discrepancy which could be improved,neutral,0.7188
+588,i found the buying process to be better than expected,positive,0.9373
+588,customer care took time to respond,neutral,0.7581
+588,not a major concern,neutral,0.6826
+589,using the app was slow at times,negative,0.6987
+589,everything worked fine which slightly affected my experience,neutral,0.5434
+590,the experience was decent,positive,0.9294
+590,the return pickup was delayed,negative,0.5779
+591,Really smooth experience overall,positive,0.9558
+591,from browsing to checkout it just worked without issues,positive,0.6125
+592,the experience was not very impressive,negative,0.881
+592,and refund processing was slower than promised,negative,0.852
+593,the experience was pleasant,positive,0.9663
+593,support eventually resolved the issue which slightly affected my experience,neutral,0.6756
+594,the experience was frustrating,negative,0.895
+594,and the app froze briefly during checkout which slightly affected my experience,negative,0.8183
+595,It was worth buying,positive,0.8898
+596,the delivery experience turned out to be frustrating,negative,0.8708
+596,billing had a small discrepancy,neutral,0.8311
+597,billing and payment were pleasant,positive,0.9066
+597,and the app froze briefly during checkout,negative,0.6335
+597,not a major concern,neutral,0.6826
+598,the experience was pleasant,positive,0.9663
+598,support eventually resolved the issue,neutral,0.6597
+599,the checkout process seemed better than expected,positive,0.9376
+599,everything worked fine,positive,0.7039
+600,the delivery experience turned out to be smooth,positive,0.9114
+600,the invoice was not easy to access,negative,0.828
+601,the delivery experience turned out to be average,negative,0.859
+601,and tracking updates were not regular,neutral,0.693
+602,the ordering experience felt satisfactory,positive,0.9461
+602,communication from support could be better,neutral,0.521
+603,the checkout process seemed inconsistent,negative,0.7649
+603,support eventually resolved the issue,neutral,0.6597
+604,billing and payment were slow at times,negative,0.7784
+604,billing had a small discrepancy,neutral,0.8311
+605,my interaction with customer care was pleasant,positive,0.9485
+605,the return pickup was delayed,negative,0.5779
+606,the experience was slow at times,negative,0.8504
+606,customer care took time to respond and needs some improvement,neutral,0.5303
+607,i found the buying process to be a bit confusing,negative,0.6201
+607,payment failed once before succeeding,neutral,0.5795
+608,From my experience,neutral,0.7509
+608,customer support was slow at times,negative,0.8624
+608,and tracking updates were not regular,neutral,0.693
+609,my interaction with customer care was not very impressive,negative,0.8848
+609,the delivery was delayed by a couple of days which slightly affected my experience,negative,0.852
+610,from browsing to delivery,neutral,0.84
+610,the experience was quite good,positive,0.9747
+610,communication from support could be better,neutral,0.521
+611,From my experience,neutral,0.7509
+611,from browsing to delivery,neutral,0.84
+611,the experience was not very impressive,negative,0.881
+611,the delivery was delayed by a couple of days,negative,0.7335
+611,not a major concern,neutral,0.6826
+612,billing and payment were pleasant,positive,0.9066
+612,the invoice was not easy to access,negative,0.828
+613,the delivery experience turned out to be quite good,positive,0.975
+613,customer care took time to respond,neutral,0.7581
+614,i found the buying process to be average,negative,0.6802
+614,the invoice was not easy to access,negative,0.828
+615,using the app was pleasant,positive,0.9449
+615,customer care took time to respond,neutral,0.7581
+615,not a major concern,neutral,0.6826
+616,From my experience,neutral,0.7509
+616,my interaction with customer care was a bit confusing,negative,0.6228
+616,everything worked fine,positive,0.7039
+616,not a major concern,neutral,0.6826
+617,the ordering experience felt slightly disappointing,negative,0.8973
+617,and refund processing was slower than promised,negative,0.852
+618,Payment went through without any problem and confirmation was instant,positive,0.8755
+619,from browsing to delivery,neutral,0.84
+619,the experience was slow at times,negative,0.8504
+619,everything worked fine,positive,0.7039
+620,From my experience,neutral,0.7509
+620,my interaction with customer care was average,negative,0.8322
+620,billing had a small discrepancy,neutral,0.8311
+620,not a major concern,neutral,0.6826
+621,using the app was satisfactory,positive,0.8924
+621,and the app lagged during checkout and needs some improvement,negative,0.8635
+622,the ordering experience felt inconsistent,negative,0.8297
+622,and the final billed amount differed slightly and needs some improvement,neutral,0.595
+623,using the app was average,negative,0.7631
+623,and refund processing was slower than promised and needs some improvement,negative,0.851
+624,billing and payment were pleasant,positive,0.9066
+624,and the app froze briefly during checkout which could be improved,negative,0.6996
+625,billing and payment were average,negative,0.5647
+625,the return pickup was delayed and needs some improvement,negative,0.8213
+626,my interaction with customer care was slow at times,negative,0.8312
+626,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+627,the ordering experience felt decent,positive,0.9093
+627,and the final billed amount differed slightly,neutral,0.8341
+628,the experience was better than expected,positive,0.9811
+628,and the app froze briefly during checkout which could be improved,negative,0.6996
+629,the checkout process seemed fairly efficient,positive,0.8837
+629,support eventually resolved the issue and needs some improvement,neutral,0.5631
+630,the experience was slightly disappointing,negative,0.8861
+630,the return pickup was delayed,negative,0.5779
+631,my interaction with customer care was satisfactory,positive,0.909
+631,payment failed once before succeeding,neutral,0.5795
+632,my interaction with customer care was inconsistent,negative,0.8301
+632,and tracking updates were not regular and needs some improvement,negative,0.5728
+633,using the app was average,negative,0.7631
+633,and the app lagged during checkout,negative,0.8398
+634,the checkout process seemed slow at times,negative,0.7531
+634,and refund processing was slower than promised,negative,0.852
+635,the ordering experience felt pleasant,positive,0.9632
+635,the invoice was not easy to access,negative,0.828
+636,from browsing to delivery,neutral,0.84
+636,the experience was slightly disappointing,negative,0.8861
+636,and the app lagged during checkout and needs some improvement,negative,0.8635
+637,the delivery experience turned out to be smooth,positive,0.9114
+637,customer care took time to respond,neutral,0.7581
+638,the experience was worse than expected,negative,0.9332
+638,coupon application did not work properly,negative,0.8587
+639,From my experience,neutral,0.7509
+639,billing and payment were not very impressive,negative,0.8618
+639,billing had a small discrepancy,neutral,0.8311
+639,not a major concern,neutral,0.6826
+640,from browsing to delivery,neutral,0.84
+640,the experience was smooth,positive,0.9286
+640,the invoice was not easy to access,negative,0.828
+641,from browsing to delivery,neutral,0.84
+641,the experience was decent,positive,0.9294
+641,and the final billed amount differed slightly,neutral,0.8341
+642,my interaction with customer care was pleasant,positive,0.9485
+642,and tracking updates were not regular and needs some improvement,negative,0.5728
+643,The product quality is actually better than I thought,positive,0.9545
+643,quite satisfied with this purchase,positive,0.9382
+644,from browsing to delivery,neutral,0.84
+644,the experience was fairly efficient,positive,0.9463
+644,the invoice was not easy to access,negative,0.828
+645,from browsing to delivery,neutral,0.84
+645,the experience was not very impressive,negative,0.881
+645,support eventually resolved the issue,neutral,0.6597
+646,using the app was fairly efficient,positive,0.8246
+646,and the app froze briefly during checkout,negative,0.6335
+647,the checkout process seemed smooth,positive,0.7016
+647,and tracking updates were not regular,neutral,0.693
+648,i found the buying process to be not very impressive,negative,0.8619
+648,the delivery was delayed by a couple of days,negative,0.7335
+649,i found the buying process ly efficient,positive,0.69
+649,payment failed once before succeeding,neutral,0.5795
+650,the ordering experience felt smooth,positive,0.9088
+650,and the final billed amount differed slightly,neutral,0.8341
+651,customer support was quite good,positive,0.9558
+651,the return pickup was delayed,negative,0.5779
+652,the checkout process seemed quite good,positive,0.939
+652,the invoice was not easy to access,negative,0.828
+653,using the app was not very impressive,negative,0.8712
+653,payment failed once before succeeding,neutral,0.5795
+654,From my experience,neutral,0.7509
+654,the checkout process seemed satisfactory,positive,0.8768
+654,and the app lagged during checkout which slightly affected my experience,negative,0.8631
+655,billing and payment were worse than expected,negative,0.9263
+655,communication from support could be better,neutral,0.521
+656,the checkout process seemed a bit confusing,negative,0.6168
+656,the delivery was delayed by a couple of days,negative,0.7335
+657,i found the buying process to be worse than expected,negative,0.9242
+657,coupon application did not work properly and needs some improvement,negative,0.9019
+658,the delivery experience turned out to be not very impressive,negative,0.8797
+658,the invoice was not easy to access,negative,0.828
+658,not a major concern,neutral,0.6826
+659,the checkout process seemed better than expected,positive,0.9376
+659,and the app lagged during checkout,negative,0.8398
+660,customer support was pleasant,positive,0.9551
+660,and the final billed amount differed slightly,neutral,0.8341
+661,the delivery experience turned out to be pleasant,positive,0.9631
+661,everything worked fine,positive,0.7039
+663,i found the buying process to be mostly fine,positive,0.6349
+663,coupon application did not work properly,negative,0.8587
+664,the checkout process seemed frustrating,negative,0.8704
+664,the invoice was not easy to access which could be improved,negative,0.8182
+665,the checkout process seemed frustrating,negative,0.8704
+665,and tracking updates were not regular,neutral,0.693
+666,the checkout process seemed a bit confusing,negative,0.6168
+666,communication from support could be better,neutral,0.521
+667,the experience was inconsistent,negative,0.8575
+667,payment failed once before succeeding,neutral,0.5795
+668,my interaction with customer care was pleasant,positive,0.9485
+668,customer care took time to respond,neutral,0.7581
+668,not a major concern,neutral,0.6826
+669,the ordering experience felt worse than expected,negative,0.9332
+669,and the app froze briefly during checkout which slightly affected my experience,negative,0.8183
+670,the experience was better than expected,positive,0.9811
+670,everything worked fine which could be improved,positive,0.8023
+671,the ordering experience felt mostly fine,positive,0.8739
+671,everything worked fine which could be improved,positive,0.8023
+672,From my experience,neutral,0.7509
+672,the checkout process seemed satisfactory,positive,0.8768
+672,and the app froze briefly during checkout and needs some improvement,negative,0.7869
+673,from browsing to delivery,neutral,0.84
+673,the experience was average,negative,0.8643
+673,and the app froze briefly during checkout,negative,0.6335
+674,the ordering experience felt a bit confusing,negative,0.6626
+674,the delivery was delayed by a couple of days and needs some improvement,negative,0.8341
+675,the experience was fairly efficient,positive,0.9463
+675,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+676,Got my order earlier than expected,positive,0.5397
+676,everything was packed properly and nothing missing,positive,0.5509
+677,my interaction with customer care was inconsistent,negative,0.8301
+677,support eventually resolved the issue,neutral,0.6597
+678,the ordering experience felt average,negative,0.8621
+678,and tracking updates were not regular,neutral,0.693
+679,the experience was frustrating,negative,0.895
+679,customer care took time to respond,neutral,0.7581
+680,i found the buying process to be worse than expected,negative,0.9242
+680,the invoice was not easy to access,negative,0.828
+681,the delivery experience turned out to be satisfactory,positive,0.9322
+681,the return pickup was delayed,negative,0.5779
+682,the delivery experience turned out to be smooth,positive,0.9114
+682,everything worked fine which slightly affected my experience,neutral,0.5434
+683,from browsing to delivery,neutral,0.84
+683,the experience was not very impressive,negative,0.881
+683,the delivery was delayed by a couple of days,negative,0.7335
+684,From my experience,neutral,0.7509
+684,i found the buying process to be slightly disappointing,negative,0.8862
+684,payment failed once before succeeding,neutral,0.5795
+685,It was ok kind of experience what else nothing much to add,positive,0.6496
+686,the delivery experience turned out to be decent,positive,0.9252
+686,billing had a small discrepancy,neutral,0.8311
+687,the ordering experience felt satisfactory,positive,0.9461
+687,coupon application did not work properly,negative,0.8587
+687,not a major concern,neutral,0.6826
+688,Support team was polite and actually helpful,positive,0.9416
+688,not just scripted replies,neutral,0.5312
+689,the experience was satisfactory,positive,0.9494
+689,and the final billed amount differed slightly which could be improved,neutral,0.7765
+690,customer support was better than expected,positive,0.9678
+690,everything worked fine,positive,0.7039
+691,my interaction with customer care was smooth,positive,0.8227
+691,the delivery was delayed by a couple of days which slightly affected my experience,negative,0.852
+692,billing and payment were satisfactory,positive,0.8478
+692,support eventually resolved the issue,neutral,0.6597
+693,the delivery experience turned out to be worse than expected,negative,0.9247
+693,coupon application did not work properly,negative,0.8587
+694,the delivery experience turned out to be inconsistent,negative,0.8114
+694,the delivery was delayed by a couple of days,negative,0.7335
+695,Packaging was secure and product looked exactly like shown online,positive,0.6692
+696,billing and payment were worse than expected,negative,0.9263
+696,and the app froze briefly during checkout,negative,0.6335
+697,billing and payment were slow at times,negative,0.7784
+697,and the app lagged during checkout which slightly affected my experience,negative,0.8631
+698,from browsing to delivery,neutral,0.84
+698,the experience was decent,positive,0.9294
+698,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+699,the delivery experience turned out to be pleasant,positive,0.9631
+699,and tracking updates were not regular and needs some improvement,negative,0.5728
+700,customer support was slow at times,negative,0.8624
+700,and the app lagged during checkout,negative,0.8398
+701,the delivery experience turned out to be average,negative,0.859
+701,the delivery was delayed by a couple of days,negative,0.7335
+702,customer support was fairly efficient,positive,0.8737
+702,everything worked fine,positive,0.7039
+703,billing and payment were mostly fine,positive,0.5629
+703,and the final billed amount differed slightly,neutral,0.8341
+704,the ordering experience felt not very impressive,negative,0.8736
+704,payment failed once before succeeding,neutral,0.5795
+705,using the app was average,negative,0.7631
+705,payment failed once before succeeding,neutral,0.5795
+706,i found the buying process to be not very impressive,negative,0.8619
+706,and refund processing was slower than promised which could be improved,negative,0.7531
+707,the experience was worse than expected,negative,0.9332
+707,billing had a small discrepancy,neutral,0.8311
+707,not a major concern,neutral,0.6826
+708,the experience was frustrating,negative,0.895
+708,the return pickup was delayed which slightly affected my experience,negative,0.8206
+709,customer support was a bit confusing,negative,0.7998
+709,and the app froze briefly during checkout which could be improved,negative,0.6996
+710,my interaction with customer care was slow at times,negative,0.8312
+710,coupon application did not work properly,negative,0.8587
+711,Everything arrived in good condition and the whole process felt reliable,positive,0.938
+712,the checkout process seemed average,negative,0.7465
+712,and the final billed amount differed slightly,neutral,0.8341
+713,my interaction with customer care was quite good,positive,0.9599
+713,billing had a small discrepancy,neutral,0.8311
+714,billing and payment were decent,positive,0.6978
+714,support eventually resolved the issue and needs some improvement,neutral,0.5631
+715,my interaction with customer care was worse than expected,negative,0.9391
+715,coupon application did not work properly,negative,0.8587
+716,billing and payment were satisfactory,positive,0.8478
+716,customer care took time to respond which slightly affected my experience,negative,0.7476
+717,the checkout process seemed decent,positive,0.8216
+717,the invoice was not easy to access and needs some improvement,negative,0.8864
+718,my interaction with customer care was slightly disappointing,negative,0.9025
+718,customer care took time to respond which could be improved,negative,0.5184
+719,billing and payment were satisfactory,positive,0.8478
+719,payment failed once before succeeding,neutral,0.5795
+720,the delivery experience turned out to be not very impressive,negative,0.8797
+720,and the app lagged during checkout which slightly affected my experience,negative,0.8631
+721,From my experience,neutral,0.7509
+721,the checkout process seemed fairly efficient,positive,0.8837
+721,the delivery was delayed by a couple of days,negative,0.7335
+722,customer support was smooth,positive,0.8344
+722,coupon application did not work properly,negative,0.8587
+723,the ordering experience felt slightly disappointing,negative,0.8973
+723,communication from support could be better,neutral,0.521
+724,my interaction with customer care was a bit confusing,negative,0.6228
+724,and refund processing was slower than promised,negative,0.852
+724,not a major concern,neutral,0.6826
+725,the checkout process seemed decent,positive,0.8216
+725,billing had a small discrepancy,neutral,0.8311
+725,not a major concern,neutral,0.6826
+726,the experience was fairly efficient,positive,0.9463
+726,billing had a small discrepancy,neutral,0.8311
+727,using the app was decent,positive,0.8401
+727,the return pickup was delayed,negative,0.5779
+728,From my experience,neutral,0.7509
+728,billing and payment were inconsistent,negative,0.736
+728,and the app lagged during checkout,negative,0.8398
+729,the experience was inconsistent,negative,0.8575
+729,the return pickup was delayed,negative,0.5779
+730,my interaction with customer care was inconsistent,negative,0.8301
+730,support eventually resolved the issue,neutral,0.6597
+731,the checkout process seemed mostly fine,positive,0.7489
+731,customer care took time to respond and needs some improvement,neutral,0.5303
+732,the checkout process seemed better than expected,positive,0.9376
+732,the delivery was delayed by a couple of days,negative,0.7335
+733,the experience was better than expected,positive,0.9811
+733,and tracking updates were not regular,neutral,0.693
+734,the ordering experience felt mostly fine,positive,0.8739
+734,everything worked fine,positive,0.7039
+734,not a major concern,neutral,0.6826
+735,my interaction with customer care was quite good,positive,0.9599
+735,and the app froze briefly during checkout,negative,0.6335
+736,the ordering experience felt fairly efficient,positive,0.9422
+736,the return pickup was delayed which slightly affected my experience,negative,0.8206
+737,i found the buying process to be worse than expected,negative,0.9242
+737,everything worked fine,positive,0.7039
+738,From my experience,neutral,0.7509
+738,billing and payment were slow at times,negative,0.7784
+738,payment failed once before succeeding,neutral,0.5795
+739,customer support was inconsistent,negative,0.8775
+739,everything worked fine,positive,0.7039
+740,from browsing to delivery,neutral,0.84
+740,the experience was smooth,positive,0.9286
+740,and tracking updates were not regular,neutral,0.693
+740,not a major concern,neutral,0.6826
+741,Didn’t face any issues from start to finish,neutral,0.5986
+741,which is rare these days,neutral,0.625
+742,using the app was quite good,positive,0.9668
+742,and tracking updates were not regular,neutral,0.693
+743,I can rate this high for sure superr,positive,0.9458
+744,it was strictky ok ok,neutral,0.7701
+744,nothing great about it,negative,0.7262
+745,customer support was frustrating,negative,0.9218
+745,the return pickup was delayed which slightly affected my experience,negative,0.8206
+746,the experience was slightly disappointing,negative,0.8861
+746,support eventually resolved the issue,neutral,0.6597
+747,my interaction with customer care was decent,positive,0.8777
+747,the return pickup was delayed,negative,0.5779
+748,customer support was pleasant,positive,0.9551
+748,and tracking updates were not regular,neutral,0.693
+749,the checkout process seemed slightly disappointing,negative,0.8693
+749,communication from support could be better which slightly affected my experience,negative,0.5905
+750,Good liked it next purchase soon,positive,0.9746
+751,the experience was inconsistent,negative,0.8575
+751,and the app lagged during checkout,negative,0.8398
+752,the experience was smooth,positive,0.9286
+752,billing had a small discrepancy,neutral,0.8311
+753,customer support was satisfactory,positive,0.9291
+753,customer care took time to respond,neutral,0.7581
+754,From my experience,neutral,0.7509
+754,the delivery experience turned out to be decent,positive,0.9252
+754,and the app lagged during checkout which slightly affected my experience,negative,0.8631
+755,From my experience,neutral,0.7509
+755,billing and payment were inconsistent,negative,0.736
+755,and the final billed amount differed slightly,neutral,0.8341
+756,From my experience,neutral,0.7509
+756,the ordering experience felt slow at times,negative,0.8322
+756,everything worked fine,positive,0.7039
+757,the ordering experience felt worse than expected,negative,0.9332
+757,everything worked fine,positive,0.7039
+758,i found the buying process to be a bit confusing,negative,0.6201
+758,and the final billed amount differed slightly,neutral,0.8341
+759,customer support was slow at times,negative,0.8624
+759,the invoice was not easy to access,negative,0.828
+760,my interaction with customer care was slightly disappointing,negative,0.9025
+760,coupon application did not work properly,negative,0.8587
+761,the ordering experience felt decent,positive,0.9093
+761,and the app lagged during checkout,negative,0.8398
+762,the ordering experience felt quite good,positive,0.9714
+762,the invoice was not easy to access,negative,0.828
+763,my interaction with customer care was better than expected,positive,0.9604
+763,payment failed once before succeeding which slightly affected my experience,negative,0.7393
+764,from browsing to delivery,neutral,0.84
+764,the experience was not very impressive,negative,0.881
+764,payment failed once before succeeding,neutral,0.5795
+765,customer support was slow at times,negative,0.8624
+765,the delivery was delayed by a couple of days which slightly affected my experience,negative,0.852
+766,the experience was slightly disappointing,negative,0.8861
+766,billing had a small discrepancy,neutral,0.8311
+766,not a major concern,neutral,0.6826
+767,the checkout process seemed decent,positive,0.8216
+767,and refund processing was slower than promised,negative,0.852
+768,billing and payment were satisfactory,positive,0.8478
+768,the invoice was not easy to access,negative,0.828
+768,not a major concern,neutral,0.6826
+769,billing and payment were quite good,positive,0.9162
+769,the invoice was not easy to access,negative,0.828
+770,the ordering experience felt inconsistent,negative,0.8297
+770,communication from support could be better,neutral,0.521
+770,not a major concern,neutral,0.6826
+771,the experience was satisfactory,positive,0.9494
+771,and tracking updates were not regular,neutral,0.693
+772,I think its good Happy with strucuure,positive,0.9703
+773,customer support was a bit confusing,negative,0.7998
+773,and the app froze briefly during checkout,negative,0.6335
+774,billing and payment were average,negative,0.5647
+774,payment failed once before succeeding and needs some improvement,negative,0.5932
+775,my interaction with customer care was not very impressive,negative,0.8848
+775,and refund processing was slower than promised,negative,0.852
+776,using the app was average,negative,0.7631
+776,everything worked fine which could be improved,positive,0.8023
+777,customer support was mostly fine,positive,0.7734
+777,customer care took time to respond,neutral,0.7581
+778,the checkout process seemed smooth,positive,0.7016
+778,support eventually resolved the issue,neutral,0.6597
+779,the checkout process seemed quite good,positive,0.939
+779,coupon application did not work properly,negative,0.8587
+780,from browsing to delivery,neutral,0.84
+780,the experience was decent,positive,0.9294
+780,communication from support could be better which slightly affected my experience,negative,0.5905
+781,billing and payment were frustrating,negative,0.8702
+781,and the app lagged during checkout,negative,0.8398
+782,the checkout process seemed average,negative,0.7465
+782,billing had a small discrepancy,neutral,0.8311
+783,from browsing to delivery,neutral,0.84
+783,the experience was pleasant,positive,0.9663
+783,customer care took time to respond,neutral,0.7581
+783,not a major concern,neutral,0.6826
+784,from browsing to delivery,neutral,0.84
+784,the experience was mostly fine,positive,0.896
+784,support eventually resolved the issue,neutral,0.6597
+784,not a major concern,neutral,0.6826
+785,From my experience,neutral,0.7509
+785,the ordering experience felt smooth,positive,0.9088
+785,and the final billed amount differed slightly,neutral,0.8341
+786,billing and payment were worse than expected,negative,0.9263
+786,payment failed once before succeeding,neutral,0.5795
+787,the checkout process seemed pleasant,positive,0.9128
+787,coupon application did not work properly,negative,0.8587
+788,the ordering experience felt pleasant,positive,0.9632
+788,customer care took time to respond,neutral,0.7581
+789,using the app was decent,positive,0.8401
+789,and the app froze briefly during checkout which slightly affected my experience,negative,0.8183
+790,i found the buying process to be a bit confusing,negative,0.6201
+790,and the app froze briefly during checkout which slightly affected my experience,negative,0.8183
+791,billing and payment were frustrating,negative,0.8702
+791,communication from support could be better,neutral,0.521
+792,from browsing to delivery,neutral,0.84
+792,the experience was slightly disappointing,negative,0.8861
+792,and tracking updates were not regular,neutral,0.693
+792,not a major concern,neutral,0.6826
+793,using the app was smooth,positive,0.686
+793,coupon application did not work properly,negative,0.8587
+794,the checkout process seemed frustrating,negative,0.8704
+794,and the final billed amount differed slightly,neutral,0.8341
+795,customer support was slow at times,negative,0.8624
+795,payment failed once before succeeding which could be improved,negative,0.4881
+796,my interaction with customer care was a bit confusing,negative,0.6228
+796,and the final billed amount differed slightly which slightly affected my experience,negative,0.6564
+797,from browsing to delivery,neutral,0.84
+797,the experience was quite good,positive,0.9747
+797,and the app froze briefly during checkout,negative,0.6335
+798,the checkout process seemed worse than expected,negative,0.9172
+798,everything worked fine,positive,0.7039
+799,customer support was satisfactory,positive,0.9291
+799,and the app lagged during checkout,negative,0.8398
+799,not a major concern,neutral,0.6826
+800,i found the buying process to be a bit confusing,negative,0.6201
+800,communication from support could be better,neutral,0.521
+801,the experience was smooth,positive,0.9286
+801,the return pickup was delayed which could be improved,negative,0.5467
+802,the experience was better than expected,positive,0.9811
+802,and the app froze briefly during checkout,negative,0.6335
+802,not a major concern,neutral,0.6826
+803,from browsing to delivery,neutral,0.84
+803,the experience was a bit confusing,negative,0.6813
+803,everything worked fine,positive,0.7039
+804,the checkout process seemed satisfactory,positive,0.8768
+804,customer care took time to respond,neutral,0.7581
+805,billing and payment were slow at times,negative,0.7784
+805,support eventually resolved the issue,neutral,0.6597
+806,billing and payment were slow at times,negative,0.7784
+806,the invoice was not easy to access,negative,0.828
+807,the checkout process seemed decent,positive,0.8216
+807,and the app lagged during checkout,negative,0.8398
+808,from browsing to delivery,neutral,0.84
+808,the experience was a bit confusing,negative,0.6813
+808,payment failed once before succeeding which could be improved,negative,0.4881
+809,the experience was slightly disappointing,negative,0.8861
+809,everything worked fine,positive,0.7039
+810,i found the buying process to be average,negative,0.6802
+810,coupon application did not work properly,negative,0.8587
+811,From my experience,neutral,0.7509
+811,my interaction with customer care was better than expected,positive,0.9604
+811,and the app froze briefly during checkout,negative,0.6335
+811,not a major concern,neutral,0.6826
+812,the checkout process seemed worse than expected,negative,0.9172
+812,support eventually resolved the issue which could be improved,neutral,0.5016
+813,the delivery experience turned out to be decent,positive,0.9252
+813,everything worked fine,positive,0.7039
+814,the ordering experience felt frustrating,negative,0.8998
+814,the invoice was not easy to access,negative,0.828
+815,my interaction with customer care was satisfactory,positive,0.909
+815,the return pickup was delayed which could be improved,negative,0.5467
+816,i found the buying process to be inconsistent,negative,0.7412
+816,coupon application did not work properly,negative,0.8587
+817,the experience was quite good,positive,0.9747
+817,customer care took time to respond,neutral,0.7581
+818,the checkout process seemed pleasant,positive,0.9128
+818,everything worked fine,positive,0.7039
+819,i found the buying process to be slightly disappointing,negative,0.8862
+819,communication from support could be better,neutral,0.521
+819,not a major concern,neutral,0.6826
+820,my interaction with customer care was a bit confusing,negative,0.6228
+820,and tracking updates were not regular and needs some improvement,negative,0.5728
+821,the experience was mostly fine,positive,0.896
+821,coupon application did not work properly which slightly affected my experience,negative,0.873
+822,the delivery experience turned out to be worse than expected,negative,0.9247
+822,and the app froze briefly during checkout,negative,0.6335
+823,customer support was mostly fine,positive,0.7734
+823,and the app froze briefly during checkout,negative,0.6335
+824,Checkout process felt simple and didn’t take much time,positive,0.6899
+824,which I liked,positive,0.854
+825,i found the buying process to be mostly fine,positive,0.6349
+825,support eventually resolved the issue,neutral,0.6597
+826,the experience was pleasant,positive,0.9663
+826,and refund processing was slower than promised,negative,0.852
+826,not a major concern,neutral,0.6826
+827,the ordering experience felt fairly efficient,positive,0.9422
+827,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+828,using the app was worse than expected,negative,0.9319
+828,billing had a small discrepancy which slightly affected my experience,negative,0.7122
+829,the delivery experience turned out to be a bit confusing,negative,0.7174
+829,and tracking updates were not regular,neutral,0.693
+830,the delivery experience turned out to be worse than expected,negative,0.9247
+830,billing had a small discrepancy,neutral,0.8311
+831,from browsing to delivery,neutral,0.84
+831,the experience was better than expected,positive,0.9811
+831,communication from support could be better which slightly affected my experience,negative,0.5905
+832,using the app was mostly fine,positive,0.641
+832,support eventually resolved the issue,neutral,0.6597
+833,using the app was frustrating,negative,0.8875
+833,and refund processing was slower than promised,negative,0.852
+834,using the app was mostly fine,positive,0.641
+834,the return pickup was delayed,negative,0.5779
+834,not a major concern,neutral,0.6826
+835,using the app was quite good,positive,0.9668
+835,the invoice was not easy to access,negative,0.828
+836,my interaction with customer care was satisfactory,positive,0.909
+836,and tracking updates were not regular,neutral,0.693
+837,the experience was fairly efficient,positive,0.9463
+837,communication from support could be better,neutral,0.521
+838,the ordering experience felt mostly fine,positive,0.8739
+838,the delivery was delayed by a couple of days,negative,0.7335
+839,from browsing to delivery,neutral,0.84
+839,the experience was smooth,positive,0.9286
+839,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+840,using the app was slightly disappointing,negative,0.8907
+840,and the app froze briefly during checkout,negative,0.6335
+841,my interaction with customer care was average,negative,0.8322
+841,the invoice was not easy to access which slightly affected my experience,negative,0.8552
+842,the checkout process seemed pleasant,positive,0.9128
+842,support eventually resolved the issue and needs some improvement,neutral,0.5631
+843,this was one of the easier online purchases I’ve made recently,positive,0.9503
+844,the ordering experience felt frustrating,negative,0.8998
+844,coupon application did not work properly and needs some improvement,negative,0.9019
+845,my interaction with customer care was pleasant,positive,0.9485
+845,and the final billed amount differed slightly which slightly affected my experience,negative,0.6564
+846,the experience was a bit confusing,negative,0.6813
+846,coupon application did not work properly which slightly affected my experience,negative,0.873
+847,my interaction with customer care was fairly efficient,positive,0.8965
+847,support eventually resolved the issue,neutral,0.6597
+848,i found the buying process to be pleasant,positive,0.9076
+848,and the app froze briefly during checkout,negative,0.6335
+849,my interaction with customer care was better than expected,positive,0.9604
+849,and refund processing was slower than promised and needs some improvement,negative,0.851
+850,i found the buying process to be mostly fine,positive,0.6349
+850,coupon application did not work properly,negative,0.8587
+851,my interaction with customer care was slightly disappointing,negative,0.9025
+851,and the app lagged during checkout,negative,0.8398
+852,i found the buying process to be slow at times,negative,0.73
+852,communication from support could be better,neutral,0.521
+852,not a major concern,neutral,0.6826
+853,i found the buying process to be frustrating,negative,0.8647
+853,the return pickup was delayed,negative,0.5779
+854,the delivery experience turned out to be slow at times,negative,0.8142
+854,and the final billed amount differed slightly which could be improved,neutral,0.7765
+855,the delivery experience turned out to be not very impressive,negative,0.8797
+855,and the final billed amount differed slightly,neutral,0.8341
+856,customer support was better than expected,positive,0.9678
+856,the delivery was delayed by a couple of days,negative,0.7335
+857,the checkout process seemed a bit confusing,negative,0.6168
+857,and the final billed amount differed slightly,neutral,0.8341
+858,From my experience,neutral,0.7509
+858,billing and payment were better than expected,positive,0.9312
+858,the return pickup was delayed,negative,0.5779
+859,my interaction with customer care was fairly efficient,positive,0.8965
+859,billing had a small discrepancy,neutral,0.8311
+860,my interaction with customer care was frustrating,negative,0.9052
+860,communication from support could be better and needs some improvement,neutral,0.5949
+861,the experience was pleasant,positive,0.9663
+861,support eventually resolved the issue,neutral,0.6597
+862,from browsing to delivery,neutral,0.84
+862,the experience was quite good,positive,0.9747
+862,support eventually resolved the issue which slightly affected my experience,neutral,0.6756
+863,the experience was decent,positive,0.9294
+863,communication from support could be better,neutral,0.521
+864,billing and payment were frustrating,negative,0.8702
+864,billing had a small discrepancy,neutral,0.8311
+865,from browsing to delivery,neutral,0.84
+865,the experience was quite good,positive,0.9747
+865,support eventually resolved the issue,neutral,0.6597
+866,the ordering experience felt average,negative,0.8621
+866,support eventually resolved the issue,neutral,0.6597
+867,the ordering experience felt better than expected,positive,0.9736
+867,communication from support could be better,neutral,0.521
+868,the checkout process seemed decent,positive,0.8216
+868,everything worked fine and needs some improvement,positive,0.783
+869,billing and payment were inconsistent,negative,0.736
+869,coupon application did not work properly and needs some improvement,negative,0.9019
+870,billing and payment were a bit confusing,neutral,0.4992
+870,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+871,i found the buying process to be worse than expected,negative,0.9242
+871,and the final billed amount differed slightly which slightly affected my experience,negative,0.6564
+872,the checkout process seemed decent,positive,0.8216
+872,communication from support could be better,neutral,0.521
+872,not a major concern,neutral,0.6826
+873,the delivery experience turned out to be better than expected,positive,0.9801
+873,communication from support could be better,neutral,0.521
+874,from browsing to delivery,neutral,0.84
+874,the experience was frustrating,negative,0.895
+874,and the final billed amount differed slightly,neutral,0.8341
+874,not a major concern,neutral,0.6826
+875,Billing and payment were a bit confusing,neutral,0.4911
+875,and refund processing was slower than promised,negative,0.852
+876,Quite satisfied with how everything turned out,positive,0.9468
+876,no complaints really,neutral,0.4839
+877,my interaction with customer care was quite good,positive,0.9599
+877,the invoice was not easy to access and needs some improvement,negative,0.8864
+878,from browsing to delivery,neutral,0.84
+878,the experience was not very impressive,negative,0.881
+878,the return pickup was delayed which slightly affected my experience,negative,0.8206
+879,customer support was worse than expected,negative,0.9323
+879,the return pickup was delayed,negative,0.5779
+880,The app/site is easy to use and didn’t face any glitches while ordering,positive,0.9077
+881,the experience was average,negative,0.8643
+881,the invoice was not easy to access,negative,0.828
+882,the ordering experience felt a bit confusing,negative,0.6626
+882,and tracking updates were not regular which could be improved,neutral,0.5808
+883,the delivery experience turned out to be quite good,positive,0.975
+883,coupon application did not work properly,negative,0.8587
+883,not a major concern,neutral,0.6826
+884,the experience was quite good,positive,0.9747
+884,the return pickup was delayed,negative,0.5779
+885,the delivery experience turned out to be average,negative,0.859
+885,everything worked fine,positive,0.7039
+886,i found the buying process to be frustrating,negative,0.8647
+886,everything worked fine,positive,0.7039
+887,customer support was quite good,positive,0.9558
+887,and the app lagged during checkout,negative,0.8398
+888,the ordering experience felt decent,positive,0.9093
+888,communication from support could be better,neutral,0.521
+889,billing and payment were satisfactory,positive,0.8478
+889,coupon application did not work properly,negative,0.8587
+889,not a major concern,neutral,0.6826
+890,billing and payment were a bit confusing,neutral,0.4992
+890,the return pickup was delayed which slightly affected my experience,negative,0.8206
+891,the delivery experience turned out to be smooth,positive,0.9114
+891,billing had a small discrepancy which could be improved,neutral,0.7188
+892,using the app was a bit confusing,neutral,0.505
+892,and the app froze briefly during checkout,negative,0.6335
+892,not a major concern,neutral,0.6826
+893,From my experience,neutral,0.7509
+893,my interaction with customer care was smooth,positive,0.8227
+893,billing had a small discrepancy,neutral,0.8311
+893,not a major concern,neutral,0.6826
+894,from browsing to delivery,neutral,0.84
+894,the experience was slightly disappointing,negative,0.8861
+894,billing had a small discrepancy,neutral,0.8311
+895,from browsing to delivery,neutral,0.84
+895,the experience was pleasant,positive,0.9663
+895,support eventually resolved the issue which slightly affected my experience,neutral,0.6756
+896,from browsing to delivery,neutral,0.84
+896,the experience was inconsistent,negative,0.8575
+896,payment failed once before succeeding,neutral,0.5795
+897,my interaction with customer care was not very impressive,negative,0.8848
+897,customer care took time to respond,neutral,0.7581
+898,From my experience,neutral,0.7509
+898,using the app was decent,positive,0.8401
+898,everything worked fine and needs some improvement,positive,0.783
+899,billing and payment were slightly disappointing,negative,0.8894
+899,coupon application did not work properly and needs some improvement,negative,0.9019
+900,the checkout process seemed slightly disappointing,negative,0.8693
+900,the delivery was delayed by a couple of days,negative,0.7335
+901,customer support was not very impressive,negative,0.891
+901,and the app lagged during checkout,negative,0.8398
+902,i found the buying process to be frustrating,negative,0.8647
+902,and refund processing was slower than promised and needs some improvement,negative,0.851
+903,the ordering experience felt inconsistent,negative,0.8297
+903,the invoice was not easy to access,negative,0.828
+904,the delivery experience turned out to be smooth,positive,0.9114
+904,and the app lagged during checkout,negative,0.8398
+905,using the app was not very impressive,negative,0.8712
+905,customer care took time to respond,neutral,0.7581
+906,i found the buying process to be slow at times,negative,0.73
+906,and tracking updates were not regular,neutral,0.693
+906,not a major concern,neutral,0.6826
+907,my interaction with customer care was better than expected,positive,0.9604
+907,customer care took time to respond,neutral,0.7581
+908,the experience was not very impressive,negative,0.881
+908,everything worked fine which could be improved,positive,0.8023
+909,using the app was average,negative,0.7631
+909,payment failed once before succeeding which slightly affected my experience,negative,0.7393
+910,the delivery experience turned out to be a bit confusing,negative,0.7174
+910,and the app lagged during checkout,negative,0.8398
+911,the checkout process seemed inconsistent,negative,0.7649
+911,customer care took time to respond which slightly affected my experience,negative,0.7476
+912,From my experience,neutral,0.7509
+912,the ordering experience felt inconsistent,negative,0.8297
+912,the delivery was delayed by a couple of days,negative,0.7335
+913,my interaction with customer care was satisfactory,positive,0.909
+913,the delivery was delayed by a couple of days,negative,0.7335
+913,not a major concern,neutral,0.6826
+914,from browsing to delivery,neutral,0.84
+914,the experience was satisfactory,positive,0.9494
+914,everything worked fine,positive,0.7039
+915,From my experience,neutral,0.7509
+915,billing and payment were smooth,positive,0.7625
+915,billing had a small discrepancy which could be improved,neutral,0.7188
+916,From my experience,neutral,0.7509
+916,the checkout process seemed quite good,positive,0.939
+916,and the final billed amount differed slightly,neutral,0.8341
+917,using the app was not very impressive,negative,0.8712
+917,payment failed once before succeeding which could be improved,negative,0.4881
+918,the checkout process seemed slightly disappointing,negative,0.8693
+918,and refund processing was slower than promised,negative,0.852
+919,the checkout process seemed smooth,positive,0.7016
+919,billing had a small discrepancy,neutral,0.8311
+920,billing and payment were fairly efficient,positive,0.721
+920,and the app lagged during checkout,negative,0.8398
+921,customer support was average,negative,0.8797
+921,support eventually resolved the issue,neutral,0.6597
+922,the delivery experience turned out to be a bit confusing,negative,0.7174
+922,the invoice was not easy to access,negative,0.828
+923,billing and payment were satisfactory,positive,0.8478
+923,and tracking updates were not regular,neutral,0.693
+923,not a major concern,neutral,0.6826
+924,the checkout process seemed average,negative,0.7465
+924,customer care took time to respond,neutral,0.7581
+925,From my experience,neutral,0.7509
+925,the delivery experience turned out to be mostly fine,positive,0.8742
+925,the invoice was not easy to access,negative,0.828
+926,the delivery experience turned out to be slightly disappointing,negative,0.8781
+926,coupon application did not work properly,negative,0.8587
+927,customer support was frustrating,negative,0.9218
+927,and tracking updates were not regular and needs some improvement,negative,0.5728
+928,i found the buying process to be slightly disappointing,negative,0.8862
+928,and the app froze briefly during checkout,negative,0.6335
+929,the experience was decent,positive,0.9294
+929,payment failed once before succeeding,neutral,0.5795
+930,the checkout process seemed smooth,positive,0.7016
+930,customer care took time to respond and needs some improvement,neutral,0.5303
+931,from browsing to delivery,neutral,0.84
+931,the experience was a bit confusing,negative,0.6813
+931,and refund processing was slower than promised,negative,0.852
+932,the checkout process seemed quite good,positive,0.939
+932,communication from support could be better,neutral,0.521
+933,customer support was average,negative,0.8797
+933,billing had a small discrepancy which could be improved,neutral,0.7188
+934,using the app was smooth,positive,0.686
+934,and refund processing was slower than promised which slightly affected my experience,negative,0.8799
+935,the ordering experience felt satisfactory,positive,0.9461
+935,coupon application did not work properly,negative,0.8587
+936,my interaction with customer care was not very impressive,negative,0.8848
+936,payment failed once before succeeding,neutral,0.5795
+936,not a major concern,neutral,0.6826
+937,the ordering experience felt average,negative,0.8621
+937,and tracking updates were not regular which could be improved,neutral,0.5808
+938,full marks keep it up,positive,0.9099
+939,from browsing to delivery,neutral,0.84
+939,the experience was quite good,positive,0.9747
+939,customer care took time to respond,neutral,0.7581
+940,From my experience,neutral,0.7509
+940,using the app was mostly fine,positive,0.641
+940,coupon application did not work properly,negative,0.8587
+941,i found the buying process to be better than expected,positive,0.9373
+941,the delivery was delayed by a couple of days,negative,0.7335
+942,using the app was smooth,positive,0.686
+942,communication from support could be better,neutral,0.521
+943,using the app was fairly efficient,positive,0.8246
+943,the invoice was not easy to access,negative,0.828
+944,the ordering experience felt a bit confusing,negative,0.6626
+944,the delivery was delayed by a couple of days,negative,0.7335
+945,the experience was frustrating,negative,0.895
+945,and tracking updates were not regular which slightly affected my experience,negative,0.7504
+946,i found the buying process to be not very impressive,negative,0.8619
+946,and refund processing was slower than promised,negative,0.852
+947,the experience was satisfactory,positive,0.9494
+947,the invoice was not easy to access,negative,0.828
+948,using the app was inconsistent,negative,0.7601
+948,customer care took time to respond,neutral,0.7581
+949,customer support was a bit confusing,negative,0.7998
+949,payment failed once before succeeding,neutral,0.5795
+950,the ordering experience felt slow at times,negative,0.8322
+950,and the app lagged during checkout,negative,0.8398
+951,the delivery experience turned out to be slow at times,negative,0.8142
+951,customer care took time to respond,neutral,0.7581
+951,not a major concern,neutral,0.6826
+952,the experience was better than expected,positive,0.9811
+952,and the app froze briefly during checkout,negative,0.6335
+953,the delivery experience turned out to be slightly disappointing,negative,0.8781
+953,and the app froze briefly during checkout and needs some improvement,negative,0.7869
+954,my interaction with customer care was quite good,positive,0.9599
+954,everything worked fine,positive,0.7039
+954,not a major concern,neutral,0.6826
+955,the ordering experience felt quite good,positive,0.9714
+955,the return pickup was delayed,negative,0.5779
+956,my interaction with customer care was pleasant,positive,0.9485
+956,and the app froze briefly during checkout which could be improved,negative,0.6996
+957,billing and payment were decent,positive,0.6978
+957,everything worked fine which could be improved,positive,0.8023
+958,i found the buying process to be better than expected,positive,0.9373
+958,the return pickup was delayed,negative,0.5779
+959,my interaction with customer care was decent,positive,0.8777
+959,the return pickup was delayed,negative,0.5779
+960,from browsing to delivery,neutral,0.84
+960,the experience was frustrating,negative,0.895
+960,support eventually resolved the issue,neutral,0.6597
+961,the experience was satisfactory,positive,0.9494
+961,and refund processing was slower than promised which could be improved,negative,0.7531
+962,the checkout process seemed satisfactory,positive,0.8768
+962,coupon application did not work properly,negative,0.8587
+963,the ordering experience felt better than expected,positive,0.9736
+963,payment failed once before succeeding which slightly affected my experience,negative,0.7393

@@ -1,0 +1,965 @@
+feedback,character_count,word_count,sentiment,sentiment_confidence
+"customer support was slightly disappointing, but billing had a small discrepancy",80,11,negative,0.8986
+"the experience was decent, and the final billed amount differed slightly and needs some improvement",99,15,positive,0.8513
+Superr 10 out of 10,19,5,positive,0.7102
+wow nice option,15,3,positive,0.9327
+"i found the buying process to be quite good, though the return pickup was delayed which slightly affected my experience",119,20,positive,0.8152
+", using the app was inconsistent, but billing had a small discrepancy",69,12,negative,0.591
+"the ordering experience felt a bit confusing, but payment failed once before succeeding but manageable",102,15,negative,0.608
+"using the app was decent, but communication from support could be better",72,12,positive,0.5983
+"From my experience, the checkout process seemed decent, though the invoice was not easy to access but not a major concern",121,21,positive,0.5811
+The experience was good,23,4,positive,0.9722
+"customer support was better than expected, though the invoice was not easy to access",84,14,positive,0.8164
+", i found the buying process to be mostly fine",46,10,positive,0.7316
+", customer support was frustrating, but payment failed once before succeeding",77,11,negative,0.9033
+", the experience was mostly fine, and refund processing was slower than promised",80,13,positive,0.8527
+", billing and payment were not very impressive",46,8,negative,0.8702
+", the delivery experience turned out to be not very impressive",62,11,negative,0.8883
+the ordering experience felt smooth,35,5,positive,0.9088
+", billing and payment were satisfactory, though everything worked fine which could be improved",94,14,positive,0.9132
+"the checkout process seemed better than expected, but coupon application did not work properly",94,14,negative,0.7336
+", i found the buying process to be inconsistent",47,9,negative,0.7726
+"billing and payment were decent, though everything worked fine",62,9,positive,0.8515
+", my interaction with customer care was worse than expected",59,10,negative,0.9384
+", from browsing to delivery, the experience was decent, but coupon application did not work properly",100,16,neutral,0.3692
+", the checkout process seemed worse than expected, billing had a small discrepancy",82,13,negative,0.9072
+"i found the buying process to be slightly disappointing, and the app lagged during checkout which could be improved",115,19,negative,0.9212
+", billing and payment were satisfactory, though the return pickup was delayed",77,12,positive,0.834
+", the checkout process seemed slightly disappointing, though support eventually resolved the issue which could be improved",122,17,negative,0.7899
+", the ordering experience felt worse than expected, and the final billed amount differed slightly which could be improved",121,19,negative,0.9211
+", the delivery experience turned out to be slow at times, but coupon application did not work properly but manageable",117,20,negative,0.8841
+"Ok, using the app was decent, but payment failed once before succeeding",71,12,neutral,0.4798
+", the experience was decent, but coupon application did not work properly and needs some improvement",100,16,negative,0.795
+"my interaction with customer care was mostly fine, but payment failed once before succeeding which could be improved",116,18,neutral,0.4774
+", the ordering experience felt slightly disappointing, but communication from support could be better",101,14,negative,0.9085
+"well, its like any other what to tell new nothing",49,10,negative,0.4957
+", the experience was pleasant, but communication from support could be better but manageable",92,14,positive,0.8988
+"customer support was satisfactory, though everything worked fine",64,8,positive,0.9396
+"i found the buying process to be frustrating, though support eventually resolved the issue but not a major concern",114,19,negative,0.8074
+"customer support was better than expected, and refund processing was slower than promised which could be improved",113,17,positive,0.9065
+", the experience was satisfactory, and the final billed amount differed slightly",80,12,positive,0.9277
+", using the app was average, but coupon application did not work properly which could be improved",97,17,negative,0.9068
+"From my experience, customer support was inconsistent, and the app froze briefly during checkout",96,14,negative,0.8737
+Verry happy man good option,27,5,positive,0.9413
+"using the app was inconsistent, and tracking updates were not regular",69,11,negative,0.7658
+", the experience was fairly efficient, though the delivery was delayed by a couple of days",90,16,positive,0.9158
+"billing and payment were a bit confusing, but coupon application did not work properly",86,14,negative,0.863
+", billing and payment were slightly disappointing, but billing had a small discrepancy",86,13,negative,0.8523
+", i found the buying process ly efficient, though the return pickup was delayed but manageable",94,16,positive,0.7976
+", the delivery experience turned out to be slightly disappointing, but customer care took time to respond but manageable",120,19,negative,0.8726
+", the experience was slow at times, though the invoice was not easy to access but manageable",92,17,negative,0.7775
+", billing and payment were not very impressive, but communication from support could be better and needs some improvement",121,19,negative,0.8457
+"my interaction with customer care was frustrating, and refund processing was slower than promised which slightly affected my experience",135,19,negative,0.9206
+", the ordering experience felt slow at times, though the invoice was not easy to access",87,16,negative,0.8273
+"from browsing to delivery, the experience was fairly efficient, but coupon application did not work properly",108,16,neutral,0.4496
+"Goood, liked itt",16,3,positive,0.9687
+"the checkout process seemed average, and the app froze briefly during checkout but not a major concern",102,17,neutral,0.4867
+", the ordering experience felt quite good, and tracking updates were not regular",80,13,positive,0.9489
+", customer support was not very impressive, though everything worked fine",73,11,negative,0.8243
+"billing and payment were mostly fine, but customer care took time to respond",76,13,positive,0.6361
+", the checkout process seemed slightly disappointing",52,7,negative,0.888
+"from browsing to delivery, the experience was smooth",52,8,positive,0.9054
+"customer support was a bit confusing, and refund processing was slower than promised but not a major concern",108,18,negative,0.8237
+", the delivery experience turned out to be worse than expected, but communication from support could be better",110,18,negative,0.8985
+"the checkout process seemed worse than expected, but communication from support could be better",95,14,negative,0.8632
+"From my experience, using the app was mostly fine, but communication from support could be better",97,16,positive,0.5699
+", using the app was a bit confusing, and the app froze briefly during checkout",78,15,negative,0.7045
+"billing and payment were mostly fine, though support eventually resolved the issue",82,12,positive,0.5216
+"from browsing to delivery, the experience was decent, though support eventually resolved the issue but not a major concern",122,19,positive,0.7634
+", the ordering experience felt inconsistent, though the return pickup was delayed and needs some improvement",108,16,negative,0.8796
+"the delivery experience turned out ly efficient, but payment failed once before succeeding and needs some improvement",117,17,neutral,0.4532
+"using the app was average, though the delivery was delayed by a couple of days",78,15,negative,0.7543
+"from browsing to delivery, the experience was average, though the invoice was not easy to access",96,16,negative,0.8011
+"From my experience, billing and payment were satisfactory, but billing had a small discrepancy but not a major concern",118,19,positive,0.6893
+"billing and payment were a bit confusing, and the app froze briefly during checkout",83,14,negative,0.741
+", i found the buying process to be average, and refund processing was slower than promised but manageable",105,18,negative,0.723
+", using the app was slow at times, though support eventually resolved the issue",79,14,negative,0.6006
+", my interaction with customer care was mostly fine, though the delivery was delayed by a couple of days which could be improved",128,23,positive,0.6127
+"using the app was inconsistent, and the app froze briefly during checkout but manageable",88,14,negative,0.7019
+The delivery was delayed by a couple of days,44,9,negative,0.7312
+"my interaction with customer care was not very impressive, but coupon application did not work properly but not a major concern",127,21,negative,0.9024
+"From my experience, the delivery experience turned out to be slightly disappointing, and the app froze briefly during checkout but manageable",141,21,negative,0.8878
+", the experience was pleasant, but billing had a small discrepancy",66,11,positive,0.9086
+"the ordering experience felt not very impressive, and refund processing was slower than promised",96,14,negative,0.9249
+", my interaction with customer care was smooth, though the invoice was not easy to access and needs some improvement",116,20,neutral,0.437
+"using the app was better than expected, and refund processing was slower than promised",86,14,positive,0.8943
+"From my experience, using the app was not very impressive, and the app froze briefly during checkout and needs some improvement",127,21,negative,0.9057
+", from browsing to delivery, the experience was a bit confusing, and the app froze briefly during checkout but manageable",121,20,negative,0.6366
+", the experience was decent, and the final billed amount differed slightly",74,12,positive,0.9219
+"customer support was a bit confusing, but coupon application did not work properly which slightly affected my experience",120,18,negative,0.9047
+", using the app was better than expected, and the final billed amount differed slightly",87,15,positive,0.9409
+", the delivery experience turned out to be worse than expected, though the invoice was not easy to access but manageable",120,21,negative,0.9223
+"billing and payment were average, though support eventually resolved the issue and needs some improvement",105,15,neutral,0.5052
+"the delivery experience turned out to be smooth, but billing had a small discrepancy but manageable",99,16,positive,0.8673
+", the checkout process seemed mostly fine, but coupon application did not work properly",87,14,negative,0.6921
+"From my experience, customer support was average, though everything worked fine but not a major concern",103,16,negative,0.4843
+", the delivery experience turned out to be satisfactory, though everything worked fine and needs some improvement",113,17,positive,0.9484
+", the ordering experience felt pleasant, and the app froze briefly during checkout but not a major concern",106,18,positive,0.8417
+", customer support was mostly fine, and the app froze briefly during checkout which slightly affected my experience",115,18,positive,0.4662
+", customer support was better than expected, and tracking updates were not regular which could be improved",106,17,positive,0.9011
+"customer support was slightly disappointing, though support eventually resolved the issue",89,11,negative,0.8244
+", i found the buying process to be decent, and the final billed amount differed slightly",88,16,positive,0.7924
+"from browsing to delivery, the experience was a bit confusing, though the invoice was not easy to access",104,18,negative,0.6976
+", the experience was smooth, though everything worked fine",58,9,positive,0.9054
+", my interaction with customer care was better than expected, though the delivery was delayed by a couple of days but not a major concern",137,25,positive,0.8182
+", billing and payment were not very impressive, though support eventually resolved the issue but not a major concern",116,19,negative,0.846
+"i found the buying process to be average, but payment failed once before succeeding which could be improved",107,18,negative,0.8608
+", from browsing to delivery, the experience was decent, though everything worked fine",85,13,positive,0.9451
+"From my experience, my interaction with customer care was fairly efficient, and the app froze briefly during checkout",117,18,positive,0.7777
+", billing and payment were inconsistent, but payment failed once before succeeding",82,12,negative,0.7468
+"the checkout process seemed satisfactory, though the delivery was delayed by a couple of days",93,15,positive,0.7756
+", the ordering experience felt slightly disappointing, though the return pickup was delayed which could be improved",115,17,negative,0.9038
+", the checkout process seemed decent, though the delivery was delayed by a couple of days which slightly affected my experience",127,21,neutral,0.4023
+"i found the buying process to be satisfactory, and the app froze briefly during checkout",88,15,positive,0.6888
+", using the app was satisfactory, and the app lagged during checkout which could be improved",92,16,positive,0.7693
+"From my experience, the ordering experience felt smooth, though support eventually resolved the issue",101,14,positive,0.7174
+", the delivery experience turned out to be a bit confusing, and tracking updates were not regular but not a major concern",121,22,negative,0.755
+"my interaction with customer care was worse than expected, and the app froze briefly during checkout but not a major concern",124,21,negative,0.8972
+"from browsing to delivery, the experience was slightly disappointing, though the return pickup was delayed",106,15,negative,0.8908
+"billing and payment were not very impressive, though the return pickup was delayed",82,13,negative,0.9016
+"customer support was worse than expected, but coupon application did not work properly which slightly affected my experience",124,18,negative,0.9421
+"the delivery experience turned out to be quite good, though the invoice was not easy to access but not a major concern",118,22,positive,0.8977
+"using the app was decent, though everything worked fine but not a major concern",79,14,positive,0.8384
+"the checkout process seemed inconsistent, but payment failed once before succeeding but manageable",98,13,negative,0.7345
+", using the app was pleasant, though the delivery was delayed by a couple of days",81,16,positive,0.8469
+"my interaction with customer care was decent, though support eventually resolved the issue",90,13,positive,0.7475
+"billing and payment were worse than expected, but coupon application did not work properly",90,14,negative,0.938
+"the delivery experience turned out to be satisfactory, but payment failed once before succeeding",96,14,positive,0.6068
+", the delivery experience turned out to be smooth, though the return pickup was delayed",87,15,positive,0.879
+"From my experience, i found the buying process ly efficient, though support eventually resolved the issue but not a major concern",129,21,positive,0.5567
+", billing and payment were average, but communication from support could be better but not a major concern",106,18,negative,0.6866
+", the ordering experience felt frustrating, though the delivery was delayed by a couple of days which could be improved",119,20,negative,0.9049
+"From my experience, billing and payment were slightly disappointing, and the app lagged during checkout",103,15,negative,0.9122
+", my interaction with customer care was inconsistent, but billing had a small discrepancy",89,14,negative,0.6795
+", the delivery experience turned out to be decent, but communication from support could be better and needs some improvement",124,20,positive,0.8615
+", the delivery experience turned out ly efficient, but customer care took time to respond and needs some improvement",116,19,positive,0.4353
+", the delivery experience turned out to be slightly disappointing, but payment failed once before succeeding",108,16,negative,0.8814
+", the delivery experience turned out to be worse than expected, and the app lagged during checkout but not a major concern",122,22,negative,0.9187
+"From my experience, the delivery experience turned out to be inconsistent, but coupon application did not work properly and needs some improvement",146,22,negative,0.9077
+"my interaction with customer care was not very impressive, though the delivery was delayed by a couple of days",110,19,negative,0.9171
+", using the app was inconsistent, though the return pickup was delayed and needs some improvement",97,16,negative,0.8376
+"using the app was slow at times, but payment failed once before succeeding which could be improved",98,17,negative,0.8208
+", from browsing to delivery, the experience was pleasant, and refund processing was slower than promised and needs some improvement",131,20,positive,0.8694
+", the ordering experience felt decent, but payment failed once before succeeding",80,12,positive,0.573
+", i found the buying process to be inconsistent, and the app lagged during checkout",83,15,negative,0.8888
+"i found the buying process to be decent, but billing had a small discrepancy which could be improved",100,18,positive,0.5362
+", using the app was quite good, but coupon application did not work properly",76,14,neutral,0.4165
+"the delivery experience turned out to be mostly fine, and the final billed amount differed slightly",99,16,positive,0.8644
+", the delivery experience turned out to be a bit confusing, but customer care took time to respond which could be improved",122,22,negative,0.7115
+", the delivery experience turned out to be pleasant, and the app lagged during checkout",87,15,positive,0.9512
+", using the app was not very impressive, though the delivery was delayed by a couple of days but not a major concern",116,23,negative,0.8879
+", using the app was smooth, though the delivery was delayed by a couple of days",79,16,positive,0.5406
+", customer support was decent, though support eventually resolved the issue",75,11,positive,0.8207
+"Good good good ,very good",25,5,positive,0.9732
+", the delivery experience turned out to be slow at times, and the app lagged during checkout which could be improved",116,21,negative,0.8873
+"my interaction with customer care was fairly efficient, and the final billed amount differed slightly",101,15,positive,0.8378
+"its is indeed good,worth recommending",37,5,positive,0.9786
+"my interaction with customer care was frustrating, but communication from support could be better which slightly affected my experience",135,19,negative,0.8881
+"from browsing to delivery, the experience was satisfactory, but payment failed once before succeeding but manageable",116,16,positive,0.7643
+"from browsing to delivery, the experience was worse than expected, though everything worked fine",96,14,negative,0.8484
+"the ordering experience felt worse than expected, but payment failed once before succeeding which slightly affected my experience",129,18,negative,0.918
+"the delivery experience turned out to be decent, but communication from support could be better",95,15,positive,0.8698
+", the delivery experience turned out to be smooth, and the app froze briefly during checkout",92,16,positive,0.8362
+"customer support was fairly efficient, though support eventually resolved the issue but not a major concern",107,16,positive,0.6558
+", billing and payment were mostly fine, but billing had a small discrepancy and needs some improvement",102,17,neutral,0.5198
+"from browsing to delivery, the experience was slow at times, and the app lagged during checkout",95,16,negative,0.8475
+", i found the buying process to be satisfactory, though support eventually resolved the issue and needs some improvement",120,19,positive,0.8489
+", my interaction with customer care was average, but coupon application did not work properly",93,15,negative,0.9109
+", customer support was pleasant, though the invoice was not easy to access",74,13,positive,0.831
+very very nice app verye asy,28,6,positive,0.9702
+", the ordering experience felt slow at times, though support eventually resolved the issue",90,14,negative,0.6899
+"Was a bit unsure before ordering, but turned out to be a good decision",70,14,positive,0.769
+", the delivery experience turned out to be a bit confusing, though the return pickup was delayed which slightly affected my experience",134,22,negative,0.8447
+", from browsing to delivery, the experience was slow at times, though everything worked fine",92,15,negative,0.5259
+"customer support was pleasant, and the app lagged during checkout which could be improved",89,14,positive,0.8281
+"i found the buying process to be pleasant, though everything worked fine but manageable",87,14,positive,0.9206
+", i found the buying process to be slow at times, though the return pickup was delayed but not a major concern",110,22,negative,0.7874
+", the ordering experience felt decent, and refund processing was slower than promised",85,13,positive,0.8832
+"billing and payment were fairly efficient, but coupon application did not work properly",87,13,negative,0.6666
+"From my experience, from browsing to delivery, the experience was better than expected, though everything worked fine which slightly affected my experience",155,22,positive,0.8813
+"the ordering experience felt average, and the app lagged during checkout but manageable",87,13,negative,0.8463
+", from browsing to delivery, the experience was not very impressive, but communication from support could be better",115,18,negative,0.9046
+"the ordering experience felt worse than expected, and refund processing was slower than promised but not a major concern",120,19,negative,0.9025
+"my interaction with customer care was a bit confusing, but coupon application did not work properly and needs some improvement",126,20,negative,0.8904
+"the checkout process seemed fairly efficient, and the app lagged during checkout which could be improved",104,16,positive,0.7594
+", using the app was pleasant, but payment failed once before succeeding",71,12,neutral,0.4537
+", customer support was frustrating, but communication from support could be better which slightly affected my experience",120,17,negative,0.9108
+"customer support was smooth, and the app lagged during checkout which could be improved",87,14,positive,0.667
+", the experience was a bit confusing, and refund processing was slower than promised",84,14,negative,0.8889
+", the delivery experience turned out to be smooth, though the delivery was delayed by a couple of days but manageable",117,21,positive,0.8884
+"billing and payment were not very impressive, but coupon application did not work properly",90,14,negative,0.9238
+", from browsing to delivery, the experience was not very impressive, though everything worked fine",98,15,negative,0.8124
+", i found the buying process ly efficient, though everything worked fine",72,12,positive,0.8517
+", i found the buying process to be quite good, though the return pickup was delayed",83,16,positive,0.9211
+", from browsing to delivery, the experience was satisfactory, and the app froze briefly during checkout which could be improved",127,20,positive,0.8802
+"using the app was fairly efficient, and the final billed amount differed slightly which could be improved",105,17,positive,0.8479
+"from browsing to delivery, the experience was better than expected, though the return pickup was delayed but not a major concern",128,21,positive,0.9162
+", the delivery experience turned out to be slow at times, though the return pickup was delayed which slightly affected my experience",132,22,negative,0.8637
+", the experience was frustrating, though the return pickup was delayed",70,11,negative,0.9123
+", customer support was mostly fine, though everything worked fine which could be improved",89,14,positive,0.8865
+", my interaction with customer care was pleasant, but coupon application did not work properly",94,15,negative,0.6925
+"from browsing to delivery, the experience was a bit confusing, and the app froze briefly during checkout which could be improved",128,21,negative,0.7543
+", customer support was mostly fine, but coupon application did not work properly but not a major concern",104,18,negative,0.4561
+"From my experience, from browsing to delivery, the experience was quite good, but communication from support could be better which slightly affected my experience",162,24,positive,0.6472
+", the checkout process seemed better than expected, but customer care took time to respond but manageable",105,17,positive,0.8749
+"the ordering experience felt a bit confusing, and the app froze briefly during checkout",87,14,negative,0.768
+", my interaction with customer care was average, though support eventually resolved the issue",93,14,negative,0.6393
+", using the app was fairly efficient, but billing had a small discrepancy but manageable",88,15,positive,0.8352
+", the delivery experience turned out to be slow at times, and the app froze briefly during checkout which could be improved",123,22,negative,0.8699
+", from browsing to delivery, the experience was quite good, but coupon application did not work properly",104,17,positive,0.5453
+", the ordering experience felt average, but billing had a small discrepancy",75,12,negative,0.7312
+", my interaction with customer care was slow at times, and the app froze briefly during checkout",96,17,negative,0.8587
+"the ordering experience felt frustrating, and the final billed amount differed slightly but not a major concern",111,17,negative,0.8556
+"using the app was worse than expected, and tracking updates were not regular which could be improved",100,17,negative,0.9196
+", the ordering experience felt not very impressive, though support eventually resolved the issue",96,14,negative,0.8762
+"the ordering experience felt frustrating, and the final billed amount differed slightly",87,12,negative,0.8825
+", billing and payment were a bit confusing, though the invoice was not easy to access but manageable",100,18,negative,0.6386
+", using the app was pleasant, but coupon application did not work properly but manageable",89,15,neutral,0.4023
+", the checkout process seemed smooth, though support eventually resolved the issue but manageable",97,14,positive,0.7459
+"the checkout process seemed satisfactory, but communication from support could be better but manageable",103,14,positive,0.7936
+", from browsing to delivery, the experience was not very impressive, and refund processing was slower than promised",115,18,negative,0.9275
+", the checkout process seemed better than expected, and the final billed amount differed slightly",97,15,positive,0.8852
+", the checkout process seemed mostly fine, though everything worked fine but manageable",87,13,positive,0.8214
+"from browsing to delivery, the experience was average, and tracking updates were not regular",92,14,negative,0.7524
+"the ordering experience felt fairly efficient, though everything worked fine",76,10,positive,0.941
+", the ordering experience felt decent, and tracking updates were not regular which slightly affected my experience",114,17,positive,0.7444
+"i found the buying process to be frustrating, but coupon application did not work properly",90,15,negative,0.9251
+"Verrry nicee experince, will buy again on weekend",49,8,positive,0.9705
+"billing and payment were inconsistent, but coupon application did not work properly",83,12,negative,0.8685
+"From my experience, i found the buying process to be pleasant, and the final billed amount differed slightly which slightly affected my experience",146,23,positive,0.7552
+", the ordering experience felt inconsistent, though everything worked fine which slightly affected my experience",112,15,negative,0.7765
+"my interaction with customer care was not very impressive, and refund processing was slower than promised which slightly affected my experience",143,21,negative,0.9209
+"customer support was average, and the app lagged during checkout",64,10,negative,0.929
+"billing and payment were smooth, though the return pickup was delayed",69,11,neutral,0.5809
+", billing and payment were frustrating, though support eventually resolved the issue",84,12,negative,0.7836
+", i found the buying process to be smooth, and the app lagged during checkout but manageable",92,17,positive,0.812
+"from browsing to delivery, the experience was a bit confusing, but payment failed once before succeeding",104,16,negative,0.6276
+", billing and payment were frustrating, but customer care took time to respond but manageable",93,15,negative,0.8067
+"from browsing to delivery, the experience was pleasant, and refund processing was slower than promised which slightly affected my experience",140,20,positive,0.74
+", the experience was decent, and the app froze briefly during checkout",70,12,positive,0.9138
+"i found the buying process to be satisfactory, though the delivery was delayed by a couple of days which could be improved",122,22,positive,0.7804
+"From my experience, the checkout process seemed worse than expected, though the invoice was not easy to access but manageable",125,20,negative,0.8913
+", the delivery experience turned out to be average, though the return pickup was delayed which could be improved",112,19,negative,0.859
+", the ordering experience felt frustrating, and the app froze briefly during checkout which could be improved",109,17,negative,0.9017
+"from browsing to delivery, the experience was better than expected, and refund processing was slower than promised which could be improved",138,21,positive,0.9214
+"From my experience, i found the buying process to be better than expected, and the app froze briefly during checkout",116,20,positive,0.8097
+", my interaction with customer care was quite good, though everything worked fine but manageable",96,15,positive,0.9377
+", i found the buying process to be smooth, though the return pickup was delayed",79,15,positive,0.7642
+"From my experience, customer support was decent, though everything worked fine",78,11,positive,0.9113
+", the experience was better than expected, though the return pickup was delayed which slightly affected my experience",117,18,positive,0.8973
+", the experience was slightly disappointing, though the return pickup was delayed which slightly affected my experience",119,17,negative,0.9188
+"the ordering experience felt inconsistent, and the final billed amount differed slightly",88,12,negative,0.7559
+", the delivery experience turned out to be quite good, and the app lagged during checkout and needs some improvement",116,20,positive,0.9501
+"the ordering experience felt mostly fine, but communication from support could be better and needs some improvement",115,17,positive,0.7027
+", billing and payment were frustrating, though the delivery was delayed by a couple of days",91,16,negative,0.903
+", the delivery experience turned out to be decent, but billing had a small discrepancy but not a major concern",110,20,positive,0.8777
+"from browsing to delivery, the experience was decent, and the app lagged during checkout",88,14,positive,0.9007
+", customer support was slow at times, and the final billed amount differed slightly which slightly affected my experience",121,19,negative,0.8794
+"using the app was better than expected, and the app lagged during checkout but manageable",89,15,positive,0.927
+"From my experience, the delivery experience turned out to be mostly fine, though the return pickup was delayed and needs some improvement",137,22,positive,0.7779
+", the ordering experience felt slightly disappointing, but billing had a small discrepancy but not a major concern",114,18,negative,0.8669
+"Delivery was quick and the packaging was neat, no damage at all",63,12,positive,0.9278
+", customer support was quite good, though support eventually resolved the issue and needs some improvement",106,16,positive,0.8664
+", the checkout process seemed fairly efficient, but customer care took time to respond but manageable",101,16,positive,0.8489
+", the ordering experience felt average, though the delivery was delayed by a couple of days but not a major concern",115,21,negative,0.7426
+"from browsing to delivery, the experience was pleasant, though the invoice was not easy to access",97,16,positive,0.8724
+", my interaction with customer care was fairly efficient, though the return pickup was delayed",94,15,positive,0.8213
+"From my experience, my interaction with customer care was slow at times, though the delivery was delayed by a couple of days which slightly affected my experience",162,27,negative,0.8578
+"customer support was better than expected, though the return pickup was delayed but manageable",94,14,positive,0.9231
+", i found the buying process to be pleasant, but customer care took time to respond but not a major concern",107,21,positive,0.8571
+"From my experience, using the app was pleasant, though the return pickup was delayed which could be improved",108,18,positive,0.7696
+", from browsing to delivery, the experience was fairly efficient, though the delivery was delayed by a couple of days",117,20,positive,0.9008
+", the experience was frustrating, but communication from support could be better",80,12,negative,0.9021
+", customer support was pleasant, but coupon application did not work properly",77,12,negative,0.7083
+", using the app was slightly disappointing, but billing had a small discrepancy",79,13,negative,0.8719
+"the ordering experience felt slow at times, and tracking updates were not regular",81,13,negative,0.8271
+"the checkout process seemed smooth, and the app lagged during checkout",70,11,neutral,0.6082
+"Everything was handled well, from order placement to final delivery",67,10,positive,0.8999
+"using the app was frustrating, and refund processing was slower than promised which could be improved",101,16,negative,0.9102
+", billing and payment were a bit confusing, though everything worked fine but manageable",88,14,neutral,0.5966
+"the ordering experience felt quite good, and the app lagged during checkout which slightly affected my experience",113,17,positive,0.8725
+", i found the buying process to be quite good, but billing had a small discrepancy but not a major concern",106,21,positive,0.874
+", using the app was slightly disappointing, but payment failed once before succeeding but manageable",100,15,negative,0.8499
+", using the app was fairly efficient, and tracking updates were not regular",75,13,positive,0.7114
+", the delivery experience turned out to be satisfactory, but billing had a small discrepancy",92,15,positive,0.9095
+"from browsing to delivery, the experience was pleasant, and the app lagged during checkout",90,14,positive,0.9281
+", using the app was fairly efficient, though support eventually resolved the issue",82,13,positive,0.7749
+"the delivery experience turned out to be inconsistent, though the invoice was not easy to access which slightly affected my experience",134,21,negative,0.8827
+"From my experience, customer support was decent, though everything worked fine but manageable",93,13,positive,0.9034
+", the experience was frustrating, though the return pickup was delayed but manageable",85,13,negative,0.9105
+", customer support was quite good, and the app lagged during checkout which slightly affected my experience",107,17,positive,0.8186
+", using the app was slow at times, but billing had a small discrepancy which could be improved",94,18,negative,0.6834
+", from browsing to delivery, the experience was better than expected, though everything worked fine and needs some improvement",126,19,positive,0.9546
+", customer support was frustrating, though the return pickup was delayed but not a major concern",96,16,negative,0.9039
+"the delivery experience turned out to be worse than expected, though support eventually resolved the issue but not a major concern",130,21,negative,0.8534
+"From my experience, billing and payment were average, and refund processing was slower than promised",100,15,negative,0.8531
+"billing and payment were slightly disappointing, and tracking updates were not regular",86,12,negative,0.9054
+"the checkout process seemed slow at times, but coupon application did not work properly",87,14,negative,0.8966
+", the experience was worse than expected, and refund processing was slower than promised",88,14,negative,0.9445
+", customer support was better than expected, but payment failed once before succeeding",86,13,positive,0.6443
+", i found the buying process to be mostly fine, but customer care took time to respond",86,17,positive,0.7577
+", the checkout process seemed slightly disappointing, and the final billed amount differed slightly",99,14,negative,0.8946
+"billing and payment were quite good, and the app lagged during checkout",71,12,positive,0.8538
+"the ordering experience felt slightly disappointing, though support eventually resolved the issue but manageable",112,14,negative,0.827
+"i found the buying process to be pleasant, and tracking updates were not regular and needs some improvement",107,18,positive,0.7348
+", my interaction with customer care was average, though the delivery was delayed by a couple of days",100,18,negative,0.6585
+", from browsing to delivery, the experience was worse than expected, though everything worked fine but manageable",113,17,negative,0.8799
+", the checkout process seemed frustrating, but billing had a small discrepancy but manageable",93,14,negative,0.7825
+", i found the buying process to be mostly fine, though everything worked fine",77,14,positive,0.8114
+", from browsing to delivery, the experience was slightly disappointing, though the delivery was delayed by a couple of days",123,20,negative,0.9098
+"From my experience, from browsing to delivery, the experience was a bit confusing, though the delivery was delayed by a couple of days which could be improved",158,27,negative,0.7609
+", the ordering experience felt decent, but customer care took time to respond",77,13,positive,0.8817
+I thought very nice experiecne worth repeat purchase,52,8,positive,0.9722
+", i found the buying process to be quite good, though everything worked fine which could be improved",100,18,positive,0.925
+", the experience was slightly disappointing, but customer care took time to respond",83,13,negative,0.8993
+"billing and payment were not very impressive, and the app lagged during checkout",80,13,negative,0.9159
+"customer support was satisfactory, though the invoice was not easy to access which could be improved",100,16,positive,0.5224
+", from browsing to delivery, the experience was slightly disappointing, though everything worked fine but not a major concern",125,19,negative,0.8226
+"the checkout process seemed average, though the return pickup was delayed",73,11,negative,0.6872
+"billing and payment were mostly fine, though the delivery was delayed by a couple of days",89,16,neutral,0.6514
+", i found the buying process to be pleasant, but communication from support could be better but manageable",106,18,positive,0.8659
+", from browsing to delivery, the experience was not very impressive, and the final billed amount differed slightly",114,18,negative,0.8961
+", my interaction with customer care was slow at times, though the return pickup was delayed which slightly affected my experience",129,21,negative,0.8548
+"billing and payment were mostly fine, but payment failed once before succeeding",79,12,neutral,0.4913
+"using the app was fairly efficient, and the app lagged during checkout",70,12,positive,0.7563
+"the delivery experience turned out to be a bit confusing, but customer care took time to respond",96,17,negative,0.5383
+", the experience was smooth, and tracking updates were not regular which slightly affected my experience",104,16,positive,0.6434
+"from browsing to delivery, the experience was slightly disappointing, and refund processing was slower than promised",116,16,negative,0.9195
+"using the app was slow at times, and tracking updates were not regular but not a major concern",94,18,negative,0.672
+", the delivery experience turned out to be average, but coupon application did not work properly",96,16,negative,0.9209
+"Probbaly I will be buying more stuff, looks good to me",54,11,positive,0.9623
+"using the app was average, but communication from support could be better",73,12,negative,0.8217
+"billing and payment were pleasant, though everything worked fine which could be improved",88,13,positive,0.9129
+"from browsing to delivery, the experience was inconsistent, though the invoice was not easy to access and needs some improvement",128,20,negative,0.849
+"using the app was a bit confusing, but billing had a small discrepancy which could be improved",94,17,negative,0.5523
+", customer support was decent, and the app lagged during checkout",65,11,positive,0.8663
+", the checkout process seemed better than expected, but billing had a small discrepancy but not a major concern",111,19,positive,0.7962
+"i found the buying process to be quite good, and refund processing was slower than promised but not a major concern",115,21,positive,0.8773
+"i found the buying process to be smooth, though everything worked fine",70,12,positive,0.7889
+"billing and payment were mostly fine, though the delivery was delayed by a couple of days which could be improved",113,20,neutral,0.569
+"the ordering experience felt slightly disappointing, and the final billed amount differed slightly and needs some improvement",125,17,negative,0.9065
+", my interaction with customer care was pleasant, though everything worked fine",79,12,positive,0.9396
+"the checkout process seemed average, though the invoice was not easy to access but manageable",93,15,negative,0.6311
+The process was smooth and fast,31,6,positive,0.8926
+", i found the buying process to be mostly fine, though the invoice was not easy to access",89,18,positive,0.6867
+"From my experience, billing and payment were inconsistent, though everything worked fine",88,12,neutral,0.6039
+"the checkout process seemed mostly fine, and the app lagged during checkout",75,12,positive,0.5669
+"my interaction with customer care was inconsistent, and the app lagged during checkout but not a major concern",110,18,negative,0.8147
+"From my experience, the delivery experience turned out to be pleasant, though the delivery was delayed by a couple of days but not a major concern",146,26,positive,0.8987
+"the delivery experience turned out to be worse than expected, and tracking updates were not regular which slightly affected my experience",137,21,negative,0.9287
+"using the app was not very impressive, and refund processing was slower than promised but manageable",100,16,negative,0.918
+"the ordering experience felt slightly disappointing, but billing had a small discrepancy",88,12,negative,0.8685
+"the delivery experience turned out to be inconsistent, but payment failed once before succeeding",96,14,negative,0.8398
+", i found the buying process ly efficient, and the app lagged during checkout which could be improved",101,18,neutral,0.5124
+", the delivery experience turned out to be decent, and the app froze briefly during checkout",92,16,positive,0.9229
+", the checkout process seemed inconsistent, though everything worked fine but not a major concern",97,15,negative,0.4958
+", using the app was average, and the final billed amount differed slightly",74,13,neutral,0.6627
+"From my experience, my interaction with customer care was inconsistent, and the final billed amount differed slightly",117,17,negative,0.7913
+", from browsing to delivery, the experience was not very impressive, though the invoice was not easy to access but manageable",125,21,negative,0.8802
+"billing and payment were quite good, though the return pickup was delayed",73,12,positive,0.8718
+"from browsing to delivery, the experience was smooth, and refund processing was slower than promised",100,15,positive,0.7985
+"the ordering experience felt average, and refund processing was slower than promised but manageable",99,14,negative,0.8701
+"the delivery experience turned out to be pleasant, and the final billed amount differed slightly",96,15,positive,0.952
+"from browsing to delivery, the experience was satisfactory, though the delivery was delayed by a couple of days",111,18,positive,0.8954
+", from browsing to delivery, the experience was inconsistent, though the delivery was delayed by a couple of days",113,19,negative,0.8487
+"the ordering experience felt decent, and the app froze briefly during checkout which slightly affected my experience",116,17,positive,0.4709
+", billing and payment were frustrating, though the return pickup was delayed but not a major concern",100,17,negative,0.8691
+"the checkout process seemed better than expected, though the return pickup was delayed",86,13,positive,0.7657
+"billing and payment were quite good, though the delivery was delayed by a couple of days which could be improved",112,20,positive,0.8167
+"i found the buying process to be worse than expected, but coupon application did not work properly but not a major concern",122,22,negative,0.9067
+"customer support was fairly efficient, but coupon application did not work properly",83,12,negative,0.7279
+", the checkout process seemed frustrating, though the return pickup was delayed",79,12,negative,0.8915
+"From my experience, i found the buying process to be quite good, though everything worked fine and needs some improvement",121,20,positive,0.8917
+"my interaction with customer care was not very impressive, but coupon application did not work properly",103,16,negative,0.9286
+"The buying experience felt smooth, no unnecessary steps or confusion",68,10,positive,0.8198
+"customer support was inconsistent, but payment failed once before succeeding which slightly affected my experience",114,15,negative,0.9025
+"using the app was worse than expected, and the app lagged during checkout which could be improved",97,17,negative,0.9273
+", billing and payment were satisfactory, and the app lagged during checkout which could be improved",99,16,positive,0.7609
+"the delivery experience turned out to be inconsistent, and tracking updates were not regular and needs some improvement",119,18,negative,0.8791
+", customer support was slightly disappointing, but payment failed once before succeeding but not a major concern",112,17,negative,0.8805
+", the experience was better than expected, though support eventually resolved the issue but manageable",102,15,positive,0.9233
+", my interaction with customer care was quite good, but billing had a small discrepancy which could be improved",111,19,positive,0.8628
+", the experience was smooth, but customer care took time to respond but not a major concern",91,17,positive,0.6544
+", the experience was mostly fine, but billing had a small discrepancy",69,12,positive,0.8144
+"From my experience, i found the buying process to be quite good, but customer care took time to respond",103,19,positive,0.9015
+", billing and payment were pleasant, but coupon application did not work properly but manageable",96,15,positive,0.4138
+"From my experience, the ordering experience felt not very impressive, though the delivery was delayed by a couple of days which slightly affected my experience",159,25,negative,0.9089
+", from browsing to delivery, the experience was smooth, but coupon application did not work properly",100,16,negative,0.4909
+", i found the buying process to be mostly fine, but billing had a small discrepancy",83,16,positive,0.608
+", customer support was slightly disappointing, and the app froze briefly during checkout",88,13,negative,0.9375
+", the delivery experience turned out to be decent, though everything worked fine",80,13,positive,0.9363
+", using the app was a bit confusing, though the invoice was not easy to access",78,16,negative,0.7143
+"the delivery experience turned out to be not very impressive, though the invoice was not easy to access which slightly affected my experience",141,23,negative,0.9166
+", billing and payment were pleasant, though everything worked fine",66,10,positive,0.9356
+"customer support was inconsistent, but billing had a small discrepancy which slightly affected my experience",108,15,negative,0.8608
+", billing and payment were not very impressive, though the delivery was delayed by a couple of days",99,18,negative,0.9143
+"customer support was mostly fine, but coupon application did not work properly which slightly affected my experience",116,17,negative,0.7664
+", i found the buying process to be quite good, and tracking updates were not regular",84,16,positive,0.8986
+"the checkout process seemed fairly efficient, and tracking updates were not regular but not a major concern",107,17,positive,0.7053
+", billing and payment were average, but billing had a small discrepancy",71,12,neutral,0.696
+"customer support was a bit confusing, but communication from support could be better but not a major concern",108,18,negative,0.7585
+"From my experience, my interaction with customer care was worse than expected, but communication from support could be better",125,19,negative,0.8827
+", using the app was smooth, but billing had a small discrepancy but not a major concern",87,17,positive,0.5392
+"billing and payment were fairly efficient, but payment failed once before succeeding which slightly affected my experience",122,17,negative,0.6341
+", customer support was a bit confusing, but communication from support could be better which slightly affected my experience",124,19,negative,0.8339
+", the experience was frustrating, though everything worked fine",63,9,negative,0.8111
+", customer support was slightly disappointing, and tracking updates were not regular",84,12,negative,0.9272
+"using the app was inconsistent, and the final billed amount differed slightly and needs some improvement",104,16,negative,0.8078
+", the checkout process seemed satisfactory, and the final billed amount differed slightly",89,13,positive,0.8683
+", the experience was inconsistent, but coupon application did not work properly",79,12,negative,0.9171
+well like others nothing different but ok,41,7,neutral,0.6981
+", the experience was slightly disappointing, though the return pickup was delayed and needs some improvement",108,16,negative,0.9126
+", from browsing to delivery, the experience was a bit confusing, and tracking updates were not regular but not a major concern",126,22,negative,0.6787
+", the experience was decent, though support eventually resolved the issue",73,11,positive,0.8975
+"the ordering experience felt smooth, but customer care took time to respond",75,12,positive,0.7269
+"the ordering experience felt not very impressive, but communication from support could be better but not a major concern",120,19,negative,0.8764
+", customer support was not very impressive, and the app lagged during checkout",78,13,negative,0.9349
+", using the app was quite good, though everything worked fine",61,11,positive,0.9419
+", my interaction with customer care was smooth, though the return pickup was delayed but not a major concern",108,19,positive,0.5794
+", the checkout process seemed mostly fine, and tracking updates were not regular but not a major concern",104,18,positive,0.6423
+", the ordering experience felt fairly efficient, but customer care took time to respond but not a major concern",111,19,positive,0.8632
+"From my experience, using the app was fairly efficient, though the invoice was not easy to access which slightly affected my experience",135,22,neutral,0.5004
+", the experience was fairly efficient, though the delivery was delayed by a couple of days which could be improved",114,20,positive,0.8638
+", the delivery experience turned out to be satisfactory, but customer care took time to respond",95,16,positive,0.9354
+", the checkout process seemed average, but payment failed once before succeeding which slightly affected my experience",118,17,negative,0.8588
+"using the app was smooth, but payment failed once before succeeding",67,11,neutral,0.5824
+", customer support was worse than expected, but coupon application did not work properly but not a major concern",112,19,negative,0.9258
+", my interaction with customer care was frustrating, and the final billed amount differed slightly",98,15,negative,0.8957
+"the ordering experience felt slow at times, but coupon application did not work properly",88,14,negative,0.9092
+", customer support was slow at times, but payment failed once before succeeding",79,13,negative,0.8861
+"my interaction with customer care was fairly efficient, but billing had a small discrepancy but manageable",106,16,positive,0.8141
+"customer support was satisfactory, but communication from support could be better",81,11,positive,0.7998
+"billing and payment were inconsistent, but communication from support could be better",85,12,negative,0.6892
+", the ordering experience felt fairly efficient, and refund processing was slower than promised but not a major concern",119,19,positive,0.8745
+", i found the buying process to be slightly disappointing, though the return pickup was delayed",95,16,negative,0.9149
+"From my experience, the checkout process seemed quite good, though the invoice was not easy to access which could be improved",125,21,positive,0.7757
+"the checkout process seemed satisfactory, though the return pickup was delayed",78,11,positive,0.7873
+"from browsing to delivery, the experience was better than expected, but coupon application did not work properly",112,17,positive,0.5043
+", the experience was better than expected, but communication from support could be better which could be improved",113,18,positive,0.9378
+", billing and payment were frustrating, but communication from support could be better but not a major concern",110,18,negative,0.8343
+"i found the buying process to be better than expected, but billing had a small discrepancy",90,16,positive,0.7902
+"the delivery experience turned out to be frustrating, and the app froze briefly during checkout which slightly affected my experience",133,20,negative,0.9105
+", i found the buying process to be slightly disappointing, and the final billed amount differed slightly and needs some improvement",131,21,negative,0.9
+"From my experience, billing and payment were smooth, and tracking updates were not regular but not a major concern",114,19,positive,0.5631
+", the checkout process seemed satisfactory, but billing had a small discrepancy but manageable",94,14,positive,0.8629
+they do too much telecalling and marketing,42,7,negative,0.646
+", customer support was mostly fine, but payment failed once before succeeding",77,12,negative,0.4745
+", i found the buying process to be satisfactory, but payment failed once before succeeding",90,15,positive,0.5432
+", from browsing to delivery, the experience was satisfactory, and the final billed amount differed slightly but manageable",122,18,positive,0.9394
+"From my experience, from browsing to delivery, the experience was smooth, and the app froze briefly during checkout but not a major concern",139,23,positive,0.6389
+", using the app was not very impressive, though the delivery was delayed by a couple of days",92,18,negative,0.9162
+"the ordering experience felt average, and the app lagged during checkout",72,11,negative,0.909
+", using the app was pleasant, and refund processing was slower than promised",76,13,positive,0.899
+"the checkout process seemed satisfactory, though the delivery was delayed by a couple of days but not a major concern",117,20,positive,0.6533
+"billing and payment were inconsistent, but customer care took time to respond",77,12,negative,0.6927
+"From my experience, billing and payment were mostly fine, though everything worked fine",87,13,positive,0.8209
+"From my experience, my interaction with customer care was fairly efficient, though everything worked fine and needs some improvement",132,19,positive,0.8932
+", the ordering experience felt slightly disappointing, though the invoice was not easy to access",96,15,negative,0.9074
+"i found the buying process to be quite good, but payment failed once before succeeding which could be improved",110,19,positive,0.5167
+"the delivery experience turned out to be smooth, and refund processing was slower than promised",95,15,positive,0.8021
+", the delivery experience turned out to be satisfactory, and the final billed amount differed slightly",102,16,positive,0.9288
+", the experience was fairly efficient, and the app lagged during checkout",73,12,positive,0.9256
+"billing and payment were quite good, and refund processing was slower than promised which slightly affected my experience",121,18,positive,0.7028
+"billing and payment were worse than expected, though the delivery was delayed by a couple of days but not a major concern",121,22,negative,0.8752
+"customer support was pleasant, and the app froze briefly during checkout",72,11,positive,0.8839
+"customer support was frustrating, though support eventually resolved the issue which slightly affected my experience",116,15,negative,0.8678
+", i found the buying process to be satisfactory, and the app lagged during checkout",83,15,positive,0.7975
+"customer support was quite good, though everything worked fine but not a major concern",86,14,positive,0.916
+", the ordering experience felt mostly fine, and tracking updates were not regular",81,13,positive,0.8288
+"the ordering experience felt inconsistent, though the return pickup was delayed",79,11,negative,0.8443
+"from browsing to delivery, the experience was smooth, and tracking updates were not regular",91,14,positive,0.8095
+"i found the buying process to be inconsistent, and refund processing was slower than promised",93,15,negative,0.892
+"my interaction with customer care was fairly efficient, but communication from support could be better but not a major concern",126,20,positive,0.536
+"customer support was quite good, though everything worked fine which slightly affected my experience",100,14,positive,0.9121
+"using the app was inconsistent, though support eventually resolved the issue",76,11,negative,0.5246
+"the checkout process seemed better than expected, though support eventually resolved the issue which could be improved",118,17,positive,0.8121
+", billing and payment were average, though everything worked fine",65,10,positive,0.4899
+"customer support was better than expected, and the app lagged during checkout which could be improved",101,16,positive,0.881
+", the experience was fairly efficient, and the final billed amount differed slightly",84,13,positive,0.9194
+"the ordering experience felt smooth, and refund processing was slower than promised",83,12,positive,0.7932
+", the delivery experience turned out to be decent, but customer care took time to respond but manageable",104,18,positive,0.9116
+", the experience was quite good, but payment failed once before succeeding",74,12,positive,0.9018
+"the checkout process seemed a bit confusing, and the app froze briefly during checkout",86,14,negative,0.731
+"i found the buying process to be pleasant, and the app lagged during checkout",77,14,positive,0.7484
+Product met expectations and the entire process was hassle free,63,10,positive,0.9533
+"the ordering experience felt better than expected, and the app froze briefly during checkout",92,14,positive,0.8802
+"the ordering experience felt frustrating, though support eventually resolved the issue",86,11,negative,0.7883
+"my interaction with customer care was mostly fine, and refund processing was slower than promised but not a major concern",121,20,positive,0.6074
+", billing and payment were not very impressive, and the app lagged during checkout which slightly affected my experience",120,19,negative,0.92
+"from browsing to delivery, the experience was smooth, though the delivery was delayed by a couple of days and needs some improvement",132,22,positive,0.5666
+"i found the buying process to be pleasant, though everything worked fine",72,12,positive,0.921
+", customer support was better than expected, and tracking updates were not regular but manageable",97,15,positive,0.9292
+"i found the buying process to be pleasant, but billing had a small discrepancy which slightly affected my experience",116,19,positive,0.4823
+"the checkout process seemed fairly efficient, though the invoice was not easy to access",87,14,positive,0.6488
+", customer support was quite good, though support eventually resolved the issue which slightly affected my experience",117,17,positive,0.8229
+"the delivery experience turned out to be inconsistent, but communication from support could be better",101,15,negative,0.8522
+", customer support was smooth, but communication from support could be better",77,12,positive,0.736
+", the experience was smooth, and the app froze briefly during checkout and needs some improvement",97,16,positive,0.5577
+", using the app was pleasant, but billing had a small discrepancy which slightly affected my experience",103,17,neutral,0.4498
+"my interaction with customer care was slightly disappointing, but billing had a small discrepancy",97,14,negative,0.8689
+"i found the buying process to be average, and the app froze briefly during checkout",83,15,negative,0.8718
+"the delivery experience turned out to be worse than expected, but billing had a small discrepancy but manageable",112,18,negative,0.8912
+", the ordering experience felt worse than expected, though everything worked fine which could be improved",105,16,negative,0.8345
+"From my experience, using the app was average, but coupon application did not work properly",91,15,negative,0.8828
+", customer support was decent, but coupon application did not work properly",75,12,negative,0.6854
+"From my experience, the checkout process seemed worse than expected, but customer care took time to respond which could be improved",131,21,negative,0.8567
+", billing and payment were average, and the app lagged during checkout",70,12,negative,0.8899
+"one of the better web app ,nicee experience",43,8,positive,0.984
+", i found the buying process to be slightly disappointing, though the delivery was delayed by a couple of days",110,20,negative,0.9235
+"i found the buying process to be satisfactory, and tracking updates were not regular",84,14,positive,0.7519
+"i found the buying process to be mostly fine, though the delivery was delayed by a couple of days but not a major concern",121,24,positive,0.5494
+", the experience was fairly efficient, and refund processing was slower than promised",85,13,positive,0.9248
+"From my experience, the checkout process seemed not very impressive, though everything worked fine",98,14,negative,0.6402
+", the checkout process seemed inconsistent, but customer care took time to respond and needs some improvement",109,17,negative,0.7641
+"the ordering experience felt pleasant, but customer care took time to respond and needs some improvement",104,16,positive,0.6132
+"Delivery timing was accurate, came on the promised date without delay",69,11,positive,0.8304
+"From my experience, customer support was slow at times, but customer care took time to respond",94,16,negative,0.7356
+"From my experience, using the app was decent, though the delivery was delayed by a couple of days which slightly affected my experience",135,23,neutral,0.4782
+", billing and payment were worse than expected, and refund processing was slower than promised which slightly affected my experience",132,20,negative,0.9329
+", the experience was satisfactory, though the return pickup was delayed which could be improved",95,15,positive,0.8906
+", my interaction with customer care was quite good, though the delivery was delayed by a couple of days but manageable",118,21,positive,0.8988
+", the experience was mostly fine, but billing had a small discrepancy which slightly affected my experience",107,17,positive,0.507
+"from browsing to delivery, the experience was smooth, and tracking updates were not regular but manageable",106,16,positive,0.8656
+"From my experience, from browsing to delivery, the experience was inconsistent, though everything worked fine",109,15,negative,0.5922
+", from browsing to delivery, the experience was decent, and the final billed amount differed slightly but manageable",116,18,positive,0.9261
+"customer support was quite good, and the final billed amount differed slightly but manageable",93,14,positive,0.9368
+", my interaction with customer care was decent, though the invoice was not easy to access and needs some improvement",116,20,positive,0.6492
+"the ordering experience felt a bit confusing, and refund processing was slower than promised",92,14,negative,0.863
+"from browsing to delivery, the experience was mostly fine, but payment failed once before succeeding",100,15,neutral,0.4751
+", billing and payment were quite good, though everything worked fine but not a major concern",92,16,positive,0.8775
+", the ordering experience felt pleasant, and the app lagged during checkout",75,12,positive,0.895
+"the checkout process seemed not very impressive, though the delivery was delayed by a couple of days but manageable",115,19,negative,0.8869
+", the experience was quite good, but billing had a small discrepancy",68,12,positive,0.9522
+", from browsing to delivery, the experience was frustrating, and the app lagged during checkout which could be improved",119,19,negative,0.9022
+"from browsing to delivery, the experience was a bit confusing, though the invoice was not easy to access which could be improved",128,22,negative,0.7648
+", the experience was mostly fine, though the delivery was delayed by a couple of days",85,16,positive,0.851
+"From my experience, from browsing to delivery, the experience was fairly efficient, but billing had a small discrepancy",119,18,positive,0.7796
+", billing and payment were mostly fine, but billing had a small discrepancy which could be improved",99,17,positive,0.5602
+", the experience was worse than expected, though support eventually resolved the issue",86,13,negative,0.8818
+"From my experience, the delivery experience turned out to be better than expected, though the invoice was not easy to access which slightly affected my experience",162,26,positive,0.8283
+"From my experience, my interaction with customer care was smooth, but communication from support could be better",112,17,positive,0.5644
+"my interaction with customer care was pleasant, and the app lagged during checkout but not a major concern",106,18,positive,0.7997
+", customer support was smooth, but communication from support could be better but not a major concern",101,17,positive,0.4788
+"the checkout process seemed average, and tracking updates were not regular",74,11,negative,0.7916
+"customer support was better than expected, and refund processing was slower than promised and needs some improvement",116,17,positive,0.822
+"From my experience, from browsing to delivery, the experience was pleasant, but customer care took time to respond which slightly affected my experience",152,23,neutral,0.4818
+"customer support was pleasant, but payment failed once before succeeding and needs some improvement",99,14,negative,0.7083
+"my interaction with customer care was smooth, but coupon application did not work properly",90,14,negative,0.6941
+"i found the buying process to be slow at times, though everything worked fine",77,14,neutral,0.587
+", the experience was satisfactory, and the app lagged during checkout",69,11,positive,0.9324
+Customer support responded faster than expected and solved the issue in one go,78,13,positive,0.8269
+"using the app was slow at times, and the app froze briefly during checkout",74,14,negative,0.7397
+", i found the buying process to be smooth, though support eventually resolved the issue which slightly affected my experience",125,20,positive,0.6263
+"billing and payment were inconsistent, and the app froze briefly during checkout",80,12,negative,0.7854
+", the delivery experience turned out to be slightly disappointing, and refund processing was slower than promised and needs some improvement",140,21,negative,0.9253
+"the ordering experience felt not very impressive, but coupon application did not work properly",94,14,negative,0.9295
+"billing and payment were inconsistent, but payment failed once before succeeding and needs some improvement",107,15,negative,0.8187
+", the delivery experience turned out to be worse than expected, though support eventually resolved the issue",108,17,negative,0.887
+", the experience was average, but billing had a small discrepancy",65,11,negative,0.576
+"from browsing to delivery, the experience was decent, and tracking updates were not regular which could be improved",115,18,positive,0.8717
+", my interaction with customer care was worse than expected, but billing had a small discrepancy",96,16,negative,0.8945
+", my interaction with customer care was better than expected, and tracking updates were not regular",99,16,positive,0.9056
+", my interaction with customer care was smooth, but communication from support could be better and needs some improvement",121,19,positive,0.6342
+", my interaction with customer care was quite good, but payment failed once before succeeding but not a major concern",117,20,positive,0.6479
+", the ordering experience felt satisfactory, though the invoice was not easy to access",86,14,positive,0.8731
+", using the app was slow at times, though the return pickup was delayed",71,14,negative,0.7282
+", the experience was pleasant, and the app froze briefly during checkout",72,12,positive,0.9397
+"the checkout process seemed smooth, and the final billed amount differed slightly",81,12,positive,0.6444
+", billing and payment were smooth, and the final billed amount differed slightly which slightly affected my experience",118,18,neutral,0.567
+"the delivery experience turned out to be better than expected, but customer care took time to respond",101,17,positive,0.9579
+", i found the buying process to be better than expected, though support eventually resolved the issue",101,17,positive,0.8586
+"the ordering experience felt slightly disappointing, but billing had a small discrepancy but manageable",103,14,negative,0.8519
+"Website is attractive, very nicee,I think its good option",57,9,positive,0.9756
+", customer support was fairly efficient, and tracking updates were not regular but not a major concern",102,17,positive,0.7102
+", billing and payment were not very impressive, but coupon application did not work properly which slightly affected my experience",130,20,negative,0.9227
+"the delivery experience turned out to be pleasant, though the invoice was not easy to access which slightly affected my experience",130,21,positive,0.7056
+"Overall a good experience, would probably order again from here",63,10,positive,0.978
+"customer support was frustrating, and refund processing was slower than promised but not a major concern",104,16,negative,0.9077
+", my interaction with customer care was decent, though everything worked fine",77,12,positive,0.9111
+"customer support was smooth, though the return pickup was delayed",65,10,positive,0.5718
+", the ordering experience felt inconsistent, and the app lagged during checkout",79,12,negative,0.8873
+", the experience was decent, but customer care took time to respond which slightly affected my experience",105,17,positive,0.4426
+", customer support was slow at times, though support eventually resolved the issue and needs some improvement",109,17,negative,0.6684
+", the ordering experience felt satisfactory, but coupon application did not work properly which could be improved",113,17,negative,0.6948
+"my interaction with customer care was worse than expected, and the app lagged during checkout",93,15,negative,0.9494
+", the ordering experience felt a bit confusing, but communication from support could be better but manageable",109,17,negative,0.6886
+"the checkout process seemed slightly disappointing, but coupon application did not work properly but manageable",111,15,negative,0.908
+"the checkout process seemed smooth, but payment failed once before succeeding and needs some improvement",104,15,negative,0.6884
+", customer support was better than expected, though the delivery was delayed by a couple of days and needs some improvement",123,21,positive,0.7821
+", the experience was fairly efficient, but billing had a small discrepancy which could be improved",98,16,positive,0.8468
+", i found the buying process to be better than expected, but customer care took time to respond but not a major concern",119,23,positive,0.8526
+", using the app was slow at times, though everything worked fine which slightly affected my experience",102,17,negative,0.535
+", the experience was decent, though the return pickup was delayed",65,11,positive,0.9413
+"Really smooth experience overall, from browsing to checkout it just worked without issues",89,13,positive,0.962
+", the experience was not very impressive, and refund processing was slower than promised but manageable",103,16,negative,0.9264
+", the experience was pleasant, though support eventually resolved the issue which slightly affected my experience",113,16,positive,0.8676
+", the experience was frustrating, and the app froze briefly during checkout which slightly affected my experience",113,17,negative,0.9233
+It was worth buying,19,4,positive,0.8898
+"the delivery experience turned out to be frustrating, but billing had a small discrepancy",89,14,negative,0.8403
+", billing and payment were pleasant, and the app froze briefly during checkout but not a major concern",102,18,positive,0.7645
+", the experience was pleasant, though support eventually resolved the issue",75,11,positive,0.919
+"the checkout process seemed better than expected, though everything worked fine",79,11,positive,0.9049
+", the delivery experience turned out to be smooth, though the invoice was not easy to access but manageable",107,19,positive,0.8832
+"the delivery experience turned out to be average, and tracking updates were not regular",87,14,negative,0.8631
+"the ordering experience felt satisfactory, but communication from support could be better",89,12,positive,0.8091
+"the checkout process seemed inconsistent, though support eventually resolved the issue but manageable",101,13,negative,0.6129
+", billing and payment were slow at times, but billing had a small discrepancy",77,14,negative,0.6296
+"my interaction with customer care was pleasant, though the return pickup was delayed",84,13,positive,0.831
+", the experience was slow at times, but customer care took time to respond and needs some improvement",101,18,negative,0.7852
+"i found the buying process to be a bit confusing, but payment failed once before succeeding",91,16,negative,0.6406
+"From my experience, customer support was slow at times, and tracking updates were not regular",93,15,negative,0.8578
+", my interaction with customer care was not very impressive, though the delivery was delayed by a couple of days which slightly affected my experience",150,25,negative,0.9237
+", from browsing to delivery, the experience was quite good, but communication from support could be better",106,17,positive,0.9222
+"From my experience, from browsing to delivery, the experience was not very impressive, though the delivery was delayed by a couple of days but not a major concern",162,28,negative,0.8636
+", billing and payment were pleasant, though the invoice was not easy to access",78,14,positive,0.8346
+", the delivery experience turned out to be quite good, but customer care took time to respond but manageable",108,19,positive,0.9542
+", i found the buying process to be average, though the invoice was not easy to access",85,17,negative,0.8456
+"using the app was pleasant, but customer care took time to respond but not a major concern",90,17,positive,0.621
+"From my experience, my interaction with customer care was a bit confusing, though everything worked fine but not a major concern",128,21,neutral,0.4791
+", the ordering experience felt slightly disappointing, and refund processing was slower than promised",101,14,negative,0.9319
+Payment went through without any problem and confirmation was instant,69,10,positive,0.8755
+"from browsing to delivery, the experience was slow at times, though everything worked fine but manageable",105,16,negative,0.4681
+"From my experience, my interaction with customer care was average, but billing had a small discrepancy but not a major concern",126,21,neutral,0.5311
+", using the app was satisfactory, and the app lagged during checkout and needs some improvement",95,16,positive,0.6124
+"the ordering experience felt inconsistent, and the final billed amount differed slightly and needs some improvement",115,16,negative,0.8397
+"using the app was average, and refund processing was slower than promised and needs some improvement",100,16,negative,0.9013
+", billing and payment were pleasant, and the app froze briefly during checkout which could be improved",102,17,positive,0.8111
+", billing and payment were average, though the return pickup was delayed and needs some improvement",99,16,negative,0.6515
+"my interaction with customer care was slow at times, and refund processing was slower than promised which slightly affected my experience",137,21,negative,0.8884
+"the ordering experience felt decent, and the final billed amount differed slightly",82,12,positive,0.8841
+", the experience was better than expected, and the app froze briefly during checkout which could be improved",108,18,positive,0.9188
+"the checkout process seemed fairly efficient, though support eventually resolved the issue and needs some improvement",117,16,positive,0.7875
+", the experience was slightly disappointing, though the return pickup was delayed",81,12,negative,0.9116
+"my interaction with customer care was satisfactory, but payment failed once before succeeding",93,13,neutral,0.4955
+", my interaction with customer care was inconsistent, and tracking updates were not regular and needs some improvement",118,18,negative,0.8692
+", using the app was average, and the app lagged during checkout",63,12,negative,0.8752
+", the checkout process seemed slow at times, and refund processing was slower than promised",91,15,negative,0.8759
+", the ordering experience felt pleasant, though the invoice was not easy to access",82,14,positive,0.8798
+"from browsing to delivery, the experience was slightly disappointing, and the app lagged during checkout and needs some improvement",131,19,negative,0.9103
+"the delivery experience turned out to be smooth, but customer care took time to respond",87,15,positive,0.8553
+", the experience was worse than expected, but coupon application did not work properly",86,14,negative,0.9426
+"From my experience, billing and payment were not very impressive, but billing had a small discrepancy but not a major concern",125,21,negative,0.7941
+"from browsing to delivery, the experience was smooth, though the invoice was not easy to access",95,16,positive,0.6567
+", from browsing to delivery, the experience was decent, and the final billed amount differed slightly",101,16,positive,0.9276
+"my interaction with customer care was pleasant, and tracking updates were not regular and needs some improvement",112,17,positive,0.7872
+"The product quality is actually better than I thought, quite satisfied with this purchase",89,14,positive,0.9816
+"from browsing to delivery, the experience was fairly efficient, though the invoice was not easy to access",105,17,positive,0.82
+"from browsing to delivery, the experience was not very impressive, though support eventually resolved the issue",111,16,negative,0.8778
+", using the app was fairly efficient, and the app froze briefly during checkout but manageable",94,16,positive,0.8263
+", the checkout process seemed smooth, and tracking updates were not regular",75,12,positive,0.6666
+"i found the buying process to be not very impressive, though the delivery was delayed by a couple of days but manageable",120,22,negative,0.8925
+"i found the buying process ly efficient, but payment failed once before succeeding",82,13,neutral,0.4981
+", the ordering experience felt smooth, and the final billed amount differed slightly but manageable",99,15,positive,0.8527
+", customer support was quite good, though the return pickup was delayed",71,12,positive,0.8981
+", the checkout process seemed quite good, though the invoice was not easy to access",83,15,positive,0.8645
+", using the app was not very impressive, but payment failed once before succeeding",82,14,negative,0.8935
+"From my experience, the checkout process seemed satisfactory, and the app lagged during checkout which slightly affected my experience",134,19,positive,0.5147
+", billing and payment were worse than expected, but communication from support could be better",94,15,negative,0.8863
+"the checkout process seemed a bit confusing, though the delivery was delayed by a couple of days",96,17,negative,0.7602
+"i found the buying process to be worse than expected, but coupon application did not work properly and needs some improvement",125,21,negative,0.9362
+"the delivery experience turned out to be not very impressive, though the invoice was not easy to access but not a major concern",127,23,negative,0.8808
+"the checkout process seemed better than expected, and the app lagged during checkout",84,13,positive,0.7837
+", customer support was pleasant, and the final billed amount differed slightly",78,12,positive,0.9164
+"the delivery experience turned out to be pleasant, though everything worked fine",80,12,positive,0.9549
+little costly but nice offers,29,5,positive,0.6489
+"i found the buying process to be mostly fine, but coupon application did not work properly but manageable",105,18,neutral,0.5396
+"the checkout process seemed frustrating, though the invoice was not easy to access which could be improved",106,17,negative,0.8917
+"the checkout process seemed frustrating, and tracking updates were not regular",78,11,negative,0.895
+"the checkout process seemed a bit confusing, but communication from support could be better",91,14,negative,0.7646
+", the experience was inconsistent, but payment failed once before succeeding",76,11,negative,0.8478
+"my interaction with customer care was pleasant, but customer care took time to respond but not a major concern",110,19,positive,0.607
+"the ordering experience felt worse than expected, and the app froze briefly during checkout which slightly affected my experience",129,19,negative,0.9291
+", the experience was better than expected, though everything worked fine which could be improved",96,15,positive,0.9561
+"the ordering experience felt mostly fine, though everything worked fine which could be improved",95,14,positive,0.8939
+"From my experience, the checkout process seemed satisfactory, and the app froze briefly during checkout and needs some improvement",130,19,positive,0.6143
+"from browsing to delivery, the experience was average, and the app froze briefly during checkout",96,15,negative,0.8206
+"the ordering experience felt a bit confusing, though the delivery was delayed by a couple of days and needs some improvement",124,21,negative,0.8191
+", the experience was fairly efficient, and tracking updates were not regular which slightly affected my experience",114,17,positive,0.8179
+"Got my order earlier than expected, everything was packed properly and nothing missing",86,13,positive,0.8343
+", my interaction with customer care was inconsistent, though support eventually resolved the issue",98,14,negative,0.6935
+"the ordering experience felt average, and tracking updates were not regular",75,11,negative,0.8569
+", the experience was frustrating, but customer care took time to respond",72,12,negative,0.8986
+"i found the buying process to be worse than expected, though the invoice was not easy to access",95,18,negative,0.9277
+", the delivery experience turned out to be satisfactory, though the return pickup was delayed",93,15,positive,0.9368
+", the delivery experience turned out to be smooth, though everything worked fine which slightly affected my experience",118,18,positive,0.8244
+", from browsing to delivery, the experience was not very impressive, though the delivery was delayed by a couple of days but manageable",135,23,negative,0.8808
+"From my experience, i found the buying process to be slightly disappointing, but payment failed once before succeeding",118,18,negative,0.8637
+It was ok kind of experience what else nothing much to add,58,12,positive,0.6496
+"the delivery experience turned out to be decent, but billing had a small discrepancy",84,14,positive,0.8763
+", the ordering experience felt satisfactory, but coupon application did not work properly but not a major concern",113,18,positive,0.4836
+"Support team was polite and actually helpful, not just scripted replies",71,11,positive,0.8295
+", the experience was satisfactory, and the final billed amount differed slightly which could be improved",104,16,positive,0.904
+", customer support was better than expected, though everything worked fine",74,11,positive,0.9569
+", my interaction with customer care was smooth, though the delivery was delayed by a couple of days which slightly affected my experience",137,23,neutral,0.5136
+"billing and payment were satisfactory, though support eventually resolved the issue",83,11,positive,0.7428
+"the delivery experience turned out to be worse than expected, but coupon application did not work properly but manageable",121,19,negative,0.9322
+", the delivery experience turned out to be inconsistent, though the delivery was delayed by a couple of days",108,19,negative,0.868
+Packaging was secure and product looked exactly like shown online,65,10,positive,0.6692
+"billing and payment were worse than expected, and the app froze briefly during checkout",87,14,negative,0.9319
+"billing and payment were slow at times, and the app lagged during checkout which slightly affected my experience",112,18,negative,0.8715
+", from browsing to delivery, the experience was decent, and tracking updates were not regular which slightly affected my experience",131,20,positive,0.8078
+", the delivery experience turned out to be pleasant, and tracking updates were not regular and needs some improvement",117,19,positive,0.9296
+", customer support was slow at times, and the app lagged during checkout",72,13,negative,0.912
+", the delivery experience turned out to be average, though the delivery was delayed by a couple of days",103,19,negative,0.7163
+"customer support was fairly efficient, though everything worked fine",68,9,positive,0.9218
+"billing and payment were mostly fine, and the final billed amount differed slightly",83,13,positive,0.5341
+", the ordering experience felt not very impressive, but payment failed once before succeeding",93,14,negative,0.9073
+", using the app was average, but payment failed once before succeeding",70,12,negative,0.6054
+"i found the buying process to be not very impressive, and refund processing was slower than promised which could be improved",124,21,negative,0.9144
+", the experience was worse than expected, but billing had a small discrepancy but not a major concern",101,18,negative,0.9043
+", the experience was frustrating, though the return pickup was delayed which slightly affected my experience",108,16,negative,0.9203
+"customer support was a bit confusing, and the app froze briefly during checkout which could be improved",103,17,negative,0.8642
+"my interaction with customer care was slow at times, but coupon application did not work properly",97,16,negative,0.8929
+Everything arrived in good condition and the whole process felt reliable,72,11,positive,0.938
+", the checkout process seemed average, and the final billed amount differed slightly",84,13,negative,0.6634
+", my interaction with customer care was quite good, but billing had a small discrepancy",87,15,positive,0.8936
+"billing and payment were decent, though support eventually resolved the issue and needs some improvement",104,15,positive,0.6384
+"my interaction with customer care was worse than expected, but coupon application did not work properly",103,16,negative,0.942
+"billing and payment were satisfactory, but customer care took time to respond which slightly affected my experience",115,17,neutral,0.5175
+"the checkout process seemed decent, though the invoice was not easy to access and needs some improvement",104,17,neutral,0.4853
+"my interaction with customer care was slightly disappointing, but customer care took time to respond which could be improved",124,19,negative,0.8542
+"billing and payment were satisfactory, but payment failed once before succeeding",80,11,neutral,0.4757
+", the delivery experience turned out to be not very impressive, and the app lagged during checkout which slightly affected my experience",136,22,negative,0.9274
+"From my experience, the checkout process seemed fairly efficient, though the delivery was delayed by a couple of days",117,19,positive,0.7198
+", customer support was smooth, but coupon application did not work properly but manageable",90,14,negative,0.4197
+"the ordering experience felt slightly disappointing, but communication from support could be better but manageable",114,15,negative,0.8668
+"my interaction with customer care was a bit confusing, and refund processing was slower than promised but not a major concern",125,21,negative,0.7705
+"the checkout process seemed decent, but billing had a small discrepancy but not a major concern",95,16,positive,0.6138
+", the experience was fairly efficient, but billing had a small discrepancy",74,12,positive,0.9043
+"using the app was decent, though the return pickup was delayed",62,11,positive,0.7627
+"From my experience, billing and payment were inconsistent, and the app lagged during checkout",93,14,negative,0.8442
+", the experience was inconsistent, though the return pickup was delayed",71,11,negative,0.8771
+", my interaction with customer care was inconsistent, though support eventually resolved the issue but manageable",113,16,negative,0.7398
+"the checkout process seemed mostly fine, but customer care took time to respond and needs some improvement",106,17,neutral,0.4951
+", the checkout process seemed better than expected, though the delivery was delayed by a couple of days",103,18,positive,0.8285
+", the experience was better than expected, and tracking updates were not regular",80,13,positive,0.9498
+", the ordering experience felt mostly fine, though everything worked fine but not a major concern",97,16,positive,0.8503
+", my interaction with customer care was quite good, and the app froze briefly during checkout",93,16,positive,0.9102
+"the ordering experience felt fairly efficient, though the return pickup was delayed which slightly affected my experience",121,17,positive,0.7318
+", i found the buying process to be worse than expected, though everything worked fine",85,15,negative,0.8152
+"From my experience, billing and payment were slow at times, but payment failed once before succeeding",101,16,negative,0.8005
+", customer support was inconsistent, though everything worked fine",66,9,negative,0.666
+", from browsing to delivery, the experience was smooth, and tracking updates were not regular but not a major concern",117,20,positive,0.7458
+"Didn’t face any issues from start to finish, which is rare these days",69,13,positive,0.5024
+"using the app was quite good, and tracking updates were not regular",67,12,positive,0.8741
+I can rate this high for sure superr,36,8,positive,0.9458
+"it was strictky ok ok, nothing great about it",45,9,negative,0.7284
+", customer support was frustrating, though the return pickup was delayed which slightly affected my experience",110,16,negative,0.9267
+", the experience was slightly disappointing, though support eventually resolved the issue",89,12,negative,0.8354
+"my interaction with customer care was decent, though the return pickup was delayed but manageable",97,15,positive,0.8413
+", customer support was pleasant, and tracking updates were not regular",70,11,positive,0.8708
+", the checkout process seemed slightly disappointing, but communication from support could be better which slightly affected my experience",138,19,negative,0.9065
+Good liked it next purchase soon,32,6,positive,0.9746
+", the experience was inconsistent, and the app lagged during checkout",69,11,negative,0.9113
+", the experience was smooth, but billing had a small discrepancy",64,11,positive,0.7733
+", customer support was satisfactory, but customer care took time to respond",75,12,positive,0.8826
+"From my experience, the delivery experience turned out to be decent, and the app lagged during checkout which slightly affected my experience",141,22,positive,0.8096
+"From my experience, billing and payment were inconsistent, and the final billed amount differed slightly",104,15,negative,0.6498
+"From my experience, the ordering experience felt slow at times, though everything worked fine",93,14,neutral,0.5143
+", the ordering experience felt worse than expected, though everything worked fine",81,12,negative,0.8021
+"i found the buying process to be a bit confusing, and the final billed amount differed slightly",95,17,negative,0.6869
+", customer support was slow at times, though the invoice was not easy to access",79,15,negative,0.8628
+", my interaction with customer care was slightly disappointing, but coupon application did not work properly",108,16,negative,0.9276
+", the ordering experience felt decent, and the app lagged during checkout",73,12,positive,0.8577
+", the ordering experience felt quite good, though the invoice was not easy to access",84,15,positive,0.933
+"my interaction with customer care was better than expected, but payment failed once before succeeding which slightly affected my experience",139,20,neutral,0.4395
+"from browsing to delivery, the experience was not very impressive, but payment failed once before succeeding",108,16,negative,0.8824
+", customer support was slow at times, though the delivery was delayed by a couple of days which slightly affected my experience",127,22,negative,0.8997
+", the experience was slightly disappointing, but billing had a small discrepancy but not a major concern",104,17,negative,0.877
+", the checkout process seemed decent, and refund processing was slower than promised",84,13,positive,0.8284
+"billing and payment were satisfactory, though the invoice was not easy to access but not a major concern",104,18,positive,0.5632
+", billing and payment were quite good, though the invoice was not easy to access",80,15,positive,0.8763
+"the ordering experience felt inconsistent, but communication from support could be better but not a major concern",113,17,negative,0.8083
+", the experience was satisfactory, and tracking updates were not regular",72,11,positive,0.9163
+I think its good Happy with strucuure,37,7,positive,0.9703
+"customer support was a bit confusing, and the app froze briefly during checkout",79,13,negative,0.8561
+", billing and payment were average, but payment failed once before succeeding and needs some improvement",104,16,negative,0.8174
+", my interaction with customer care was not very impressive, and refund processing was slower than promised",107,17,negative,0.929
+"well, using the app was average, though everything worked fine which could be improved",86,14,neutral,0.492
+", customer support was mostly fine, but customer care took time to respond but manageable",89,15,positive,0.7486
+"the checkout process seemed smooth, though support eventually resolved the issue",80,11,positive,0.5919
+"the checkout process seemed quite good, but coupon application did not work properly but manageable",99,15,positive,0.4327
+", from browsing to delivery, the experience was decent, but communication from support could be better which slightly affected my experience",140,21,positive,0.5293
+", billing and payment were frustrating, and the app lagged during checkout but manageable",89,14,negative,0.8846
+", the checkout process seemed average, but billing had a small discrepancy",74,12,neutral,0.5256
+", from browsing to delivery, the experience was pleasant, but customer care took time to respond but not a major concern",120,21,positive,0.8498
+"from browsing to delivery, the experience was mostly fine, though support eventually resolved the issue but not a major concern",127,20,positive,0.6291
+"From my experience, the ordering experience felt smooth, and the final billed amount differed slightly",102,15,positive,0.7061
+", billing and payment were worse than expected, but payment failed once before succeeding",89,14,negative,0.9123
+"the checkout process seemed pleasant, but coupon application did not work properly",82,12,negative,0.8524
+"the ordering experience felt pleasant, but customer care took time to respond",77,12,positive,0.904
+", using the app was decent, and the app froze briefly during checkout which slightly affected my experience",107,18,positive,0.4808
+"i found the buying process to be a bit confusing, and the app froze briefly during checkout which slightly affected my experience",129,22,negative,0.8311
+", billing and payment were frustrating, but communication from support could be better",86,13,negative,0.8775
+", from browsing to delivery, the experience was slightly disappointing, and tracking updates were not regular but not a major concern",133,21,negative,0.8727
+"using the app was smooth, but coupon application did not work properly",70,12,negative,0.6643
+", the checkout process seemed frustrating, and the final billed amount differed slightly",88,13,negative,0.8689
+"customer support was slow at times, but payment failed once before succeeding which could be improved",101,16,negative,0.8745
+", my interaction with customer care was a bit confusing, and the final billed amount differed slightly which slightly affected my experience",140,22,negative,0.8067
+"from browsing to delivery, the experience was quite good, and the app froze briefly during checkout but manageable",114,18,positive,0.9303
+", the checkout process seemed worse than expected, though everything worked fine",80,12,negative,0.7278
+", customer support was satisfactory, and the app lagged during checkout but not a major concern",95,16,positive,0.7421
+", i found the buying process to be a bit confusing, but communication from support could be better",98,18,negative,0.7986
+", the experience was smooth, though the return pickup was delayed which could be improved",89,15,positive,0.7881
+", the experience was better than expected, and the app froze briefly during checkout but not a major concern",108,19,positive,0.8903
+", from browsing to delivery, the experience was a bit confusing, though everything worked fine",94,15,neutral,0.5171
+"the checkout process seemed satisfactory, but customer care took time to respond",80,12,positive,0.8562
+", billing and payment were slow at times, though support eventually resolved the issue",86,14,negative,0.6491
+"billing and payment were slow at times, though the invoice was not easy to access but manageable",96,17,negative,0.7197
+", the checkout process seemed decent, and the app lagged during checkout",72,12,positive,0.7855
+", from browsing to delivery, the experience was a bit confusing, but payment failed once before succeeding which could be improved",130,21,negative,0.7796
+", the experience was slightly disappointing, though everything worked fine",74,10,negative,0.8019
+"i found the buying process to be average, but coupon application did not work properly",86,15,negative,0.9083
+"From my experience, my interaction with customer care was better than expected, and the app froze briefly during checkout but not a major concern",145,24,positive,0.8073
+"the checkout process seemed worse than expected, though support eventually resolved the issue which could be improved",117,17,negative,0.6839
+", the delivery experience turned out to be decent, though everything worked fine but manageable",95,15,positive,0.9345
+", the ordering experience felt frustrating, though the invoice was not easy to access",85,14,negative,0.8999
+"my interaction with customer care was satisfactory, though the return pickup was delayed which could be improved",112,17,positive,0.6717
+"i found the buying process to be inconsistent, but coupon application did not work properly",91,15,negative,0.898
+", the experience was quite good, but customer care took time to respond",71,13,positive,0.9531
+", the checkout process seemed pleasant, though everything worked fine",69,10,positive,0.9345
+"i found the buying process to be slightly disappointing, but communication from support could be better but not a major concern",127,21,negative,0.8701
+", my interaction with customer care was a bit confusing, and tracking updates were not regular and needs some improvement",121,20,negative,0.819
+", the experience was mostly fine, but coupon application did not work properly which slightly affected my experience",116,18,negative,0.5026
+", the delivery experience turned out to be worse than expected, and the app froze briefly during checkout but manageable",120,20,negative,0.9276
+", customer support was mostly fine, and the app froze briefly during checkout but manageable",92,15,positive,0.7433
+"Checkout process felt simple and didn’t take much time, which I liked",69,12,positive,0.8911
+", i found the buying process to be mostly fine, though support eventually resolved the issue",92,16,positive,0.7175
+", the experience was pleasant, and refund processing was slower than promised but not a major concern",101,17,positive,0.9063
+"the ordering experience felt fairly efficient, and refund processing was slower than promised which slightly affected my experience",131,18,positive,0.7582
+", using the app was worse than expected, but billing had a small discrepancy which slightly affected my experience",114,19,negative,0.9141
+"the delivery experience turned out to be a bit confusing, and tracking updates were not regular but manageable",110,18,negative,0.7677
+", the delivery experience turned out to be worse than expected, but billing had a small discrepancy",99,17,negative,0.8997
+"from browsing to delivery, the experience was better than expected, but communication from support could be better which slightly affected my experience",152,22,positive,0.7724
+", using the app was mostly fine, though support eventually resolved the issue",77,13,positive,0.6497
+", using the app was frustrating, and refund processing was slower than promised",79,13,negative,0.9263
+", using the app was mostly fine, though the return pickup was delayed but not a major concern",93,18,positive,0.5466
+", using the app was quite good, though the invoice was not easy to access",73,15,positive,0.8918
+", my interaction with customer care was satisfactory, and tracking updates were not regular",91,14,positive,0.846
+", the experience was fairly efficient, but communication from support could be better but manageable",100,15,positive,0.8612
+"the ordering experience felt mostly fine, though the delivery was delayed by a couple of days but manageable",108,18,positive,0.8184
+", from browsing to delivery, the experience was smooth, and tracking updates were not regular which slightly affected my experience",131,20,positive,0.652
+"using the app was slightly disappointing, and the app froze briefly during checkout",83,13,negative,0.9071
+", my interaction with customer care was average, though the invoice was not easy to access which slightly affected my experience",128,21,negative,0.8412
+", the checkout process seemed pleasant, though support eventually resolved the issue and needs some improvement",111,16,positive,0.8571
+"Honestly, this was one of the easier online purchases I’ve made recently",72,12,positive,0.9649
+"the ordering experience felt frustrating, but coupon application did not work properly and needs some improvement",113,16,negative,0.9321
+", my interaction with customer care was pleasant, and the final billed amount differed slightly which slightly affected my experience",133,20,positive,0.8194
+", the experience was a bit confusing, but coupon application did not work properly which slightly affected my experience",120,19,negative,0.894
+"my interaction with customer care was fairly efficient, though support eventually resolved the issue",100,14,positive,0.7482
+", i found the buying process to be pleasant, and the app froze briefly during checkout",86,16,positive,0.8772
+", my interaction with customer care was better than expected, and refund processing was slower than promised and needs some improvement",135,21,positive,0.8563
+", i found the buying process to be mostly fine, but coupon application did not work properly",92,17,negative,0.4663
+"my interaction with customer care was slightly disappointing, and the app lagged during checkout",96,14,negative,0.9285
+", i found the buying process to be slow at times, but communication from support could be better but not a major concern",120,23,negative,0.7828
+"i found the buying process to be frustrating, though the return pickup was delayed but manageable",97,16,negative,0.8912
+"the delivery experience turned out to be slow at times, and the final billed amount differed slightly which could be improved",125,21,negative,0.8527
+"the delivery experience turned out to be not very impressive, and the final billed amount differed slightly",107,17,negative,0.9099
+", customer support was better than expected, though the delivery was delayed by a couple of days",96,17,positive,0.9047
+", the checkout process seemed a bit confusing, and the final billed amount differed slightly",92,15,negative,0.6349
+"From my experience, billing and payment were better than expected, though the return pickup was delayed",103,16,positive,0.9006
+"my interaction with customer care was fairly efficient, but billing had a small discrepancy",91,14,positive,0.7306
+"my interaction with customer care was frustrating, but communication from support could be better and needs some improvement",124,18,negative,0.8427
+", the experience was pleasant, though support eventually resolved the issue but manageable",90,13,positive,0.9242
+", from browsing to delivery, the experience was quite good, though support eventually resolved the issue which slightly affected my experience",142,21,positive,0.8716
+", the experience was decent, but communication from support could be better",75,12,positive,0.8397
+"billing and payment were frustrating, but billing had a small discrepancy",73,11,negative,0.7492
+", from browsing to delivery, the experience was quite good, though support eventually resolved the issue",104,16,positive,0.9238
+", the ordering experience felt average, though support eventually resolved the issue but manageable",99,14,negative,0.7631
+"the ordering experience felt better than expected, but communication from support could be better",97,14,positive,0.9109
+"the checkout process seemed decent, though everything worked fine and needs some improvement",92,13,positive,0.8977
+", billing and payment were inconsistent, but coupon application did not work properly and needs some improvement",112,17,negative,0.9056
+", billing and payment were a bit confusing, and tracking updates were not regular which slightly affected my experience",119,19,negative,0.7989
+", i found the buying process to be worse than expected, and the final billed amount differed slightly which slightly affected my experience",139,23,negative,0.9266
+", the checkout process seemed decent, but communication from support could be better but not a major concern",108,18,positive,0.5858
+", the delivery experience turned out to be better than expected, but communication from support could be better",111,18,positive,0.9505
+", from browsing to delivery, the experience was frustrating, and the final billed amount differed slightly but not a major concern",130,21,negative,0.8771
+"Billing and payment were a bit confusing, and refund processing was slower than promised",88,14,negative,0.8559
+"Quite satisfied with how everything turned out, no complaints really",68,10,positive,0.9612
+", my interaction with customer care was quite good, though the invoice was not easy to access and needs some improvement",120,21,positive,0.792
+", from browsing to delivery, the experience was not very impressive, though the return pickup was delayed which slightly affected my experience",143,22,negative,0.9123
+", customer support was worse than expected, though the return pickup was delayed",80,13,negative,0.9352
+The app/site is easy to use and didn’t face any glitches while ordering,71,13,positive,0.9077
+", the experience was average, though the invoice was not easy to access but manageable",86,15,negative,0.7528
+", the ordering experience felt a bit confusing, and tracking updates were not regular which could be improved",109,18,negative,0.8076
+"the delivery experience turned out to be quite good, but coupon application did not work properly but not a major concern",121,21,positive,0.7398
+", the experience was quite good, though the return pickup was delayed",69,12,positive,0.966
+", the delivery experience turned out to be average, though everything worked fine",81,13,negative,0.4862
+"i found the buying process to be frustrating, though everything worked fine",75,12,negative,0.6399
+", customer support was quite good, and the app lagged during checkout",69,12,positive,0.9087
+"the ordering experience felt decent, but communication from support could be better",83,12,positive,0.7658
+"billing and payment were satisfactory, but coupon application did not work properly but not a major concern",107,17,neutral,0.4763
+"billing and payment were a bit confusing, though the return pickup was delayed which slightly affected my experience",116,18,negative,0.7952
+"the delivery experience turned out to be smooth, but billing had a small discrepancy which could be improved",108,18,positive,0.7308
+", using the app was a bit confusing, and the app froze briefly during checkout but not a major concern",102,20,negative,0.5849
+"From my experience, my interaction with customer care was smooth, but billing had a small discrepancy but not a major concern",125,21,positive,0.5263
+", from browsing to delivery, the experience was slightly disappointing, but billing had a small discrepancy",107,16,negative,0.8707
+", from browsing to delivery, the experience was pleasant, though support eventually resolved the issue which slightly affected my experience",140,20,positive,0.8161
+"from browsing to delivery, the experience was inconsistent, but payment failed once before succeeding",101,14,negative,0.7995
+", my interaction with customer care was not very impressive, but customer care took time to respond",99,17,negative,0.8687
+"From my experience, using the app was decent, though everything worked fine and needs some improvement",102,16,positive,0.8738
+", billing and payment were slightly disappointing, but coupon application did not work properly and needs some improvement",122,18,negative,0.9265
+"the checkout process seemed slightly disappointing, though the delivery was delayed by a couple of days but manageable",118,18,negative,0.8853
+", customer support was not very impressive, and the app lagged during checkout but manageable",93,15,negative,0.9264
+", i found the buying process to be frustrating, and refund processing was slower than promised and needs some improvement",121,20,negative,0.9228
+"the ordering experience felt inconsistent, though the invoice was not easy to access but manageable",99,15,negative,0.825
+", the delivery experience turned out to be smooth, and the app lagged during checkout",85,15,positive,0.8661
+", using the app was not very impressive, but customer care took time to respond",79,15,negative,0.8954
+", i found the buying process to be slow at times, and tracking updates were not regular but not a major concern",111,22,negative,0.7367
+"my interaction with customer care was better than expected, but customer care took time to respond but manageable",113,18,positive,0.8798
+", the experience was not very impressive, though everything worked fine which could be improved",95,15,negative,0.8421
+", using the app was average, but payment failed once before succeeding which slightly affected my experience",108,17,negative,0.7795
+"the delivery experience turned out to be a bit confusing, and the app lagged during checkout",92,16,negative,0.842
+"the checkout process seemed inconsistent, but customer care took time to respond which slightly affected my experience",118,17,negative,0.858
+"From my experience, the ordering experience felt inconsistent, though the delivery was delayed by a couple of days",114,18,negative,0.8246
+", my interaction with customer care was satisfactory, though the delivery was delayed by a couple of days but not a major concern",129,23,positive,0.7452
+"from browsing to delivery, the experience was satisfactory, though everything worked fine",89,12,positive,0.9417
+"From my experience, billing and payment were smooth, but billing had a small discrepancy which could be improved",112,18,positive,0.4946
+"From my experience, the checkout process seemed quite good, and the final billed amount differed slightly",105,16,positive,0.8821
+"using the app was not very impressive, but payment failed once before succeeding which could be improved",104,17,negative,0.8987
+", the checkout process seemed slightly disappointing, and refund processing was slower than promised",100,14,negative,0.9255
+", the checkout process seemed smooth, but billing had a small discrepancy",73,12,neutral,0.5166
+"billing and payment were fairly efficient, and the app lagged during checkout",77,12,positive,0.7173
+"customer support was average, though support eventually resolved the issue",74,10,negative,0.6849
+"the delivery experience turned out to be a bit confusing, though the invoice was not easy to access",99,18,negative,0.8005
+", billing and payment were satisfactory, and tracking updates were not regular but not a major concern",102,17,positive,0.6813
+"the checkout process seemed average, but customer care took time to respond",75,12,negative,0.4465
+"From my experience, the delivery experience turned out to be mostly fine, though the invoice was not easy to access but manageable",130,22,positive,0.8108
+", the delivery experience turned out to be slightly disappointing, but coupon application did not work properly",111,17,negative,0.9272
+"customer support was frustrating, and tracking updates were not regular and needs some improvement",98,14,negative,0.921
+"i found the buying process to be slightly disappointing, and the app froze briefly during checkout but manageable",113,18,negative,0.8927
+", the experience was decent, but payment failed once before succeeding",70,11,positive,0.6536
+", the checkout process seemed smooth, but customer care took time to respond and needs some improvement",103,17,neutral,0.522
+", from browsing to delivery, the experience was a bit confusing, and refund processing was slower than promised",111,18,negative,0.869
+"the checkout process seemed quite good, but communication from support could be better",86,13,positive,0.8297
+"customer support was average, but billing had a small discrepancy which could be improved",89,14,negative,0.6987
+", using the app was smooth, and refund processing was slower than promised which slightly affected my experience",112,18,neutral,0.5472
+"the ordering experience felt satisfactory, but coupon application did not work properly but manageable",102,14,neutral,0.414
+"my interaction with customer care was not very impressive, but payment failed once before succeeding but not a major concern",124,20,negative,0.8789
+", the ordering experience felt average, and tracking updates were not regular which could be improved",101,16,negative,0.8606
+full marks keep it up,21,5,positive,0.9099
+", from browsing to delivery, the experience was quite good, but customer care took time to respond",98,17,positive,0.9536
+"From my experience, using the app was mostly fine, but coupon application did not work properly",95,16,negative,0.6199
+", i found the buying process to be better than expected, though the delivery was delayed by a couple of days",108,21,positive,0.9144
+"using the app was smooth, but communication from support could be better",72,12,positive,0.5962
+", using the app was fairly efficient, though the invoice was not easy to access but manageable",94,17,positive,0.8374
+", the ordering experience felt a bit confusing, though the delivery was delayed by a couple of days",99,18,negative,0.7926
+", the experience was frustrating, and tracking updates were not regular which slightly affected my experience",109,16,negative,0.9208
+", i found the buying process to be not very impressive, and refund processing was slower than promised",102,18,negative,0.9235
+", the experience was satisfactory, though the invoice was not easy to access",76,13,positive,0.8922
+"using the app was inconsistent, but customer care took time to respond",70,12,negative,0.732
+", customer support was a bit confusing, but payment failed once before succeeding",81,13,negative,0.7874
+"the ordering experience felt slow at times, and the app lagged during checkout but manageable",93,15,negative,0.8037
+", the delivery experience turned out to be slow at times, but customer care took time to respond but not a major concern",120,23,negative,0.7326
+", the experience was better than expected, and the app froze briefly during checkout but manageable",99,16,positive,0.9417
+", the delivery experience turned out to be slightly disappointing, and the app froze briefly during checkout and needs some improvement",135,21,negative,0.9241
+"my interaction with customer care was quite good, though everything worked fine but not a major concern",103,17,positive,0.8947
+"the ordering experience felt quite good, though the return pickup was delayed",77,12,positive,0.957
+"my interaction with customer care was pleasant, and the app froze briefly during checkout which could be improved",113,18,positive,0.7728
+", billing and payment were decent, though everything worked fine which could be improved",88,14,positive,0.8982
+", i found the buying process to be better than expected, though the return pickup was delayed",93,17,positive,0.911
+"my interaction with customer care was decent, though the return pickup was delayed",82,13,positive,0.7844
+", from browsing to delivery, the experience was frustrating, though support eventually resolved the issue but manageable",120,17,negative,0.8748
+", the experience was satisfactory, and refund processing was slower than promised which could be improved",105,16,positive,0.8763
+"the checkout process seemed satisfactory, but coupon application did not work properly but manageable",101,14,negative,0.4679
+"the ordering experience felt better than expected, but payment failed once before succeeding which slightly affected my experience",130,18,neutral,0.4188

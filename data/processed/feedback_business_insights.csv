@@ -1,0 +1,7 @@
+Theme,Total_Clauses,Positive_Rate,Neutral_Rate,Negative_Rate,Main_Finding,Recommended_Action
+Coupon / Promotion,70,0.0,0.0,100.0,Coupon application failures were consistently identified in the feedback.,Investigate coupon redemption logic and test the promotion application process.
+App,214,20.5607476635514,1.8691588785046727,77.57009345794393,App lagging and freezing during checkout were the main recurring problems.,"Prioritise app stability and performance, especially during checkout."
+Checkout / Ordering,411,36.009732360097324,0.24330900243309003,63.74695863746959,Checkout friction was frequently associated with app lagging or freezing and disappointing ordering experiences.,Reduce checkout friction and investigate technical issues affecting the ordering process.
+Delivery,309,14.563106796116504,30.097087378640776,55.33980582524271,Delivery delays and delayed return pickups were recurring issues.,Improve delivery reliability and the return pickup process.
+Billing / Payment,276,15.579710144927535,55.072463768115945,29.347826086956523,"Payment failures, billing discrepancies and inconsistent payment experiences appeared repeatedly.",Improve payment reliability and verify billing accuracy.
+Customer Support,355,29.295774647887324,42.816901408450704,27.887323943661972,"Feedback was relatively balanced, although slow or unclear support interactions appeared in negative comments.",Improve response speed and communication clarity while maintaining successful issue resolution.
