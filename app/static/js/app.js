@@ -1,7 +1,3 @@
-// --------------------------------------------------
-// Single Customer Prediction
-// --------------------------------------------------
-
 const form = document.getElementById(
     "prediction-form"
 );
@@ -158,9 +154,6 @@ form.addEventListener(
 );
 
 
-// --------------------------------------------------
-// Batch Prediction
-// --------------------------------------------------
 
 const batchForm = document.getElementById(
     "batch-form"
@@ -369,9 +362,6 @@ batchForm.addEventListener(
 );
 
 
-// --------------------------------------------------
-// Download Batch Predictions
-// --------------------------------------------------
 
 function downloadPredictions() {
 

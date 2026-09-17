@@ -16,9 +16,6 @@ from fastapi.templating import Jinja2Templates
 from pydantic import BaseModel, Field
 
 
-# --------------------------------------------------
-# Find project root
-# --------------------------------------------------
 
 current_file = Path(__file__).resolve()
 
@@ -36,9 +33,6 @@ else:
     )
 
 
-# --------------------------------------------------
-# Model configuration
-# --------------------------------------------------
 
 MODEL_FILE = (
     PROJECT_ROOT
@@ -63,9 +57,6 @@ FEATURES = [
 ]
 
 
-# --------------------------------------------------
-# FastAPI application
-# --------------------------------------------------
 
 app = FastAPI(
     title="Retail Campaign Response API",
@@ -73,9 +64,6 @@ app = FastAPI(
 )
 
 
-# --------------------------------------------------
-# Static files
-# --------------------------------------------------
 
 app.mount(
     "/static",
@@ -88,9 +76,6 @@ app.mount(
 )
 
 
-# --------------------------------------------------
-# HTML templates
-# --------------------------------------------------
 
 templates = Jinja2Templates(
     directory=PROJECT_ROOT
@@ -99,9 +84,6 @@ templates = Jinja2Templates(
 )
 
 
-# --------------------------------------------------
-# Single prediction input model
-# --------------------------------------------------
 
 class CustomerInput(BaseModel):
 
@@ -137,9 +119,6 @@ class CustomerInput(BaseModel):
     )
 
 
-# --------------------------------------------------
-# Home page
-# --------------------------------------------------
 
 @app.get("/")
 def root(
@@ -152,9 +131,6 @@ def root(
     )
 
 
-# --------------------------------------------------
-# Single customer prediction
-# --------------------------------------------------
 
 @app.post("/predict")
 def predict(
@@ -212,18 +188,13 @@ def predict(
     }
 
 
-# --------------------------------------------------
-# Batch prediction
-# --------------------------------------------------
 
 @app.post("/predict-batch")
 def predict_batch(
     file: UploadFile = File(...)
 ):
 
-    # ----------------------------------------------
-    # Validate file extension
-    # ----------------------------------------------
+
 
     if not file.filename.lower().endswith(
         ".csv"
@@ -237,9 +208,6 @@ def predict_batch(
         )
 
 
-    # ----------------------------------------------
-    # Read CSV
-    # ----------------------------------------------
 
     try:
 
@@ -257,9 +225,6 @@ def predict_batch(
         ) from error
 
 
-    # ----------------------------------------------
-    # Validate required columns
-    # ----------------------------------------------
 
     missing_columns = [
 
@@ -286,18 +251,12 @@ def predict_batch(
         )
 
 
-    # ----------------------------------------------
-    # Select model input columns
-    # ----------------------------------------------
 
     batch_input = batch_data[
         FEATURES
     ].copy()
 
 
-    # ----------------------------------------------
-    # Convert model columns to numeric
-    # ----------------------------------------------
 
     try:
 
@@ -319,9 +278,6 @@ def predict_batch(
         ) from error
 
 
-    # ----------------------------------------------
-    # Validate missing values
-    # ----------------------------------------------
 
     required_non_null = [
 
@@ -347,9 +303,6 @@ def predict_batch(
         )
 
 
-    # ----------------------------------------------
-    # Validate negative values
-    # ----------------------------------------------
 
     if (
         (batch_input["total_sales"] < 0).any()
@@ -387,9 +340,6 @@ def predict_batch(
         )
 
 
-    # ----------------------------------------------
-    # Validate NPS
-    # ----------------------------------------------
 
     valid_nps = (
 
@@ -419,9 +369,6 @@ def predict_batch(
         )
 
 
-    # ----------------------------------------------
-    # Validate loyalty
-    # ----------------------------------------------
 
     if not batch_input[
         "loyalty"
@@ -438,9 +385,6 @@ def predict_batch(
         )
 
 
-    # ----------------------------------------------
-    # Generate predictions
-    # ----------------------------------------------
 
     probabilities = model.predict_proba(
         batch_input
@@ -452,9 +396,6 @@ def predict_batch(
     )
 
 
-    # ----------------------------------------------
-    # Build response
-    # ----------------------------------------------
 
     results = []
 
