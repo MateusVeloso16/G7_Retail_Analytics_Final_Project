@@ -29,10 +29,11 @@
         </p>
 
 
+        <!-- Single Customer Prediction -->
+
         <form id="prediction-form">
 
             <div class="form-grid">
-
 
                 <div class="form-group">
 
@@ -162,6 +163,8 @@
         </form>
 
 
+        <!-- Single Prediction Result -->
+
         <div
             id="result"
             class="result-card"
@@ -172,6 +175,45 @@
             <p>
                 Submit customer data to see the prediction.
             </p>
+
+        </div>
+
+
+        <!-- Batch Prediction -->
+
+        <div class="batch-section">
+
+            <h2>Batch Prediction</h2>
+
+            <p>
+                Upload a CSV file containing multiple customers
+                to generate predictions in batch.
+            </p>
+
+
+            <form id="batch-form">
+
+                <input
+                    type="file"
+                    id="batch-file"
+                    accept=".csv"
+                    required
+                >
+
+                <button type="submit">
+                    Upload and Predict
+                </button>
+
+            </form>
+
+
+            <div id="batch-result">
+
+                <p>
+                    Upload a CSV file to see batch prediction results.
+                </p>
+
+            </div>
 
         </div>
 
