@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Retail Campaign Analytics</title>
+
+    <link
+        rel="stylesheet"
+        href="/static/css/style.css"
+    >
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Retail Campaign Analytics</h1>
+
+        <p class="subtitle">
+            Enter customer information to estimate the probability
+            of responding to the marketing campaign.
+        </p>
+
+
+        <form id="prediction-form">
+
+            <div class="form-grid">
+
+
+                <div class="form-group">
+
+                    <label for="total_sales">
+                        Total Sales
+                    </label>
+
+                    <input
+                        type="number"
+                        id="total_sales"
+                        step="0.01"
+                        min="0"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="unique_products">
+                        Unique Products
+                    </label>
+
+                    <input
+                        type="number"
+                        id="unique_products"
+                        min="0"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="number_of_invoices">
+                        Number of Invoices
+                    </label>
+
+                    <input
+                        type="number"
+                        id="number_of_invoices"
+                        min="0"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="nps">
+                        NPS
+                    </label>
+
+                    <input
+                        type="number"
+                        id="nps"
+                        min="0"
+                        max="10"
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="n_comp">
+                        Number of Complaints
+                    </label>
+
+                    <input
+                        type="number"
+                        id="n_comp"
+                        min="0"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="n_communications">
+                        Number of Communications
+                    </label>
+
+                    <input
+                        type="number"
+                        id="n_communications"
+                        min="0"
+                        required
+                    >
+
+                </div>
+
+
+                <div class="form-group">
+
+                    <label for="loyalty">
+                        Loyalty
+                    </label>
+
+                    <select
+                        id="loyalty"
+                        required
+                    >
+                        <option value="0">
+                            No
+                        </option>
+
+                        <option value="1">
+                            Yes
+                        </option>
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <button type="submit">
+                Predict Response
+            </button>
+
+        </form>
+
+
+        <div
+            id="result"
+            class="result-card"
+        >
+
+            <h2>Prediction Result</h2>
+
+            <p>
+                Submit customer data to see the prediction.
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <script src="/static/js/app.js"></script>
+
+</body>
+
+</html>
