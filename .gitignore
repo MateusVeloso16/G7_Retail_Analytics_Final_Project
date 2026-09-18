@@ -24,3 +24,7 @@ data/raw/
 
 # Intermediate datasets
 data/interim/
+
+
+mlflow.db
+mlruns/

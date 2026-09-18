@@ -33,5 +33,6 @@ build-backend = "uv_build"
 
 [dependency-groups]
 dev = [
+    "mlflow>=3.16.1",
     "pytest>=9.1.1",
 ]
