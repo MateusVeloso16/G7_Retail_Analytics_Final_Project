@@ -1,7 +1,7 @@
 [project]
 name = "g7-retail-analytics-final-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "End-to-end retail analytics project covering customer segmentation, campaign response prediction, sentiment analysis, FastAPI deployment, Docker and CI."
 readme = "README.md"
 authors = [
     { name = "MateusVeloso16", email = "mateus.16.veloso@gmail.com" }
