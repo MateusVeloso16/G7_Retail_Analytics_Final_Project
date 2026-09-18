@@ -4,9 +4,10 @@ version = "0.1.0"
 description = "End-to-end retail analytics project covering customer segmentation, campaign response prediction, sentiment analysis, FastAPI deployment, Docker and CI."
 readme = "README.md"
 authors = [
-    { name = "MateusVeloso16", email = "mateus.16.veloso@gmail.com" }
+    { name = "Mateus Veloso dos Santos", email = "mateus.16.veloso@gmail.com" }
 ]
 requires-python = ">=3.13"
+
 dependencies = [
     "fastapi>=0.141.1",
     "ipykernel>=7.3.0",
@@ -23,9 +24,6 @@ dependencies = [
     "uvicorn>=0.53.0",
     "xgboost>=3.4.1",
 ]
-
-[project.scripts]
-g7-retail-analytics-final-project = "g7_retail_analytics_final_project:main"
 
 [build-system]
 requires = ["uv_build>=0.12.3,<0.13.0"]

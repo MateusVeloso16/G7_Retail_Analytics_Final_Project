@@ -37,6 +37,7 @@ The project was developed in the following stages:
 8. API Testing
 9. Docker Containerisation
 10. Continuous Integration
+11. MLflow Experiment Tracking
 
 ---
 
@@ -317,6 +318,7 @@ Generates predictions for multiple customers from a CSV file.
 - GitHub Actions
 - Pytest
 - uv
+- MLflow
 
 ---
 
@@ -354,10 +356,15 @@ G7_Retail_Analytics_Final_Project/
 │
 ├── src/
 │   └── g7_retail_analytics_final_project/
+│       └── models/
+│           ├── train_model.py
+│           └── mlflow_experiments.py
 │
 ├── tests/
 │   └── test_api.py
 │
+├── .dockerignore
+├── .gitignore
 ├── Dockerfile
 ├── pyproject.toml
 ├── uv.lock
@@ -448,6 +455,57 @@ GitHub Actions is configured to automatically run the API test suite whenever:
 - A pull request is opened against `main`.
 
 This helps ensure that changes do not break the prediction application.
+
+The workflow is defined in:
+
+```text
+.github/workflows/ci.yml
+```
+
+---
+
+## Experiment Tracking
+
+**MLflow** is used to track and compare the machine learning experiments.
+
+The following models are registered as separate MLflow runs:
+
+- Gaussian Naive Bayes
+- Random Forest
+- Support Vector Machine
+- XGBoost
+
+For each model, MLflow records:
+
+- Model parameters
+- Training ROC-AUC
+- Test ROC-AUC
+- Accuracy
+- Sensitivity
+- Specificity
+- Balanced Accuracy
+
+The experiment reproduced the results obtained during the machine learning analysis, with Random Forest achieving the highest test ROC-AUC of **0.7249**.
+
+Run the experiment tracking script with:
+
+```bash
+uv run python src/g7_retail_analytics_final_project/models/mlflow_experiments.py
+```
+
+Start the MLflow interface with:
+
+```bash
+uv run mlflow ui --backend-store-uri sqlite:///mlflow.db --host 127.0.0.1 --port 5000
+```
+
+Then open:
+
+```text
+http://127.0.0.1:5000
+```
+
+The local MLflow database is excluded from Git version control through `.gitignore`.
 
 ---
 
